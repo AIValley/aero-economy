@@ -1,7 +1,10 @@
 ---
-source_url: https://mp.weixin.qq.com/s/LHQMmhicUiBWRWP72MKvjw
-ingested: 2026-06-08
-sha256: pending
+title: 【低空评论】《空中游览市场管理暂行办法》对通航企业开展空中游览业务的合规要点分析
+author: 张磊律师
+source: 微信公众号
+url: https://mp.weixin.qq.com/s/LHQMmhicUiBWRWP72MKvjw
+series: 磊律低空经验系列
+ingested_at: 2026-06-08
 ---
 
 # 《空中游览市场管理暂行办法》解读 — 通航企业合规要点

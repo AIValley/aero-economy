@@ -665,3 +665,132 @@
 - **Key content:** 三层面全指南（宏观准入+运营合规+商业风险）；空域审批/适航认证/资质许可；本土合作伙伴/IP保护/地方政策差异/供应链；国家安全审查与数据合规
 - **Merged into:** `concepts/low-altitude-foreign-investment-negative-list.md` — expanded from 负面清单指南 to 外商入华全指南
 - **Updated:** `index.md` — updated entry description; page count unchanged at 107
+## [2026-06-08] ingest | low-altitude-foreign-investment-negative-list-zh
+- **Source:** `raw/articles/low-altitude-foreign-investment-negative-list-zh.md` — 外商投资准入负面清单（2024年版）对通用航空及低空经济限制（张磊律师 中文版）
+- **Key content:** 2024版负面清单中文版：通航控制权限制/外资持股<50%/农机渔通航仅限合资/机场中方相对控股/无人机数据服务外资≤50%/测绘地理信息禁止外资
+- **Merged into:** `concepts/low-altitude-foreign-investment-negative-list.md` — added to ingested_from
+- **Updated:** `index.md` — page count unchanged at 107
+## [2026-06-08] ingest | low-altitude-cross-border-ma-volocopter
+- **Source:** `raw/articles/low-altitude-cross-border-ma-volocopter.md` — 万丰奥威收购eVTOL先驱Volocopter之跨境资产收购法律风险（张磊律师）
+- **Key content:** Volocopter案例（1,000万欧元收购账面4,200万欧元资产）+股权vs资产收购对比+五大风险（目标国审查/反垄断/制裁/合同陷阱/IP/劳动法/ODI合规）+三维应对体系
+- **Created:** `concepts/low-altitude-cross-border-ma-guide.md` — concept page: 跨境资产收购全指南+Volocopter案例+风险矩阵+应对策略
+- **Updated:** `index.md` — added [[low-altitude-cross-border-ma-guide]]; bumped total pages from 107 to 108
+## [2026-06-08] ingest | tensor-ag-foreign-investment-low-altitude
+- **Source:** `raw/articles/tensor-ag-foreign-investment-low-altitude.md` — 德国TENSOR AG中国项目+外国企业投资中国低空经济的八大注意事项（张磊律师）
+- **Key content:** TENSOR AG案例（苏州吴江1亿美元+宿迁3,000万美元）；八大框架（政策合规/市场准入/IP保护/供应链/环保/地缘政治/文化/人才）
+- **Merged into:** `concepts/low-altitude-foreign-investment-negative-list.md` — added 八大框架 with TENSOR AG case study
+- **Updated:** `index.md` — page count unchanged at 108
+## [2026-06-08] ingest | civil-aviation-law-low-altitude-leilv
+- **Source:** `raw/articles/civil-aviation-law-low-altitude-leilv.md` — 新修订《民用航空法》低空经济关键条款梳理（张磊律师）
+- **Key content:** 六大核心：空域管理原则（低空经济需要入法）+发展促进专章+通航分类管理+无人机适航/识别码+基建简化审批+飞行管理优化
+- **Merged into:** `concepts/civil-aviation-law-low-altitude.md` — added as second source
+- **Updated:** `index.md` — page count unchanged at 108
+## [2026-06-08] promote | private-investment-low-altitude-policy
+- **Source:** `raw/articles/private-investment-low-altitude-policy.md` — 国务院《促进民间投资若干措施》低空经济条款解读（张磊律师）
+- **Key content:** 四大影响（提振信心/基建加速/审批优化/产业链协同）+五投资启示（基建/技术攻关/数字化/REITs/合规风控）
+- **Created:** `concepts/private-investment-low-altitude-policy.md` — concept page created (previously only in Policy reading list)
+- **Updated:** `index.md` — moved from Policy reading list to Concepts section; bumped total pages from 108 to 109
+## [2026-06-08] promote | shandong-drone-safety-regulation
+- **Source:** `raw/articles/shandong-drone-safety-regulation.md` — 山东无人机公共安全管理办法合规解读（张磊律师）
+- **Key content:** 2026.1.1施行+持证登记+UTMISS空域申请+强制保险+十项行为规范+九禁止+全链条监管（生产/销售/租赁）+公安机关现场处置权+三层级罚则
+- **Created:** `concepts/shandong-drone-safety-regulation.md` — concept page created (previously only in raw)
+- **Updated:** `index.md` — added [[shandong-drone-safety-regulation]]; bumped total pages from 109 to 110
+## [2026-06-08] enrich | guangdong-low-altitude-policy
+- **Source:** `raw/articles/guangdong-low-altitude-support-measures.md` — 广东省支持低空经济高质量发展若干措施解读（张磊律师）
+- **Key content:** 七大政策突破+六项企业行动指南（方向/资金/技术/取证/场景/金融数据）
+- **Enriched:** `concepts/guangdong-low-altitude-policy.md` — added frontmatter, 企业行动指南 section
+- **Updated:** `index.md` — page count unchanged at 110
+## [2026-06-08] enrich | ai-transportation-low-altitude-opportunities
+- **Source:** `raw/articles/ai-transportation-low-altitude-opportunities.md` — 七部门AI+交通运输实施意见低空经济商业机会（张磊律师）
+- **Key content:** 五大商业机会+五大产业影响+DaaS无人机即服务等新业态
+- **Enriched:** `concepts/ai-transportation-low-altitude-opportunities.md` — added frontmatter, 产业影响 table
+- **Updated:** `index.md` — page count unchanged at 110
+## [2026-06-08] enrich | air-tour-market-compliance
+- **Source:** `raw/articles/air-tour-market-regulation.md` — 空中游览市场管理暂行办法合规要点分析（张磊律师）
+- **Key content:** 证照/保险/活动界限/安保/应急/明码标价/信息告知/游客数据/投诉处理/备案全链条
+- **Enriched:** `concepts/air-tour-market-compliance.md` — added 企业行动建议（自查/培训/合作方/地方细则）
+- **Updated:** `index.md` — page count unchanged at 110
+## [2026-06-08] enrich | state-council-ai-plus-low-altitude
+- **Source:** `raw/articles/state-council-ai-plus-low-altitude.md` — 国务院"人工智能+"行动意见低空经济影响分析（张磊律师）
+- **Key content:** 两处关键表述（农业无人机+低空飞行技术融合）+四大影响（智能化/场景/安全/标准生态）
+- **Enriched:** `concepts/state-council-ai-plus-low-altitude.md` — updated frontmatter; page content already comprehensive
+- **Updated:** `index.md` — page count unchanged at 110
+## [2026-06-08] ingest | wuxi-suzhou-low-altitude-regulation-comparison
+- **Source:** `raw/articles/wuxi-suzhou-low-altitude-regulation-comparison.md` — 无锡vs苏州低空经济促进条例特点及差异对比（张磊律师）
+- **Key content:** 2025.10.1施行+无锡五特点（绿色低碳/民生应急/基建集约/区域协同/安全监管）+苏州五特点（全产业链/创新载体/场景多元/基建统筹/安全体系）+五大维度差异表
+- **Created:** `concepts/wuxi-suzhou-low-altitude-regulation-comparison.md` — concept page: 对比表+各自主打方向
+- **Updated:** `index.md` — added [[wuxi-suzhou-low-altitude-regulation-comparison]]; bumped total pages from 110 to 111
+## [2026-06-08] ingest | guangdong-data-empower-low-altitude
+- **Source:** `raw/articles/guangdong-data-empower-low-altitude.md` — 广东数据赋能低空经济实施方案亮点及影响（张磊律师）
+- **Key content:** 国内首个省级数据要素驱动低空经济专项文件+八大亮点+七大影响+两步目标（2026标准体系/2027可信数据空间）
+- **Created:** `concepts/guangdong-data-empower-low-altitude.md` — concept page
+- **Updated:** `index.md` — added [[guangdong-data-empower-low-altitude]]; bumped total pages from 111 to 112
+## [2026-06-08] ingest | general-airport-management-regulation
+- **Source:** `raw/articles/general-airport-management-regulation.md` — 《通用机场管理规定》要点梳理与合规评析（张磊律师）
+- **Key content:** 首部通用机场专项管理规章+六要点（双维度分类/场址科学/设计审查/许可备案差异/安全责任/阶梯处罚）+A类/B类/工程/动态四大合规评析
+- **Created:** `concepts/general-airport-management-regulation.md` — concept page
+- **Updated:** `index.md` — added [[general-airport-management-regulation]]; bumped total pages from 112 to 113
+## [2026-06-08] ingest | civil-aviation-law-draft-review
+- **Source:** `raw/articles/civil-aviation-law-draft-review.md` — 民航法修订草案征求意见稿低空经济条款梳理（张磊律师）
+- **Key content:** 2025.2草案（255条/15章）六维度：空域管理/通航发展/无人机/安全保障/监管优化/国际合作
+- **Merged into:** `concepts/civil-aviation-law-low-altitude.md` — added as third source + 立法回顾note
+- **Updated:** `index.md` — page count unchanged at 113
+## [2026-06-08] ingest | guangzhou-low-altitude-regulation
+- **Source:** `raw/articles/guangzhou-low-altitude-regulation.md` — 广州低空经济发展条例评析（张磊律师/上海证券报）
+- **Key content:** 2025.2.28施行+8章41条+广东省内第三个市级法规（深圳→珠海→广州）+空港委统筹+社会资本参与基建+低空安全保障基金+保险创新+反制体系
+- **Created:** `concepts/guangzhou-low-altitude-regulation.md` — concept page
+- **Updated:** `index.md` — added [[guangzhou-low-altitude-regulation]]; bumped total pages from 113 to 114
+
+## [2026-06-08] ingest | low-altitude-strategic-positioning-guide
+- **Source:** `raw/articles/development-commentary-ecosystem-vs-vertical-leader.md` — 张磊律师：低空经济企业战略定位——生态构建者 vs 垂直领域领军者
+- **Key content:** 双路径利弊分析 + 四类企业动态适配建议 + 从"单点突破"到"生态赋能"的协同进化
+- **Created:** `concepts/low-altitude-strategic-positioning-guide.md` — concept page
+- **Updated:** `index.md` — added [[low-altitude-strategic-positioning-guide]]; bumped total pages from 114 to 115
+
+## [2026-06-08] ingest | low-altitude-competitive-advantage-guide
+- **Source:** `raw/articles/development-commentary-competitive-advantage.md` — 张磊律师：低空经济企业构建竞争优势的思考
+- **Key content:** 三阶段竞争框架：短期技术壁垒（飞行性能/智能自主/通信导航）→ 中期运营数据飞轮（垂直整合/数据飞轮/客户粘性）→ 长期生态位构建（做深做透/标准制定/战略联盟）
+- **Created:** `concepts/low-altitude-competitive-advantage-guide.md` — concept page
+- **Updated:** `index.md` — added [[low-altitude-competitive-advantage-guide]]; bumped total pages from 115 to 116
+
+## [2026-06-08] ingest | low-altitude-private-enterprise-strategy-guide
+- **Source:** `raw/articles/low-altitude-development-private-enterprise-strategy.md` — 张磊律师：民营企业掘金低空经济的市场策略和思路参考
+- **Key content:** 毕马威报告170+上市企业分析为引；国企vs民企分工四维表；四大切入路径（配套专家/生态伙伴/场景深耕/资本策略）；三条发展思路
+- **Created:** `concepts/low-altitude-private-enterprise-strategy-guide.md` — concept page
+- **Updated:** `index.md` — added [[low-altitude-private-enterprise-strategy-guide]]; bumped total pages from 116 to 117
+
+## [2026-06-08] ingest | 2025-low-altitude-regulatory-trends
+- **Source:** `raw/articles/low-altitude-commentary-2025-regulatory-trends.md` — 张磊律师：2025年来中国低空经济领域监管政策趋势简述
+- **Key content:** 六大趋势（顶层统筹/安全防控/空域革新/标准建设/场景拓展/产业升级）+ 四大特点（安全优先/军地民协同/技术驱动/地域特色化）
+- **Created:** `concepts/2025-low-altitude-regulatory-trends.md` — concept page
+- **Updated:** `index.md` — added [[2025-low-altitude-regulatory-trends]]; bumped total pages from 117 to 118
+
+## [2026-06-08] ingest | 2025-low-altitude-investment-ma-trends
+- **Source:** `raw/articles/low-altitude-development-2025-investment-ma-trends.md` — 张磊律师：2025年来中国低空经济领域投资并购趋势的简要分析
+- **Key content:** 截至2025.8.18数据：160起/115.94亿元；七大趋势；投资逻辑三转变（软硬件→全生态/通用→壁垒/单打→协同）；四大风险
+- **Created:** `concepts/2025-low-altitude-investment-ma-trends.md` — concept page
+- **Updated:** `index.md` — added [[2025-low-altitude-investment-ma-trends]]; bumped total pages from 118 to 119
+
+## [2026-06-08] ingest | low-altitude-startup-challenges-solutions-guide
+- **Source:** `raw/articles/low-altitude-practice-startup-challenges-solutions.md` — 张磊律师：低空经济初创企业发展面临的主要困难与挑战及应对思路和实务建议
+- **Key content:** 五大困难（融资"死亡之谷"/复合人才/技术认证双风险/市场培育/法规动态）+五大对策（融资策略/团队构筑/技术攻坚/市场开拓/合规发展）+六条成功关键
+- **Created:** `concepts/low-altitude-startup-challenges-solutions-guide.md` — concept page
+- **Updated:** `index.md` — added [[low-altitude-startup-challenges-solutions-guide]]; bumped total pages from 119 to 120
+
+## [2026-06-08] ingest | county-low-altitude-development-strategy
+- **Source:** `raw/articles/low-altitude-commentary-county-development-strategy.md` — 张磊律师：我国县域低空经济发展的路径和策略——深圳大鹏新区《若干措施》启示
+- **Key content:** 基于深鹏办规〔2025〕1号（2025.4.1施行）六维度分析：政策因地制宜/基建轻量化/场景聚焦刚需/生态链式协同/风控安全兜底/资金多元融资
+- **Created:** `concepts/county-low-altitude-development-strategy.md` — concept page
+- **Updated:** `index.md` — added [[county-low-altitude-development-strategy]]; bumped total pages from 120 to 121
+
+## [2026-06-08] ingest | low-altitude-safety-development-balance
+- **Source:** `raw/articles/low-altitude-commentary-safety-development-balance.md` — 张磊律师：就华盛顿撞机和费城坠机事件，如何正确处理低空经济安全与发展的关系
+- **Key content:** 三维分析：矛盾性（空域管理滞后/技术不成熟/应急缺口/信任危机）→协同性（安全技术迭代/标准化监管/社会接受）→韧性安全实践路径（分级监管/沙盒/智联网/全球互认）
+- **Created:** `concepts/low-altitude-safety-development-balance.md` — concept page
+- **Updated:** `index.md` — added [[low-altitude-safety-development-balance]]; bumped total pages from 121 to 122
+
+## [2026-06-08] ingest | third-batch-low-altitude-pilot-cities
+- **Source:** `raw/articles/third-batch-low-altitude-pilot-cities.md` — 飞行邦：第三批低空开放试点城市猜想
+- **Key content:** 现有版图（首批12城+10大国家级）→ 四大潜力（东莞制造+济南资本+无锡治理+芜湖产业链）+ 三特色候选（绍兴/宁波/长沙）
+- **Created:** `concepts/third-batch-low-altitude-pilot-cities.md` — concept page
+- **Updated:** `index.md` — added [[third-batch-low-altitude-pilot-cities]]; bumped total pages from 122 to 123

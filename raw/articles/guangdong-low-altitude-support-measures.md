@@ -1,7 +1,10 @@
 ---
-source_url: https://mp.weixin.qq.com/s/I-jN65-WPMrfLoA-C-xjGw
-ingested: 2026-06-08
-sha256: pending
+title: 【政策评论】《广东省支持低空经济高质量发展若干措施》的政策突破与发展启示
+author: 张磊律师
+source: 微信公众号
+url: https://mp.weixin.qq.com/s/I-jN65-WPMrfLoA-C-xjGw
+series: 磊律低空经验系列
+ingested_at: 2026-06-08
 ---
 
 # 《广东省支持低空经济高质量发展若干措施》解读

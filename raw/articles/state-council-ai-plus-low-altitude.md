@@ -1,7 +1,10 @@
 ---
-source_url: https://mp.weixin.qq.com/s/qud-6ZMRZ04trsAB9PxByA
-ingested: 2026-06-08
-sha256: pending
+title: 【低空评论】《国务院关于深入实施"人工智能+"行动的意见》对我国低空经济发展影响的简要分析
+author: 张磊律师
+source: 微信公众号
+url: https://mp.weixin.qq.com/s/qud-6ZMRZ04trsAB9PxByA
+series: 磊律低空经验系列
+ingested_at: 2026-06-08
 ---
 
 # 《国务院关于深入实施"人工智能+"行动的意见》— 低空经济影响分析

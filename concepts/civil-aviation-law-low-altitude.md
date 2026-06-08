@@ -6,6 +6,8 @@ type: concept
 tags: [policy, regulation, law, china]
 sources:
   - raw/articles/civil-aviation-law-low-altitude-impact.md
+  - raw/articles/civil-aviation-law-low-altitude-leilv.md
+  - raw/articles/civil-aviation-law-draft-review.md
 confidence: high
 ---
 
@@ -54,6 +56,8 @@ confidence: high
 - **中央地方协同**：国家和省级政府制定规划、优化资源配置
 
 后续关注点：国务院及民航主管部门依据本法授权制定的具体管理办法、技术标准和实施细则。
+
+> 📜 **立法回顾**：本篇为2025.2修订草案征求意见稿解读，与正式法解读（2025.12.27通过）共同构成民航法立法演进全记录——从草案到正式法，见证低空经济入法历程。
 
 ## 相关概念
 - [[low-altitude-park-legal-risks]] — 产业园法律风险（同法引用）
