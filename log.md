@@ -794,3 +794,74 @@
 - **Key content:** 现有版图（首批12城+10大国家级）→ 四大潜力（东莞制造+济南资本+无锡治理+芜湖产业链）+ 三特色候选（绍兴/宁波/长沙）
 - **Created:** `concepts/third-batch-low-altitude-pilot-cities.md` — concept page
 - **Updated:** `index.md` — added [[third-batch-low-altitude-pilot-cities]]; bumped total pages from 122 to 123
+
+## [2026-06-08] ingest | trade-secret-regulation-2026-compliance-guide
+- **Source:** `raw/articles/trade-secret-regulation-data-algorithm-protection.md` — 张磊律师：数据和算法纳入商业秘密保护范围后的企业发展之道
+- **Key content:** 《商业秘密保护规定》2026.6.1施行、三大突破（范围扩容/侵权升级/处罚最高5000万）、五维企业合规方案
+- **Created:** `concepts/trade-secret-regulation-2026-compliance-guide.md` — concept page
+- **Updated:** `index.md` — added [[trade-secret-regulation-2026-compliance-guide]]; bumped total pages from 123 to 124
+
+## [2026-06-08] ingest | china-low-altitude-international-rule-making
+- **Source:** `raw/articles/cross-border-regulatory-strategy-gba-speech.md` — 张磊律师：深圳世界无人机大会法律圆桌会演讲
+- **Key content:** 四维战略（标准先行→ICAO/ISO→20位唯一识别码；机制互认→EASA/FAA双边+RCEP"一国审定"多边；数据融通→分级白名单+UTM输出；示范破局→大湾区跨境试点+一带一路全产业链输出）
+- **Created:** `concepts/china-low-altitude-international-rule-making.md` — concept page
+- **Updated:** `index.md` — added [[china-low-altitude-international-rule-making]]; bumped total pages from 124 to 125
+
+## [2026-06-08] ingest | low-altitude-financing-scam-identification
+- **Source:** `raw/articles/identify-low-altitude-financing-scams.md` — 低空与法（张磊律师团队）：如何识别低空经济公司或项目的融资骗局
+- **Key content:** 四维尽调（技术真伪/公司背景/商业财务/竞对对比）+ 三条铁律（敬畏硬科技规律/质疑光环/"好得不像真的"）=非真
+- **Created:** `concepts/low-altitude-financing-scam-identification.md` — concept page
+- **Updated:** `index.md` — added [[low-altitude-financing-scam-identification]]; bumped total pages from 125 to 126
+## [2026-06-08] ingest | mot-2026-legislative-plan-impact
+- **Source:** `raw/articles/mot-2026-legislative-plan-low-altitude.md` — 交通运输部2026立法计划低空经济解读
+- **Key content:** 41项目+四大红利（空域管理条例/运营许可简化/适航审定倾斜/人才标准）+三大趋势（央地联动/安全红线/理性投资）
+- **Created:** `concepts/mot-2026-legislative-plan-impact.md` — concept page
+- **Updated:** `index.md` — added [[mot-2026-legislative-plan-impact]]; bumped total pages from 126 to 127
+
+## [2026-06-08] ingest | drone-airspace-classification-guide
+- **Source:** `raw/articles/drone-airspace-classification-guide.md` — 无人机空域4色分类+飞行规范
+- **Key content:** 蓝/绿/白/红四级空域分类 + 8类禁飞区 + UOM平台操作
+- **Created:** `concepts/drone-airspace-classification-guide.md` — 概念页
+- **Updated:** `index.md` — 新增 [[drone-airspace-classification-guide]]；总页数 127→128
+
+## [2026-06-08] ingest | low-altitude-province-city-county-governance
+- **Source:** `raw/articles/low-altitude-province-city-county-governance.md` — 延兵/低空智研院
+- **Key content:** 低空经济省市县三级权责利划分构想：省统筹/市调度/县域场景落地，含双司架构、空域渐进释放、机构演进路线图
+- **Created:** `concepts/low-altitude-province-city-county-governance.md` — 概念页
+- **Updated:** `index.md` — 新增 [[low-altitude-province-city-county-governance]]；总页数 128→129
+
+## [2026-06-08] ingest | low-altitude-battlefield-task-network
+- **Source:** `raw/articles/low-altitude-battlefield-task-network.md` — 低空经济分析
+- **Key content:** 低空经济真正的战场是任务网络：六要素闭环、四类场景优先级、利润池迁移链、单位经济性生死线
+- **Created:** `concepts/low-altitude-battlefield-task-network.md` — 概念页
+- **Updated:** `index.md` — 新增 [[low-altitude-battlefield-task-network]]；总页数 129→130
+
+## [2026-06-08] ingest | low-altitude-standards-system-guide-2025
+- **Source:** `raw/articles/low-altitude-standards-system-guide-2025.md` — 低空经济标准体系指南解读
+- **Key content:** 十部委"一三五"框架、五大领域、四维融合、2027→2030两阶段目标
+- **Created:** `concepts/low-altitude-standards-system-guide-2025.md` — 概念页
+- **Updated:** `index.md` — 新增 [[low-altitude-standards-system-guide-2025]]；总页数 130→131
+
+## [2026-06-08] ingest | low-altitude-national-pillar-industry-guide
+- **Source:** `raw/articles/low-altitude-national-pillar-industry-guide.md` — 睿信咨询
+- **Key content:** 低空经济2023-2026战略定位"三级跳"完整脉络，万亿市场，适航突破，双司管理，企业行动指南
+- **Created:** `concepts/low-altitude-national-pillar-industry-guide.md` — 概念页
+- **Updated:** `index.md` — 新增 [[low-altitude-national-pillar-industry-guide]]；总页数 131→132
+
+## [2026-06-08] ingest | low-altitude-daily-briefing-2026-06-08
+- **Source:** `raw/articles/low-altitude-daily-briefing-2026-06-08.md` — 低空经济早报
+- **Key content:** 空域确权+量产交付拐点，湖南63.1%开放、广汽高域量产、沃兰特13亿、跨渤海物流常态化
+- **Created:** `concepts/low-altitude-daily-briefing-2026-06-08.md` — 概念页
+- **Updated:** `index.md` — 新增 [[low-altitude-daily-briefing-2026-06-08]]；总页数 132→133
+
+## [2026-06-08] ingest | national-low-altitude-policy-wave-may-2026
+- **Source:** `raw/articles/national-low-altitude-policy-wave-may-2026.md` — 低空产业动态
+- **Key content:** 全国数十省市5月低空政策潮：民间资本、文旅/生产/治理场景差异化、空域扩容、AI+低空、安全监管体系
+- **Created:** `concepts/national-low-altitude-policy-wave-may-2026.md` — 概念页
+- **Updated:** `index.md` — 新增 [[national-low-altitude-policy-wave-may-2026]]；总页数 133→134
+
+## [2026-06-08] ingest | low-altitude-case-study-comprehensive-guide
+- **Source:** `raw/articles/low-altitude-case-study-comprehensive-guide.md` — 低空经济案例研究
+- **Key content:** 制度保障（无锡立法/湖南空域/四川调度）+ 制造产业链（合肥电池/成都eVTOL/广东适航）+ 基础设施 + 八大应用场景
+- **Created:** `concepts/low-altitude-case-study-comprehensive-guide.md` — 概念页
+- **Updated:** `index.md` — 新增 [[low-altitude-case-study-comprehensive-guide]]；总页数 136→137
