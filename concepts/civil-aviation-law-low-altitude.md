@@ -1,13 +1,14 @@
 ---
 title: 新《民用航空法》低空经济条款解读
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 type: concept
 tags: [policy, regulation, law, china]
 sources:
   - raw/articles/civil-aviation-law-low-altitude-impact.md
   - raw/articles/civil-aviation-law-low-altitude-leilv.md
   - raw/articles/civil-aviation-law-draft-review.md
+  - raw/articles/civil-aviation-law-impact-four-layers.md
 confidence: high
 ---
 
@@ -58,6 +59,15 @@ confidence: high
 后续关注点：国务院及民航主管部门依据本法授权制定的具体管理办法、技术标准和实施细则。
 
 > 📜 **立法回顾**：本篇为2025.2修订草案征求意见稿解读，与正式法解读（2025.12.27通过）共同构成民航法立法演进全记录——从草案到正式法，见证低空经济入法历程。
+
+## 四大层面系统性破局（2026.6.9解读）
+
+来自2026年6月9日的补充解读，新法对低空经济的意义在于从"政策试点"上升到"法律保障"：
+
+1. **空域管理 → "有路可飞"** — 第74条确立空域划分兼顾低空经济发展需要，空域规划不能再无视低空飞行需求
+2. **航空器管理 → "电子身份证"** — 第34条强制唯一产品识别码，从源头实现可追溯；差异化管理避免一刀切
+3. **基建与服务 → "一网通办"** — 统一监管服务平台使飞行计划报备、动态监测如"扫码飞"微信小程序（上海/四川试点）般便捷
+4. **央地协同 → "合力推进"** — 国家定方向+省级政府制定发展规划和支持政策
 
 ## 相关概念
 - [[low-altitude-park-legal-risks]] — 产业园法律风险（同法引用）

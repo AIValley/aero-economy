@@ -941,3 +941,15 @@
 |- **Created:** `concepts/state-council-54-investment-reconstruction.md`
 |- **Related:** `low-altitude-soe-entry-policy-logic`, `low-altitude-province-city-county-governance`, `civil-aviation-law-low-altitude`, `low-altitude-profit-chain-analysis`
 |- **Updated:** `index.md` — added [[state-council-54-investment-reconstruction]]; bumped total pages from 148 to 149
+
+## [2026-06-09] enrich | civil-aviation-law-low-altitude
+|- **Source:** `raw/articles/civil-aviation-law-impact-four-layers.md` — 如何理解7月1日实施的新版《民航法》对低空经济产生的影响？
+|- **Summary:** 补充四大层面系统性破局框架（空域→"有路可飞"/航空器→"电子身份证"/基建→"一网通办"/央地→"合力推进"）；扫码飞微信小程序案例
+|- **Enriched:** `concepts/civil-aviation-law-low-altitude.md` — added "四大层面系统性破局" section + new source ref + 扫码飞案例
+|- **No index update needed** (概念页已存在，非新增)
+
+## [2026-06-09] enrich | low-altitude-commercial-landing-2026
+|- **Source:** `raw/articles/low-altitude-volume-scaling-202606.md` — 低空经济"放量" | 经济观察报·张锐
+|- **Summary:** 大疆电力巡检三代跃迁+道通智能深圳交警合作案例+纵横/中无人机2025扭亏为盈+丰翼方舟80参数+美团90万单/年36万管+京东医疗配送+一网统飞模式+深圳1200起降点/75%空域覆盖
+|- **Enriched:** `concepts/low-altitude-commercial-landing-2026.md` — added "2026.6放量信号" section with 3 tables + 5 subsections
+|- **No index update needed**
