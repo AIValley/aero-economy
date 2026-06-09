@@ -865,3 +865,79 @@
 - **Key content:** 制度保障（无锡立法/湖南空域/四川调度）+ 制造产业链（合肥电池/成都eVTOL/广东适航）+ 基础设施 + 八大应用场景
 - **Created:** `concepts/low-altitude-case-study-comprehensive-guide.md` — 概念页
 - **Updated:** `index.md` — 新增 [[low-altitude-case-study-comprehensive-guide]]；总页数 136→137
+
+## [2026-06-08] ingest | low-altitude-safety-regulation-international-experience
+- **Source:** `raw/articles/low-altitude-safety-regulation-international-experience.md` — 张晓兰，黄伟熔 || 低空经济安全监管的国际经验及启示；北京行政学院学报
+- **Key content:** 刘截我国低空经济安全监管四维困境（制度碎片化/技术短板/治理协同梗阻/风险评估缺位），借鉴欧盟U-space协同治理经验，提出制度奠基、技术赋能、治理协同、风险内嵌深度耦合的中国监管路径
+- **Created:** `concepts/low-altitude-safety-regulation-international-experience.md` — 概念页（核心论点+欧盟经验+四项政策建议）
+- **Updated:** `index.md` — added [[low-altitude-safety-regulation-international-experience]]; bumped total pages from 137 to 138
+
+## [2026-06-09] ingest | low-altitude-airspace-governance-study
+- **Source:** `raw/articles/low-altitude-airspace-governance-study.md` — 天集低空产业网 || 专业深度稿：低空经济空域治理体系构建与城市商业化落地路径研究
+- **Key content:** 低空空域三层治理架构（战略统筹/属地执行/商业应用）+UTM数字化管控四大模块+三种建设模式+三大商业业态合规框架（载人/货运/临时）+风险闭环防控体系（事前/事中/事后）+行业展望
+- **Created:** `concepts/low-altitude-airspace-governance-study.md` — 概念页（核心论点+三层架构表+UTM功能+业态合规表+风险防控）
+- **Updated:** `index.md` — added [[low-altitude-airspace-governance-study]]; bumped total pages from 138 to 139
+
+## [2026-06-09] ingest | low-altitude-core-concepts-part5-safety-penalty
+- **Source:** `raw/articles/low-altitude-core-concepts-part5-safety-penalty.md` — 《低空经济核心概念100问》第五部分：安全与处罚篇（81-100问）
+- **Key content:** 黑飞定义+2026法律框架三大升级（新治安法/无人机国标/新民航法）+处罚标准速查（治安拘留200-1万/刑法3年-死刑）+六大典型案例+强制保险制度2027-2030+地面第三人严格责任
+- **Created:** `concepts/low-altitude-core-concepts-part5-safety-penalty.md` — 概念页（系列概况+处罚标准表+典型案例+保险制度+安全底线）
+- **Updated:** `index.md` — added [[low-altitude-core-concepts-part5-safety-penalty]]; bumped total pages from 139 to 140
+
+## [2026-06-09] ingest | low-altitude-drone-racing-sports-industry
+- **Source:** `raw/articles/low-altitude-drone-racing-sports-industry.md` — 天空竞技场：无人机赛事如何成为低空经济万亿赛道的"超级入口"
+- **Key content:** 2026无人机体育赛事元年：国际三大赛事（竞速世界杯/Ablefly万人足球赛/世界无人机运动会）+省级联赛遍地开花+青少年赛事+国家地方政策体系+政校企协四位一体生态+赛事+文旅/商业/会展/教育融合模式+2026万亿/2035年3.5万亿市场展望
+- **Created:** `concepts/low-altitude-drone-racing-sports-industry.md` — 概念页（元年事件+生态+融合模式+市场规模）
+- **Updated:** `index.md` — added [[low-altitude-drone-racing-sports-industry]]; bumped total pages from 140 to 141
+
+## [2026-06-09] ingest | low-altitude-commercial-landing-2026
+- **Source:** `raw/articles/low-altitude-commercial-landing-2026.md` — 彻底变天！低空经济终结烧钱时代，2026普通人全新风口出炉
+- **Key content:** 2026商业落地元年：美团医疗无人机配送毛利转正（深圳/上海/单均≤1.5倍人力）+顺丰跨城干线盈亏平衡（深圳→东莞50km/25分钟）+凤岗深圳研发+凤岗制造产业链+峰飞eVTOL哈萨克斯坦中亚首飞（对标高铁出海）+企业/飞手/创业者三赛道布局建议
+- **Created:** `concepts/low-altitude-commercial-landing-2026.md` — 概念页（拐点信号+两大盈利模型表+产业链底座+出海模式）
+- **Updated:** `index.md` — added [[low-altitude-commercial-landing-2026]]; bumped total pages from 141 to 142
+
+## [2026-06-09] ingest | low-altitude-civil-aviation-law-countdown
+- **Source:** `raw/articles/low-altitude-civil-aviation-law-countdown.md` — 新民航法倒计时：低空经济不再只看"会不会飞"
+- **Key content:** 新《民用航空法》7.1实施倒计时1个月+政策四梁八柱（空域供给/安全监管/装备创新/场景牵引+8项支撑制度）+四大产业信号（高域GOVY AirCab量产/小鹏万台级基地30分一台/亿航四证试运行/美团四代机扩场景至零售医疗工业）+低空经济胜负手（制度适配>样机+真实数据>发布会数字）
+- **Created:** `concepts/low-altitude-civil-aviation-law-countdown.md` — 概念页（时间节点+四梁八柱+四大产业信号表+胜负手）
+- **Related:** `concepts/civil-aviation-law-low-altitude.md`
+- **Updated:** `index.md` — added [[low-altitude-civil-aviation-law-countdown]]; bumped total pages from 142 to 143
+
+## [2026-06-09] ingest | low-altitude-soe-entry-policy-logic
+- **Source:** `raw/articles/low-altitude-soe-entry-policy-logic.md` — 为什么国家推动央国企入局低空经济？
+- **Key content:** 八大政策逻辑：安全压舱石+重资产底座+场景开放+耐心资本+技术攻关+民航衔接+打破割据+非替代民企；央国企搭底座守安全放场景/地方国资整合/民企创新运营效率的三分分工框架
+- **Created:** `concepts/low-altitude-soe-entry-policy-logic.md` — 概念页（核心判断+分工体系表+八大逻辑）
+- **Updated:** `index.md` — added [[low-altitude-soe-entry-policy-logic]]; bumped total pages from 143 to 144
+
+## [2026-06-09] ingest | low-altitude-first-running-scenarios
+- **Source:** `raw/articles/low-altitude-first-running-scenarios.md` — 低空经济最先跑出来的场景是什么？
+- **Key content:** 八大场景深度分析：巡检（成果闭环）、农林植保（运营密度）、测绘勘察（数据服务）、医疗配送（订单标准化）、城市治理（流程打通）、应急保障（能力建设）、文旅（流量入口）、eVTOL（短期验证）；三类成熟度划分；核心判断标准非能飞而是能持续运行
+- **Created:** `concepts/low-altitude-first-running-scenarios.md` — 概念页（三类成熟度框架+八大场景+核心判断指标）
+- **Updated:** `index.md` — added [[low-altitude-first-running-scenarios]]; bumped total pages from 144 to 145
+
+## [2026-06-09] ingest | low-altitude-policy-evolution-2021-2026
+- **Source:** `raw/articles/low-altitude-policy-evolution-2021-2026.md` — 低空经济从"四个字"升级为国家新兴支柱产业
+- **Key content:** 五年五步跃升：2021概念入规（首次出现）+2023法规破局（无人机条例+空域7类分类+战略性新兴产业）+2024体制落地（四部门万亿目标）+2025规范扩围（民航法修订+统计分类4大类）+2026支柱定型（低空保险+十五五规划+政府工作报告连续第三年→新兴支柱产业）
+- **Created:** `concepts/low-altitude-policy-evolution-2021-2026.md` — 概念页（五阶段跃升表+里程碑+核心启示）
+- **Updated:** `index.md` — added [[low-altitude-policy-evolution-2021-2026]]; bumped total pages from 145 to 146
+
+## [2026-06-09] ingest | low-altitude-infrastructure-7-trillion-2026
+- **Source:** `raw/articles/low-altitude-infrastructure-7-trillion-2026.md` — 低空基础设施纳入7万亿新基建，2026年或成低空经济"常态化运营元年"
+- **Key content:** 国家发改委将低空纳入7万亿新基建+央企场景开放（国家电网3万架/南方电网广东全域/铁塔5G-A）+7大开放领域+广深佛莞平台+12条跨市航路+审批6→2月+三阶段时间线（2026常态化→2026-2027试点规模→2028-2030全面规模）+四大挑战
+- **Created:** `concepts/low-altitude-infrastructure-7-trillion-2026.md` — 概念页（央企场景表+三阶段时间线+关键数据）
+- **Related:** `low-altitude-policy-airspace-infrastructure-scene-2026`, `low-altitude-soe-entry-policy-logic`
+- **Updated:** `index.md` — added [[low-altitude-infrastructure-7-trillion-2026]]; bumped total pages from 146 to 147
+
+## [2026-06-09] ingest | low-altitude-profit-chain-analysis
+- **Source:** `raw/articles/low-altitude-profit-chain-analysis.md` — 低空经济：从无人机到eVTOL，谁能真正赚到钱？
+- **Key content:** 五大利润池（整机销售/运营服务/基础设施/数据服务/保险维保）；商业化顺序（工业无人机先→物流→文旅→城市通勤最后）；利润分配（高价值部件/起降网络/区域运营商/空域平台/维保保险）；十问投资框架；中外路径对比（中国制造链优势vs FAA认证体系）；核心观点：看现金流不看发布会
+- **Created:** `concepts/low-altitude-profit-chain-analysis.md` — 概念页（核心结论+利润池排序+商业化节奏+关键判断）
+- **Related:** `low-altitude-commercial-landing-2026`, `low-altitude-first-running-scenarios`
+- **Updated:** `index.md` — added [[low-altitude-profit-chain-analysis]]; bumped total pages from 147 to 148
+
+## [2026-06-09] create | state-council-54-investment-reconstruction
+|- **Article:** （国办函〔2026〕54号）对地方低空产业招商的路径重构 | 九洲空管
+|- **Summary:** 国务院54号文2026.6.5发布，首次对政府出资私募基金实施全链条穿透式监管。五大乱象：基金无序扩张、招商补贴恶性竞争、基金空壳化、考核短期化、监管协同不足。四维转型：场景提供者/耐心资本+生态/制度型开放/引育人才。截至2026.6全国40+省市区县低空基金目标规模突破1200亿元。
+|- **Created:** `concepts/state-council-54-investment-reconstruction.md`
+|- **Related:** `low-altitude-soe-entry-policy-logic`, `low-altitude-province-city-county-governance`, `civil-aviation-law-low-altitude`, `low-altitude-profit-chain-analysis`
+|- **Updated:** `index.md` — added [[state-council-54-investment-reconstruction]]; bumped total pages from 148 to 149
