@@ -953,3 +953,9 @@
 |- **Summary:** 大疆电力巡检三代跃迁+道通智能深圳交警合作案例+纵横/中无人机2025扭亏为盈+丰翼方舟80参数+美团90万单/年36万管+京东医疗配送+一网统飞模式+深圳1200起降点/75%空域覆盖
 |- **Enriched:** `concepts/low-altitude-commercial-landing-2026.md` — added "2026.6放量信号" section with 3 tables + 5 subsections
 |- **No index update needed**
+
+## [2026-06-11] ingest | low-altitude-really-taking-off-2026
+- **Source:** `raw/articles/low-altitude-really-taking-off-2026.md` — 低空经济真的开始"飞"了（微信公众号/丶小二）
+- **Key claims:** 新民航法7.1实施+"扫码飞"放管结合；六城试点格局（深圳规模/成都订单/合肥取证/苏州法制/杭州场景/重庆地形）；企业量产（小鹏汇天7000台/亿航四证）；基建百亿级增量市场；三大冷静判断标准
+- **Created:** `concepts/low-altitude-taking-off-2026-overview.md` — 2026低空经济全景综述概念页
+- **Updated:** `index.md` — added [[low-altitude-taking-off-2026-overview]]; bumped total pages from 149 to 150

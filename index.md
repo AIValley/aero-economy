@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-09 | Total pages: 149
+> Last updated: 2026-06-11 | Total pages: 150
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -78,6 +78,7 @@
 - [[low-altitude-startup-financial-leasing]] — 低空经济初创公司融资租赁：三大场景案例+三种模式+三大核心作用；磊律系列第34篇
 - [[low-altitude-tech-transfer-guide]] — 低空经济技术受让关键事项：五维要点（IP尽调/范围界定/适航合规/分期支付/持续创新）；磊律系列第23篇
 - [[low-altitude-tech-hire-guide]] — 低空经济技术人员聘用法律风险全指南：六大关注+七大风险+六道防线；磊律系列第24篇
+- [[low-altitude-taking-off-2026-overview]] — 低空经济真的开始"飞"了：2026全景综述（新民航法实施+"扫码飞"模式+六城试点格局+企业量产+基建需求+冷静判断框架）
 - [[low-altitude-tourism-disputes]] — 低空文旅五大纠纷类型（合同/侵权/空域/IP/保险）+五种解决途径+六项预防建议
 - [[low-altitude-trade-secret-protection]] — 低空经济商业秘密"四位一体"防护：法律合同+管理流程+技术监测+文化激励+Joby诉Archer启示
 - [[low-altitude-trademark-strategy-guide]] — 低空经济商标保护六维策略：及早注册+显著性+使用管理+积极维权+规避侵权+体系文化
