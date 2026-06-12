@@ -971,3 +971,9 @@
 - **Key content:** 五大新政综述——扫码飞全国推广（审批→报备制）、珠海首部低空数据管理办法、12城UAM+湖南全域空域开放、纳入城市更新十五五规划、1.8万亿市场预判（无人机物流50万单/日）
 - **Created:** `concepts/low-altitude-2026-policy-landscape.md` — 2026低空经济政策变局，关联6个概念页
 - **Updated:** `index.md` — added [[low-altitude-2026-policy-landscape]]; bumped total pages from 152 to 153
+
+## [2026-06-12] ingest | evtol-financing-h1-2026
+- **Source:** `raw/web/20260612-evtol-financing-h1-2026.md` — 央企"耐心资本"入局，eVTOL融资战火烧到IPO (低空经济前沿笔记 · WeChat)
+- **Key content:** 央企国资委定调耐心资本；沃兰特C轮+C+轮一个月融30亿（5年13轮超50亿）；沃飞长空首家冲击科创板IPO；小鹏汇天7000台预售；2026H1融资全景表
+- **Created:** `concepts/evtol-financing-h1-2026.md` — eVTOL融资上半年盘点，关联3个概念页
+- **Updated:** `index.md` — added [[evtol-financing-h1-2026]]; bumped total pages from 153 to 154
