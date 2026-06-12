@@ -12,6 +12,23 @@
 - Every action must be appended to `log.md`
 - **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/articles/source-file.md]` at the end of paragraphs whose claims come from a specific source.
 
+## raw/ 目录分类规范
+
+新入库素材按源类型存入对应子目录：
+
+```
+raw/
+├── web/          ← 微信公众号文章、博客、网页（取代旧的 articles/）
+├── academic/     ← 学术论文、arXiv（取代旧的 papers/）
+├── docs/         ← 官方文档、手册、教程、标准
+├── multimedia/   ← 视频字幕、播客转录、音频笔记
+└── assets/       ← 图片、PDF 附件（不变）
+```
+
+文件名格式：`{date}-{slug}.md`（如 `20260611-agent-memory-architecture.md`）
+
+> 存量文件保留在原目录不动。新入库文件使用新规范。
+
 ## Frontmatter
 
 ```yaml

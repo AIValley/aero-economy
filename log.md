@@ -959,3 +959,15 @@
 - **Key claims:** 新民航法7.1实施+"扫码飞"放管结合；六城试点格局（深圳规模/成都订单/合肥取证/苏州法制/杭州场景/重庆地形）；企业量产（小鹏汇天7000台/亿航四证）；基建百亿级增量市场；三大冷静判断标准
 - **Created:** `concepts/low-altitude-taking-off-2026-overview.md` — 2026低空经济全景综述概念页
 - **Updated:** `index.md` — added [[low-altitude-taking-off-2026-overview]]; bumped total pages from 149 to 150
+|
+|## [2026-06-12] ingest | 低空智能开放平台正式发布上线（雄安）
+|- **Source:** `raw/web/20260612-low-altitude-smart-open-platform.md` — 低空智能开放平台正式发布上线（雄安国创中心/天津大学/东南大学）
+|- **Key content:** 雄安发布低空公共AI基础设施：数据/模型/场景三模块闭环；70+数据集/30+预训练模型/60+巡检AI模型；覆盖14省100+城市/千万级标注样本；"雄安方案"标准化输出模式；产学研共建生态
+|- **Created:** `concepts/low-altitude-smart-open-platform-xiong-an.md` — 含平台定位/三大模块/规模数据/生态模式/共建单位/[[wikilinks]]
+|- **Updated:** `index.md` — added [[low-altitude-smart-open-platform-xiong-an]]; bumped total pages from 150 to 151
+
+## [2026-06-12] ingest | low-altitude-2026-policy-landscape
+- **Source:** `raw/web/20260612-low-altitude-2026-policy-landscape.md` — 2026低空经济大变局：真正的红利，从来不是"打飞的" (丰临未来 · WeChat)
+- **Key content:** 五大新政综述——扫码飞全国推广（审批→报备制）、珠海首部低空数据管理办法、12城UAM+湖南全域空域开放、纳入城市更新十五五规划、1.8万亿市场预判（无人机物流50万单/日）
+- **Created:** `concepts/low-altitude-2026-policy-landscape.md` — 2026低空经济政策变局，关联6个概念页
+- **Updated:** `index.md` — added [[low-altitude-2026-policy-landscape]]; bumped total pages from 152 to 153

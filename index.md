@@ -2,13 +2,14 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-11 | Total pages: 150
+> Last updated: 2026-06-12 | Total pages: 153
 
 ## Entities
 <!-- Alphabetical within section -->
 
 ## Concepts
 <!-- Alphabetical within section -->
+- [[low-altitude-2026-policy-landscape]] — 2026低空经济政策变局：扫码飞全国推广、珠海低空数据管理办法、12城UAM+湖南全域空域放开、纳入城市更新十五五规划、1.8万亿市场
 - [[low-altitude-abs-financing]] — 资产支持专项计划(ABS)赋能低空经济：全国首单5.84亿元AAA评级解析+四阶段发行流程
 - [[low-altitude-airspace-governance-study]] — 专业深度稿：低空空域三层治理架构（战略/属地/应用）+UTM系统四大模块+三大商业业态合规框架+风险闭环防控体系；天集低空产业网
 - [[ai-transportation-low-altitude-opportunities]] — 七部门《人工智能+交通运输实施意见》低空经济商业机会解读
@@ -44,6 +45,7 @@
 - [[low-altitude-drone-show-legal]] — 无人机编队表演法律风险：六大风险+七维防控+关键数字标准；磊律系列第37篇
 - [[low-altitude-drone-training-qualification]] — 民用无人机驾驶员培训资质授权合规："人机地"一体化审定+严禁挂靠+三种合规模式
 - [[low-altitude-labor-compliance-guide]] — 低空经济劳动人事合规：七大领域（招聘/合同/薪酬/工时/培训/安全/离职）+安全一票否决
+- [[low-altitude-legislation]] — 低空经济立法三大核心法律问题：空域使用权归属、事故责任分配（四类主体）、数据隐私边界（摄像头/个人信息保护）
 - [[low-altitude-legal-representative-risk]] — 低空经济公司法定代表人全指南：选任变更（新公司法/30日/流程）+七维风险防范（董责险/刑事/辞任）
 - [[low-altitude-park-legal-risks]] — 低空经济产业园区法律风险
 - [[low-altitude-policy-airspace-infrastructure-scene-2026]] — 低空经济政策+空域+基建+场景密集落地：新民航法入法+扫码飞+7万亿新基建+天津70块空域+包头试验基地+百万飞手缺口
@@ -110,6 +112,7 @@
 - [[low-altitude-shared-drone-legal]] — 共享无人机运营法律风险：六大风险+三维防范+合规运营五要素；磊律系列第30篇
 - [[low-altitude-short-video-compliance]] — 低空经济短视频合规五维风险：飞行资质/数据隐私/广告/IP侵权/公共安全+全流程防控
 - [[low-altitude-smart-network-legal]] — 低空智联网建设五大法律问题：空域管理/数据共享/安全监管/基础设施/法规标准化
+- [[low-altitude-smart-open-platform-xiong-an]] — 雄安低空智能开放平台(visdrone.net)：数据/模型/场景三模块闭环，70+数据集/30+预训练模型/60+巡检AI模型，覆盖14省100+城市，千万级标注样本
 - [[low-altitude-strategic-positioning-guide]] — 低空经济企业战略定位：生态构建者 vs 垂直领域领军者，双路径分析+动态协同策略；低空发展评论
 - [[equity-financing-legal-risks]] — 低空经济股权融资法律风险清单：七大风险+三段式对策
 - [[equity-proxy-holding]] — 低空经济公司股权代持四维必要性+书面协议四重要性+风险提示；磊律系列第53篇
