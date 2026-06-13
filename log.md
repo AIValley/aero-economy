@@ -977,3 +977,9 @@
 - **Key content:** 央企国资委定调耐心资本；沃兰特C轮+C+轮一个月融30亿（5年13轮超50亿）；沃飞长空首家冲击科创板IPO；小鹏汇天7000台预售；2026H1融资全景表
 - **Created:** `concepts/evtol-financing-h1-2026.md` — eVTOL融资上半年盘点，关联3个概念页
 - **Updated:** `index.md` — added [[evtol-financing-h1-2026]]; bumped total pages from 153 to 154
+
+## [2026-06-13] ingest | low-altitude-emergency-rescue
+- **Source:** `raw/web/20260613-low-altitude-emergency-rescue.md` — 国务院新规划明确"低空+应急"：低空经济进入民生刚需场景（低空新局）
+- **Key content:** 国务院十五五应急规划明确"低空+应急救援/应急侦测"场景、1小时航空救援网络、体系化建设方向、产业机会
+- **Created:** `concepts/low-altitude-emergency-rescue.md`
+- **Updated:** `index.md` — added [[low-altitude-emergency-rescue]]; bumped 154→155
