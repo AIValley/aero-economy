@@ -983,3 +983,9 @@
 - **Key content:** 国务院十五五应急规划明确"低空+应急救援/应急侦测"场景、1小时航空救援网络、体系化建设方向、产业机会
 - **Created:** `concepts/low-altitude-emergency-rescue.md`
 - **Updated:** `index.md` — added [[low-altitude-emergency-rescue]]; bumped 154→155
+
+## [2026-06-22] ingest | 低空产业链三支柱：适航、合规、标准
+- **Source:** `raw/web/20260622-low-altitude-industry-chain-three-pillars.md` — 延兵/低空智研院：新民航法下低空产业链"制造看适航、运营看合规、教学看标准"
+- **Key content:** 深度产业分析提出低空产业链三支柱框架——制造端适航能力（航空器审定/产品识别码/质量体系）、运营端合规体系（通用航空运营许可证/五本账）、教学端标准（航空人员训练/五种意识）；地方政府三张清单+企业五补；四大产业趋势
+- **Created:** `concepts/low-altitude-industry-chain-three-pillars.md` — 概念页
+- **Updated:** `index.md` — added [[low-altitude-industry-chain-three-pillars]]; bumped total pages from 155 to 156
