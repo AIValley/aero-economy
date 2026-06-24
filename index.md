@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-22 | Total pages: 156
+> Last updated: 2026-06-22 | Total pages: 157
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -66,6 +66,7 @@
 - [[national-low-altitude-policy-wave-may-2026]] — 数十省密集加码低空经济：山西/青海/江苏民间资本+山东/海南文旅场景+江西空域扩容10万km²+安全监管体系
 - [[cross-industry-low-altitude-m-and-a]] — 跨界并购低空经济企业5W1H战略框架：Why/What/Rule/Where/How Much/Who
 - [[low-altitude-entry-challenges]] — 低空经济入局六大挑战：法规/安全/技术/资金/人才/场景
+- [[low-altitude-economy-2026-mid-year-status]] — 2026低空经济年中全景（五大信号+央企加码+人才缺口73.85%+新专业）：低空基建纳入国家大盘+双司监管+新民航法+年薪28.09万+3本科1专科
 - [[low-altitude-fake-project-guide]] — 低空经济虚假项目识别指南：五维识别+六问检查清单；磊律系列第22篇
 - [[low-altitude-financial-leasing]] — 低空经济金融租赁合作：四大合作模式+六大注意事项+成功四要素；磊律系列第33篇
 - [[low-altitude-first-running-scenarios]] — 低空经济最先跑出来的八大场景：三类成熟度（巡检/农林/测绘→医疗/城市治理/应急→文旅/eVTOL）；关键判断标准非能飞而是能持续运行+成果闭环

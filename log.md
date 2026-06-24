@@ -989,3 +989,9 @@
 - **Key content:** 深度产业分析提出低空产业链三支柱框架——制造端适航能力（航空器审定/产品识别码/质量体系）、运营端合规体系（通用航空运营许可证/五本账）、教学端标准（航空人员训练/五种意识）；地方政府三张清单+企业五补；四大产业趋势
 - **Created:** `concepts/low-altitude-industry-chain-three-pillars.md` — 概念页
 - **Updated:** `index.md` — added [[low-altitude-industry-chain-three-pillars]]; bumped total pages from 155 to 156
+
+## [2026-06-24] ingest | low-altitude-economy-2026-mid-year-status
+- **Source:** raw/web/20260624-low-altitude-economy-2026-explosion.md — 2026低空经济全面爆发(五大信号+央企加码+人才缺口+新专业)
+- **Key content:** 五大信号(大基建/双司监管/支柱产业/央企加码/新民航法)+人才缺口(职位↑73.85%/年薪28.09万)+3本科1专科新专业+安徽/四川/河南落地
+- **Created:** concepts/low-altitude-economy-2026-mid-year-status.md — 概念页
+- **Updated:** index.md — added entry; bumped 156→157
