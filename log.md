@@ -995,3 +995,9 @@
 - **Key content:** 五大信号(大基建/双司监管/支柱产业/央企加码/新民航法)+人才缺口(职位↑73.85%/年薪28.09万)+3本科1专科新专业+安徽/四川/河南落地
 - **Created:** concepts/low-altitude-economy-2026-mid-year-status.md — 概念页
 - **Updated:** index.md — added entry; bumped 156→157
+
+## [2026-06-24] ingest | low-altitude-infrastructure-industry-chain-deep-dive
+- **Source:** raw/web/20260624-low-altitude-infrastructure-industry-chain-deep-dive.md — 拆解低空经济基础设施产业链（产业图谱僧第17篇）
+- **Key content:** 3大判断(缺口最大/跨界融合/2027窗口)+5子链全景(感知ADS-B/5G-A/起降场/UTM/气象)+三类城市招商路径(A感知+管/B 5G-A+气象/C起降场)+深圳15分钟起降圈样本+328.7万无人机vs46服务站缺口
+- **Created:** concepts/low-altitude-infrastructure-industry-chain-deep-dive.md — 概念页
+- **Updated:** index.md — added entry; bumped 157→158
