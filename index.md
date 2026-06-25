@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-22 | Total pages: 158
+> Last updated: 2026-06-25 | Total pages: 160
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -67,6 +67,7 @@
 - [[cross-industry-low-altitude-m-and-a]] — 跨界并购低空经济企业5W1H战略框架：Why/What/Rule/Where/How Much/Who
 - [[low-altitude-entry-challenges]] — 低空经济入局六大挑战：法规/安全/技术/资金/人才/场景
 - [[low-altitude-economy-2026-mid-year-status]] — 2026低空经济年中全景（五大信号+央企加码+人才缺口73.85%+新专业）：低空基建纳入国家大盘+双司监管+新民航法+年薪28.09万+3本科1专科
+- [[low-altitude-economy-definition-chain-scenarios]] — 低空经济入门全景：两套权威官方定义(名词委2024.11/发改委空域1000-4000m)+上中下游三层产业链(制造→运营→场景)+四大应用场景(生产作业/公共服务/低空交通/文旅消费)+商业化成熟度排序+十五五新质生产力定位
 - [[low-altitude-fake-project-guide]] — 低空经济虚假项目识别指南：五维识别+六问检查清单；磊律系列第22篇
 - [[low-altitude-financial-leasing]] — 低空经济金融租赁合作：四大合作模式+六大注意事项+成功四要素；磊律系列第33篇
 - [[low-altitude-first-running-scenarios]] — 低空经济最先跑出来的八大场景：三类成熟度（巡检/农林/测绘→医疗/城市治理/应急→文旅/eVTOL）；关键判断标准非能飞而是能持续运行+成果闭环
@@ -155,6 +156,7 @@
 - [[national-low-altitude-policy-tiers]] — 全国低空经济三级政策体系
 - [[star-market-fifth-standard-low-altitude]] — 科创板第五套标准重启：低空经济纳入，允许未盈利上市（市值≥40亿）+四大战略路径
 - [[state-council-54-investment-reconstruction]] — 国办函〔2026〕54号对低空产业招商的路径重构：穿透式监管+五大乱象整治（无序扩张/补贴恶性竞争/空壳化/考核短期化/监管不足）+四维转型（场景提供者/耐心资本+生态/制度型开放/引育人才）；九洲空管
+- [[urban-low-altitude-economy-safety-sustainable]] — 南开大学孙轩：城市低空经济三大挑战(法律适配不足/治理体系分散/功能服务薄弱)+三条路径(技术+制度协同/分区-分层-分级治理/数字底座)+低空数字神经系统+双轨推进机制
 - [[wuxi-suzhou-low-altitude-regulation-comparison]] — 无锡vs苏州低空经济促进条例对比：2025.10.1施行+无锡（绿色低碳/医疗应急/基建集约）+苏州（全产业链/水陆空无人体系/核心技术）+五大维度差异
 <!-- Policy reading list -->
 

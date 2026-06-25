@@ -1001,3 +1001,15 @@
 - **Key content:** 3大判断(缺口最大/跨界融合/2027窗口)+5子链全景(感知ADS-B/5G-A/起降场/UTM/气象)+三类城市招商路径(A感知+管/B 5G-A+气象/C起降场)+深圳15分钟起降圈样本+328.7万无人机vs46服务站缺口
 - **Created:** concepts/low-altitude-infrastructure-industry-chain-deep-dive.md — 概念页
 - **Updated:** index.md — added entry; bumped 157→158
+
+## [2026-06-25] ingest | low-altitude-economy-definition-chain-scenarios
+- **Source:** `raw/web/20260625-low-altitude-economy-overview-guide.md` — 一文读懂低空经济｜官方定义+完整产业链+四大落地场景全解析
+- **Key content:** 两套权威定义(名词委/发改委空域1000-4000m)+上中下游产业链(制造→运营→场景)+四大场景(生产作业/公共服务/低空交通/文旅消费)+商业化成熟度排序+十五五新质生产力定位
+- **Created:** `concepts/low-altitude-economy-definition-chain-scenarios.md` — 概念页
+- **Updated:** `index.md` — added entry; bumped total pages from 158 to 159
+
+## [2026-06-25] ingest | urban-low-altitude-economy-safety-sustainable
+- **Source:** `raw/web/20260625-urban-low-altitude-safety-sustainable.md` — 南开大学孙轩：推动城市低空经济安全可持续发展
+- **Key content:** 三大挑战(法律适配不足/治理体系分散/功能服务薄弱)+三条路径(技术+制度协同/"分区-分层-分级"治理/数字底座)+低空"数字神经系统"+双轨推进机制
+- **Created:** `concepts/urban-low-altitude-economy-safety-sustainable.md` — 概念页
+- **Updated:** `index.md` — added entry; bumped total pages from 159 to 160
