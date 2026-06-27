@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-25 | Total pages: 160
+> Last updated: 2026-06-27 | Total pages: 161
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -13,7 +13,8 @@
 - [[low-altitude-abs-financing]] — 资产支持专项计划(ABS)赋能低空经济：全国首单5.84亿元AAA评级解析+四阶段发行流程
 - [[low-altitude-airspace-governance-study]] — 专业深度稿：低空空域三层治理架构（战略/属地/应用）+UTM系统四大模块+三大商业业态合规框架+风险闭环防控体系；天集低空产业网
 - [[ai-transportation-low-altitude-opportunities]] — 七部门《人工智能+交通运输实施意见》低空经济商业机会解读
-- [[state-council-ai-plus-low-altitude]] — 国务院《"人工智能+"行动意见》四影响：智能化升级/场景拓展/安全治理/标准生态
+- [[anhui-low-altitude-action-plan]] — 安徽"低空+"行动方案(2026-2028)：三先三后原则定义场景优先级(植保→物流→eVTOL)；行业四象限+三张清单；财政纪律约束；2028目标运营企业300家/飞行500万小时/示范场景100个
+- [[state-council-ai-plus-low-altitude]]
 - [[beijing-low-altitude-policy]] — 北京低空经济政策体系
 - [[drone-airspace-classification-guide]] — 无人机空域4色分类系统（蓝/绿/白/红）+8类禁飞区+UOM飞行规范
 - [[guangdong-data-empower-low-altitude]] — 广东数据赋能低空经济实施方案：2025.8.1发布+八大亮点（数据要素/标准体系/一体化底座/市场化/可信空间）+七大影响+2026底标准体系/2027底可信数据空间

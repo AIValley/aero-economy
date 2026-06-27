@@ -1013,3 +1013,9 @@
 - **Key content:** 三大挑战(法律适配不足/治理体系分散/功能服务薄弱)+三条路径(技术+制度协同/"分区-分层-分级"治理/数字底座)+低空"数字神经系统"+双轨推进机制
 - **Created:** `concepts/urban-low-altitude-economy-safety-sustainable.md` — 概念页
 - **Updated:** `index.md` — added entry; bumped total pages from 159 to 160
+
+## [2026-06-27] ingest | anhui-low-altitude-action-plan
+- **Source:** `raw/web/20260627-anhui-low-altitude-action-plan.md` — AIEconomist：安徽"低空+"行动方案深度解读
+- **Key content:** 三先三后(载货>载人/隔离>融合/远郊>城区)；场景三梯队；行业四象限；三张清单；财政纪律；2028目标运营企业300家/飞行500万h/示范场景100个
+- **Created:** `concepts/anhui-low-altitude-action-plan.md` — 安徽低空概念页
+- **Updated:** `index.md` — added [[anhui-low-altitude-action-plan]]; bumped total pages from 160 to 161
