@@ -1019,3 +1019,9 @@
 - **Key content:** 三先三后(载货>载人/隔离>融合/远郊>城区)；场景三梯队；行业四象限；三张清单；财政纪律；2028目标运营企业300家/飞行500万h/示范场景100个
 - **Created:** `concepts/anhui-low-altitude-action-plan.md` — 安徽低空概念页
 - **Updated:** `index.md` — added [[anhui-low-altitude-action-plan]]; bumped total pages from 160 to 161
+
+## [2026-06-28] ingest | low-altitude-opening-june-2026
+- **Source:** `raw/web/20260628-low-altitude-opening-june-2026.md` — Zero君：万亿天路铺通—2026年6月低空经济历史性"开闸时刻"
+- **Key content:** 空域松绑三连击（湖南75.5%/深圳120米常态化/岳阳eVTOL航线）；物流盈利（美团90万单/顺丰盈亏平衡）；eVTOL（亿航洱海/沃兰特转换飞行）；大疆74%/98%全景；7万亿基建；央企铺路
+- **Created:** `concepts/low-altitude-opening-june-2026.md` — 2026年6月低空经济全景概念页
+- **Updated:** `index.md` — added [[low-altitude-opening-june-2026]]; bumped total pages from 161 to 162
