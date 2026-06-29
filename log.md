@@ -1037,3 +1037,9 @@
 - **Key content:** 11省出台低空经济标准体系指南；三大驱动（国家顶层设计2027基础框架/产业竞争倒逼/安全风险防控）；两大作用（跨区域统一技术规范降本15%+/安全监管底线）；跨省标准兼容性待解
 - **Created:** `concepts/low-altitude-standards-system-guide.md` — 概念页
 - **Updated:** `index.md` — 新增[[low-altitude-standards-system-guide]]；总页数163→164
+
+## [2026-06-29] ingest | low-altitude-vertiport-three-tier-network
+- **Source:** `raw/web/20260629-low-altitude-vertiport-three-tier-network.md` — 低空经济前沿笔记
+- **Key content:** 低空起降设施三级网络：枢纽(综合基地·每城1-3)→节点(起降场·10-30km²)→末梢(机巢/智能机库·3-10km²)；尚无国标；深圳首份城市级规划范本；铁塔2,413座存量激活案例
+- **Created:** `concepts/low-altitude-vertiport-three-tier-network.md` — 概念页
+- **Updated:** `index.md` — 新增[[low-altitude-vertiport-three-tier-network]]；总页数164→165
