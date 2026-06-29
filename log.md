@@ -1043,3 +1043,9 @@
 - **Key content:** 低空起降设施三级网络：枢纽(综合基地·每城1-3)→节点(起降场·10-30km²)→末梢(机巢/智能机库·3-10km²)；尚无国标；深圳首份城市级规划范本；铁塔2,413座存量激活案例
 - **Created:** `concepts/low-altitude-vertiport-three-tier-network.md` — 概念页
 - **Updated:** `index.md` — 新增[[low-altitude-vertiport-three-tier-network]]；总页数164→165
+
+## [2026-06-29] ingest | low-altitude-economy-rural-five-models
+- **Source:** `raw/web/20260629-low-altitude-economy-rural-five-models.md` — 心怡说乡
+- **Key content:** 低空经济进乡村五大模式（智慧农业/物流/文旅/治理/公共服务）；国务院十五五首设量化目标35万架/35亿亩次；8省升级省级战略；三类机会（政府/企业/村集体）
+- **Created:** `concepts/low-altitude-economy-rural-five-models.md` — 概念页
+- **Updated:** `index.md` — 新增[[low-altitude-economy-rural-five-models]]；总页数165→166
