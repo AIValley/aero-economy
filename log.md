@@ -1031,3 +1031,9 @@
 - **Key content:** 2026低空经济全方位盘点：1.06万亿市场/空域备案制/海南300亿目标/亿航载客/西岛物流/海油运维/六大前沿理念/半固态电池/数字孪生/六大赛道/六种盈利模式/六大刚需缺口
 - **Created:** `concepts/low-altitude-economy-june-2026-overview.md` — 概念页
 - **Updated:** `index.md` — 新增[[low-altitude-economy-june-2026-overview]]；总页数162→163
+
+## [2026-06-29] ingest | low-altitude-standards-system-guide
+- **Source:** `raw/web/20260629-low-altitude-standards-system-guide.md` — 落木识秋
+- **Key content:** 11省出台低空经济标准体系指南；三大驱动（国家顶层设计2027基础框架/产业竞争倒逼/安全风险防控）；两大作用（跨区域统一技术规范降本15%+/安全监管底线）；跨省标准兼容性待解
+- **Created:** `concepts/low-altitude-standards-system-guide.md` — 概念页
+- **Updated:** `index.md` — 新增[[low-altitude-standards-system-guide]]；总页数163→164

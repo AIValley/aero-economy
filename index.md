@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-29 | Total pages: 163
+> Last updated: 2026-06-29 | Total pages: 164
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -62,6 +62,7 @@
 - [[low-altitude-patent-strategy-guide]] — 低空经济初创企业专利策略：核心分层+快速申请（PCT）+动态管理（FTO）+低成本防御+商业化联动
 - [[low-altitude-loi-legal-status]] — 意向订单/合作意向书法律地位：三种法律地位+五大风险+七步防范；磊律系列第42篇
 - [[low-altitude-m-and-a-types]] — 低空经济公司收购方式：股权收购 vs 资产收购四大差异对比
+- [[low-altitude-standards-system-guide]] — 11省密集出台低空经济标准体系指南：三大驱动（国家顶层设计/产业竞争/安全风险）、两大作用（统一技术规范降本15%+/筑牢安全底线）、跨省标准兼容性待解
 - [[general-airport-management-regulation]] — 通用机场管理规定合规：2025.4.1施行+六要点（分类管理/场址科学/设计审查/许可备案/安全责任/阶梯处罚）+A类许可制/B类备案制+四大合规评析
 - [[general-aviation-m-and-a-guide]] — 通航企业并购全流程指南：四维价值模型+六法律风险+四级风控
 - [[drone-enterprise-m-and-a-guide]] — 无人机企业并购全流程指南：四维关注+四法律风险+三部曲风控
