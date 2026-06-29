@@ -1025,3 +1025,9 @@
 - **Key content:** 空域松绑三连击（湖南75.5%/深圳120米常态化/岳阳eVTOL航线）；物流盈利（美团90万单/顺丰盈亏平衡）；eVTOL（亿航洱海/沃兰特转换飞行）；大疆74%/98%全景；7万亿基建；央企铺路
 - **Created:** `concepts/low-altitude-opening-june-2026.md` — 2026年6月低空经济全景概念页
 - **Updated:** `index.md` — added [[low-altitude-opening-june-2026]]; bumped total pages from 161 to 162
+
+## [2026-06-29] ingest | low-altitude-economy-june-2026-overview
+- **Source:** `raw/web/20260629-low-altitude-economy-june-2026-overview.md` — 南溟枢论
+- **Key content:** 2026低空经济全方位盘点：1.06万亿市场/空域备案制/海南300亿目标/亿航载客/西岛物流/海油运维/六大前沿理念/半固态电池/数字孪生/六大赛道/六种盈利模式/六大刚需缺口
+- **Created:** `concepts/low-altitude-economy-june-2026-overview.md` — 概念页
+- **Updated:** `index.md` — 新增[[low-altitude-economy-june-2026-overview]]；总页数162→163
