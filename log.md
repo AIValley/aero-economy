@@ -1048,4 +1048,16 @@
 - **Source:** `raw/web/20260629-low-altitude-economy-rural-five-models.md` — 心怡说乡
 - **Key content:** 低空经济进乡村五大模式（智慧农业/物流/文旅/治理/公共服务）；国务院十五五首设量化目标35万架/35亿亩次；8省升级省级战略；三类机会（政府/企业/村集体）
 - **Created:** `concepts/low-altitude-economy-rural-five-models.md` — 概念页
+
+## [2026-07-01] ingest | 深圳规划布局超1500个起降点（低空经济观察）
+- **Source:** `raw/wechat/深圳规划布局超1500个起降点-低空经济观察.md` — 低空经济观察（微信公众号）
+- **Key content:** 深圳市规划和自然资源局联合深圳市发改委、深圳市交通运输局编制的《深圳市低空航空器起降设施布局规划（2026-2035年）》正式印发实施。核心："低空枢纽—末端起降点"两级设施架构；到2035年超1500个起降点；聚焦物流配送/载客运输/公共服务3大类8小类应用；CIM数字化评估
+- **Related:** `shenzhen-low-altitude-vertiport-plan`, `低空起降设施`, `eVTOL-infrastructure`
 - **Updated:** `index.md` — 新增[[low-altitude-economy-rural-five-models]]；总页数165→166
+
+## [2026-07-02] ingest | low-altitude-economy-airspace-security-special-apps
+- **Source:** `raw/wechat/low-altitude-economy-airspace-security-special-apps.md` — 丰临未来（微信公众号）：低空经济下半场最大红利
+- **Key content:** 三大底层刚需赛道——低空安防（四维感知：雷达/射频/声学/光电红外；分级处置：软反制驱离诱偏 vs 硬反制电磁压制激光；四大场景：重点设施/监所/大型活动/城市治安）、空域管控（分钟级审批平台+数字孪生动态空域+0-1000m分层标准+全生命周期溯源）、特种低空应用（边防海岸/应急救援/军警勤务/工业生态）；产业判断：空域管控=新基建红利、低空安防=安全合规红利、特种应用=政府采购红利
+- **Created:** `concepts/low-altitude-economy-airspace-security-special-apps.md` — 概念页：三大赛道详解+产业判断+5个关联概念页
+- **Updated:** `raw/wechat/low-altitude-economy-airspace-security-special-apps.md` — set sha256 body hash (d1614df8)
+- **Updated:** `index.md` — added [[low-altitude-economy-airspace-security-special-apps]] under Concepts; bumped total pages from 166 to 167
