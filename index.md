@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-02 | Total pages: 167
+> Last updated: 2026-07-07 | Total pages: 168
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -33,7 +33,8 @@
 - [[civil-aviation-law-low-altitude]] — 新《民用航空法》低空经济条款解读：2026.7.1施行，6大核心条款（空域原则/发展专章/通航分类/无人机管理/基建协同/飞行管理）
 - [[evtol-financing-h1-2026]] — 2026上半年eVTOL融资盘点：央企"耐心资本"入局、沃兰特一个月融30亿、沃飞长空首家冲击科创板IPO
 - [[low-altitude-civil-aviation-law-countdown]] — 新民航法倒计时1个月：四梁八柱制度框架（空域/安全/装备/场景+8项支撑）+四大产业信号（高域GOVY量产/小鹏万台级基地/亿航四证/美团四代机扩场景）+低空胜负手分析
-- [[low-altitude-commercial-landing-2026]] — 低空经济商业落地元年：美团医疗无人机配送毛利转正+顺丰跨城干线盈亏平衡+凤岗完整产业链+峰飞eVTOL哈萨克斯坦出海对标高铁+从业者布局指南
+|- [[low-altitude-commercial-landing-2026]] — 低空经济商业落地元年：美团医疗无人机配送毛利转正+顺丰跨城干线盈亏平衡+凤岗完整产业链+峰飞eVTOL哈萨克斯坦出海对标高铁+从业者布局指南
+|- [[low-altitude-cost-baseline-methodology]] — 低空场景成本底线方法论：五大成本类别（飞行器/电池/人员/场站/保险）+频次经济学+成本底线判断框架；长基低空
 - [[low-altitude-core-concepts-part5-safety-penalty]] — 《低空经济核心概念100问》安全与处罚篇（81-100问）：黑飞定义+2026法律框架三大升级+处罚标准速查表+六大典型案例（田某某/李某某/沈阳演唱会/泸州王某）+强制保险制度（2027-2030）+地面第三人严格责任
 - [[low-altitude-contract-practical-guide]] — 低空经济企业合同实务+初创避坑指南：六步流程+差异化谈判+低空特有五大条款+四类踩坑案例；磊律系列第39-40篇
 - [[low-altitude-cross-border-ma-guide]] — 跨境资产收购法律风险全指南：从万丰奥威收购eVTOL先驱Volocopter谈起+五大风险（国家安全审查/反垄断/合同陷阱/IP/劳动法）+中国ODI合规+三维应对体系
