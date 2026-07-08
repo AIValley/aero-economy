@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-07 | Total pages: 168
+> Last updated: 2026-07-07 | Total pages: 169
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -66,8 +66,9 @@
 - [[low-altitude-loi-legal-status]] — 意向订单/合作意向书法律地位：三种法律地位+五大风险+七步防范；磊律系列第42篇
 - [[low-altitude-m-and-a-types]] — 低空经济公司收购方式：股权收购 vs 资产收购四大差异对比
 - [[low-altitude-standards-system-guide]] — 11省密集出台低空经济标准体系指南：三大驱动（国家顶层设计/产业竞争/安全风险）、两大作用（统一技术规范降本15%+/筑牢安全底线）、跨省标准兼容性待解
-- [[general-airport-management-regulation]] — 通用机场管理规定合规：2025.4.1施行+六要点（分类管理/场址科学/设计审查/许可备案/安全责任/阶梯处罚）+A类许可制/B类备案制+四大合规评析
-- [[general-aviation-m-and-a-guide]] — 通航企业并购全流程指南：四维价值模型+六法律风险+四级风控
+|- [[general-airport-management-regulation]] — 通用机场管理规定合规：2025.4.1施行+六要点（分类管理/场址科学/设计审查/许可备案/安全责任/阶梯处罚）+A类许可制/B类备案制+四大合规评析
+|- [[ga-enterprise-ma-compliance]] — 通用航空企业并购合规路径（磊律系列）：行政许可型资产特性/两条路径(股权vs资产收购)/三大关卡(民航审批/外资红线/国资进场)/六维尽调
+|- [[general-aviation-m-and-a-guide]] — 通航企业并购全流程指南：四维价值模型+六法律风险+四级风控
 - [[drone-enterprise-m-and-a-guide]] — 无人机企业并购全流程指南：四维关注+四法律风险+三部曲风控
 - [[low-altitude-m-and-a-due-diligence-checklist]] — 低空经济并购法律尽调清单：被收购方十大领域核查要点
 - [[national-low-altitude-policy-wave-may-2026]] — 数十省密集加码低空经济：山西/青海/江苏民间资本+山东/海南文旅场景+江西空域扩容10万km²+安全监管体系
