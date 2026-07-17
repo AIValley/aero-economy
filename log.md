@@ -1061,3 +1061,10 @@
 - **Created:** `concepts/low-altitude-economy-airspace-security-special-apps.md` — 概念页：三大赛道详解+产业判断+5个关联概念页
 - **Updated:** `raw/wechat/low-altitude-economy-airspace-security-special-apps.md` — set sha256 body hash (d1614df8)
 - **Updated:** `index.md` — added [[low-altitude-economy-airspace-security-special-apps]] under Concepts; bumped total pages from 166 to 167
+
+## [2026-07-17] ingest | low-altitude-regulation-pause-2026
+- **Source:** `raw/wechat/low-altitude-regulation-pause-2026.md` — 明时社（微信公众号）：低空经济按下暂停键
+- **Key content:** 全国全域低空飞行器临时安全管控背景；短期阵痛三维度（商业暂缓/消费降温/小企业出局）；深层逻辑三重净化（斩断黑飞/抬高准入门槛/人员规范）；长期三大红利（统一监管体系/资本集中/赛道拓宽）
+- **Created:** `concepts/low-altitude-regulation-pause-2026.md` — 概念页：强监管下的行业洗牌与长期红利，5个关联概念页
+- **Updated:** `raw/wechat/low-altitude-regulation-pause-2026.md` — set sha256 body hash (789ea5275e)
+- **Updated:** `index.md` — added [[low-altitude-regulation-pause-2026]] under Concepts; bumped total pages from 169 to 170

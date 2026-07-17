@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-07 | Total pages: 169
+|> Last updated: 2026-07-17 | Total pages: 170
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -151,8 +151,9 @@
 - [[low-altitude-pe-fund-setup-guide]] — 低空经济私募股权基金设立全流程：四阶段/六注意/三大法规
 - [[low-altitude-private-enterprise-strategy-guide]] — 低空经济民营企业市场策略：国企vs民企分工格局+四大切入路径+三条发展思路；低空发展
 - [[low-altitude-private-soe-cooperation]] — 民营企业与国企/地方政府合作低空经济项目：六大注意事项+六类风险+六项合同关键条款；磊律系列第27篇
-- [[low-altitude-registered-capital-guide]] — 低空经济初创公司注册资本设定指南：四类业务建议（100万-2亿）+分阶段策略+五大核心因素
-- [[pe-evaluation-low-altitude-companies]] — PE基金四维评估模型：政策/技术/市场/团队
+|- [[low-altitude-registered-capital-guide]] — 低空经济初创公司注册资本设定指南：四类业务建议（100万-2亿）+分阶段策略+五大核心因素
+|- [[low-altitude-regulation-pause-2026]] — 低空经济按下暂停键：全国全域临时安全管控背景+短期阵痛三维度（商业暂缓/消费降温/小企业出局）+深层逻辑三重净化（斩断黑飞/抬高门槛/人员规范）+长期三大红利（统一监管/资本集中/赛道拓宽）；明时社
+|- [[pe-evaluation-low-altitude-companies]]
 - [[private-investment-low-altitude-policy]] — 国务院《促进民间投资若干措施》低空经济条款解读：四大影响+五投资启示（基建/REITs/合规风控）
 - [[shandong-drone-safety-regulation]] — 山东无人机公共安全管理合规：2026.1.1施行+持证登记+空域申请+强制保险+十行为规范+九禁止+全链条监管+最高5000元罚款
 - [[investment-location-assessment-framework]] — 投资选址八大维度评估框架：宏观/中观/微观三级分析
