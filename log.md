@@ -3,6 +3,13 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-07-17] ingest | china-commercial-space-271-consortium-2026
+- **Source:** `raw/wechat/china-commercial-space-271-consortium-2026.md` — Starplore（微信公众号）：深度｜271家名单公布：中国商业航天开始编组
+- **Key content:** 2026年7月1日国防科工体系商业航天协同创新联合体首批271家名单。核心论点：入选不等于订单——从"企业赛马"到"项目编组"。九类结构（卫星79/数据应用44/火箭41/综合31/测控23/技术18/新兴15/产业13/金融7）。四类跟踪信号：任务/标准/交付/动态
+- **Created:** `concepts/china-commercial-space-271-consortium-2026.md` — 概念页：九类结构表+四类焦虑参与者+赛马vs编组范式转变+四类跟踪指标
+- **Updated:** `raw/wechat/china-commercial-space-271-consortium-2026.md` — set sha256 body hash (7350946f)
+- **Updated:** `index.md` — added [[china-commercial-space-271-consortium-2026]] under Concepts; bumped total pages from 170 to 171
+
 ## [2026-06-08] init | Vault created
 - Domain: 低空经济（Low-Altitude Economy）
 - Structure created: SCHEMA.md, index.md, log.md
