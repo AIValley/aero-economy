@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-07-17 | Total pages: 171
+|> Last updated: 2026-07-20 | Total pages: 172
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -155,6 +155,7 @@
 |- [[low-altitude-regulation-pause-2026]] — 低空经济按下暂停键：全国全域临时安全管控背景+短期阵痛三维度（商业暂缓/消费降温/小企业出局）+深层逻辑三重净化（斩断黑飞/抬高门槛/人员规范）+长期三大红利（统一监管/资本集中/赛道拓宽）；明时社
 |- [[pe-evaluation-low-altitude-companies]]
 - [[private-investment-low-altitude-policy]] — 国务院《促进民间投资若干措施》低空经济条款解读：四大影响+五投资启示（基建/REITs/合规风控）
+- [[scenic-low-altitude-tourism-manual-2026]] — 景区低空观光完整运营手册：航线规划/空域报备/客流转化全流程+三类航线模板+四维客流转化模型+2架eVTOL回本1.9年；天集
 - [[shandong-drone-safety-regulation]] — 山东无人机公共安全管理合规：2026.1.1施行+持证登记+空域申请+强制保险+十行为规范+九禁止+全链条监管+最高5000元罚款
 - [[investment-location-assessment-framework]] — 投资选址八大维度评估框架：宏观/中观/微观三级分析
 - [[central-budget-investment-application]] — 低空经济财政资金申报
