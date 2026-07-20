@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-07-20 | Total pages: 172
+|> Last updated: 2026-07-20 | Total pages: 175
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -159,7 +159,7 @@
 - [[scenic-low-altitude-tourism-manual-2026]] — 景区低空观光完整运营手册：航线规划/空域报备/客流转化全流程+三类航线模板+四维客流转化模型+2架eVTOL回本1.9年；天集
 - [[shandong-drone-safety-regulation]] — 山东无人机公共安全管理合规：2026.1.1施行+持证登记+空域申请+强制保险+十行为规范+九禁止+全链条监管+最高5000元罚款
 - [[investment-location-assessment-framework]] — 投资选址八大维度评估框架：宏观/中观/微观三级分析
-- [[central-budget-investment-application]] — 低空经济财政资金申报
+|- [[caict-low-altitude-industry-report-2025]] — 中国信通院《低空产业高质量发展路径与策略研究报告（2025年）》：官方三阶段预测(2027年5000亿→2030年1万亿→2035年5万亿)、四域协同框架、基础设施指标预测
 - [[low-altitude-supply-chain-31-provinces]] — 十五五低空经济全产业链细分+31省份精准布局
 - [[low-altitude-university-rd-agreement]] — 低空经济企业与高校研发合作协议：八大核心条款+五大低空特有关注+里程碑付款；磊律系列第41篇
 - [[low-altitude-vertiport-construction]] — 低空飞行器起降场点建设法律问题：五大法律风险+全链条解决方案+三方建议；磊律系列第28篇
@@ -174,7 +174,7 @@
 <!-- Policy reading list -->
 
 ## References
-
+|- [[raw/reports/caict-low-altitude-industry-report-2025.md]] — 中国信通院低空产业高质量发展报告（2025年）官方PDF摘要
 ## Comparisons
 
 ## Queries
