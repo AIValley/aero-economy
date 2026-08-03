@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-08-03 | Total pages: 177
+|> Last updated: 2026-08-03 | Total pages: 178
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -160,6 +160,7 @@
 - [[private-investment-low-altitude-policy]] — 国务院《促进民间投资若干措施》低空经济条款解读：四大影响+五投资启示（基建/REITs/合规风控）
 - [[scenic-low-altitude-tourism-manual-2026]] — 景区低空观光完整运营手册：航线规划/空域报备/客流转化全流程+三类航线模板+四维客流转化模型+2架eVTOL回本1.9年；天集
 - [[shandong-drone-safety-regulation]] — 山东无人机公共安全管理合规：2026.1.1施行+持证登记+空域申请+强制保险+十行为规范+九禁止+全链条监管+最高5000元罚款
+- [[shenzhen-low-altitude-130b-plan]] — 深圳《低空基础设施高质量建设方案（2024—2026年）》：打造"全球低空经济第一城"+2026年底产值规模突破1300亿元（产值口径非总投资）+四大中心（总部研发/高端智造/全场景示范/一站式方案）+起降点1200个以上+商业航线1000条以上+SILAS全球首个低空智能融合系统；中新网/深圳商报
 - [[investment-location-assessment-framework]] — 投资选址八大维度评估框架：宏观/中观/微观三级分析
 |- [[caac-nav-database-management-spec-2026]] — 民航局《航空运营人机载导航数据库管理规范（征求意见稿）》：AC-91-FS-21R1修订自2014版+2027.1.1新造航空器机载数据强制民航局批准+数据供应商CTSOA资质+CCAR121/135/136适用+九大质量管理程序；eVTOL自主飞行导航基础设施监管、低空"GPS卡脖子"提前布局
 |- [[caict-low-altitude-industry-report-2025]] — 中国信通院《低空产业高质量发展路径与策略研究报告（2025年）》：官方三阶段预测(2027年5000亿→2030年1万亿→2035年5万亿)、四域协同框架、基础设施指标预测

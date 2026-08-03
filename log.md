@@ -1098,3 +1098,12 @@
 - **Created:** `concepts/huayuan-politburo-july-2026-review.md` — 概念页：政治局低空经济"支柱产业"定位+宏观政策方向+对低空经济影响，关联3个概念页
 - **Related:** [[low-altitude-weekly-2026-07-27-08-02]]（同政策节点双视角）、[[low-altitude-policy-evolution-2021-2026]]（支柱定型阶段佐证）、[[low-altitude-2026-policy-landscape]]（顶层背景）；已同步更新 weekly 概念页 related 字段
 - **Updated:** `index.md` — added [[huayuan-politburo-july-2026-review]] under Concepts; bumped total pages 176→177
+
+## [2026-08-03] ingest | shenzhen-low-altitude-130b-plan
+- **Source:** `raw/web/20250731-shenzhen-low-altitude-130b-plan.md` — 中国新闻网（中新社）2025-07-31 报道：深圳市发改委发布《深圳市低空基础设施高质量建设方案（2024—2026年）》
+- **URL:** https://www.chinanews.com/cj/2025/07-31/10457184.shtml（交叉验证：深圳新闻网 2025-08-01 深圳商报报道 + fgw.sz.gov.cn 官方通知 post_12305044）
+- **Verified:** 链接有效、主题匹配；⚠️ 1300亿为"2026年底低空经济产值规模突破1300亿元"（产值口径），并非任务上下文所提"总投资约1300亿"；方案为2024-2026年期，2026-07另有《深圳市低空航空器起降设施布局规划（2026-2035年）》（超1500个起降点，已存 raw/wechat/）为后续递进规划，非替代
+- **Key content:** 打造"全球低空经济第一城"；四大中心（全球总部研发中心"1+5+4"布局、高端智造中心10+2园区、全场景示范验证中心起降点1200+/商业航线1000+/"2小时同城4小时跨城"覆盖70%+、一站式解决方案供给中心SILAS）；四大重点任务；起降设施分项目标（eVTOL 283个/物流205/社区413/医疗148/商圈265/治理360）；龙华樟坑径直升机场2026底投用；产业链自主可控
+- **Created:** `concepts/shenzhen-low-altitude-130b-plan.md` — 概念页：深圳低空经济第一城方案要点+对行业六大信号；related: low-altitude-weekly-2026-07-27-08-02, low-altitude-2026-policy-landscape, low-altitude-vertiport-three-tier-network, guangdong-low-altitude-policy, low-altitude-civil-aviation-law-countdown
+- **Tags:** 低空经济, 深圳, 低空基础设施, 全球低空经济第一城, 产值规模, SILAS, 起降点, 政策方案
+- **Updated:** `index.md` — added [[shenzhen-low-altitude-130b-plan]] under Concepts; bumped total pages 177→178
