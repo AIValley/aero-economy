@@ -3,6 +3,14 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-08-03] ingest | 亿航裁员与商业化困境（"四证齐全"却飞不动）
+- **Source:** `raw/web/20260716-ehang-commercialization-struggle.md` — 每日经济新闻（新浪财经转载，2026-07-16）："四证齐全"却飞不动？ 亿航智能裁员风波背后:eVTOL的商业化为何迟迟无法起飞？ https://finance.sina.com.cn/roll/2026-07-16/doc-inihxxkr7869299.shtml
+- **Key content:** 亿航裁员（官方称"组织效能优化与人才结构焕新"、基于AI提效、聚焦低绩效岗位）；"4架之困"：2026 Q1仅交付4架EH216（2025 Q1为11架、2025 Q4达61架+5架VT35）；Q1营收2570万元、净亏1.264亿元（去年同期亏7840万）；股价7月14日跌至5-6美元、较2021年高点129.8美元跌约95%、年内跌近60%；公开售票两次跳票（原计划2026年3月广州未来城+合肥骆岗公园启动，实探未开放售票通道）；云浮二期试生产规划年产能1000架；CFO杨嘉宏维持年营收6亿指引；蔡明君"四证是入场券不是通行证"三道关+亿航个体策略失误+全球共性（Joby/Archer/Volocopter均未规模化盈利）；刘立波"空客干南航的事"制造运营边界论；Wind低空指数2026Q1营收下滑25家/净利下滑34家；三类最危险企业；破局三转变+海外优先+政府"新三样"（造场景/搭规则/建生态）
+- **Created:** `concepts/ehang-commercialization-struggle-2026.md` — 概念页：四证≠商业化核心教训（三道关）+亿航个体策略失误vs行业共性+"空中技术跑赢地面生态"错配+三类最危险企业+破局方向+对赛道信号（"亿航样本"会否扩散、融资热vs运营冷温差）
+- **Related:** low-altitude-weekly-2026-07-27-08-02, evtol-financing-h1-2026, low-altitude-commercial-landing-2026, low-altitude-civil-aviation-law-countdown, low-altitude-economy-june-2026-overview
+- **Updated:** `index.md` — added [[ehang-commercialization-struggle-2026]] under Concepts; bumped total pages from 180 to 181
+
+
 ## [2026-08-03] ingest | national-low-altitude-standardization-committee-2026
 - **Source:** `raw/regulation/national-low-altitude-standardization-committee-2026.md` — 国家标准化管理委员会《关于对拟成立的全国低空经济标准化技术委员会进行公示的通知》（2026-07-30发布，全国专业标准化技术委员会信息公示系统 org.sacinfo.org.cn/tcrm/html/25046.html）+ 头条号·南京星瑞复材全文（2026-08-01）+ 网易号·通航圈转载（2026-08-02，含官方名单下载地址）
 - **Key content:** 第一届全国低空经济标准化技术委员会拟由67名委员组成；郑剑（国家发改委低空经济发展司司长）任主任委员，陆建华院士、刘欣、王文军、孙维、陈晔任副主任委员，王宇任委员兼秘书长、张广厚任委员兼副秘书长；秘书处中国标准化研究院+国家发改委综合运输研究所联合承担；国家发改委负责日常管理和业务指导；负责低空经济基础共性/低空航空器/低空基础设施/应用场景/管理评价五大领域标准化；公示期至2026年8月29日；67人名单覆盖政产学研发用监（发改委/工信/公安/民航/市场监管+清华/北航/南航/西工大/西华+大疆/美团/顺丰/华为/中兴/宁德时代/长安/沃飞长空/联合飞机/大漠大智+中国铁塔/中电莱斯/国网/航天等）
