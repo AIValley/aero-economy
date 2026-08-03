@@ -3,6 +3,13 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-08-03] ingest | low-altitude-weekly-2026-07-27-08-02
+- **Source:** `raw/wechat/low-altitude-weekly-2026-07-27-08-02.md` — 低空观察（低空观澜，微信公众号）：低空经济周报：2026.07.27-08.02｜中央政治局把它写进了"支柱产业"
+- **Key content:** 7月30日政治局会议将低空经济列入"六大新兴支柱产业"（集成电路/航空航天/生物医药/低空经济/新型储能/智能机器人）；第一届全国低空经济标准化技术委员会67人名单公示（郑剑任主任）；武汉"城市智眼"全国首个超大城市全域无人机遥感监测网络（146座无人值守机场/47万公里/16部门共享）；猎聘报告未来5年人才缺口182万；民航局2份征求意见稿（机载导航数据库/跨水运行）；发改委"六张网"投资（算力网4万亿）；范堡罗航展eVTOL"参军"趋势（BETA混合动力/Anduril+Archer雷霆/Vertical VX4首飞）
+- **Created:** `concepts/low-altitude-weekly-2026-07-27-08-02.md` — 概念页：政治局定调六大支柱产业+标委会67人+武汉城市智眼+182万人才缺口+民航局征求意见稿+发改委六张网+范堡罗eVTOL参军+行业判断
+- **Related:** low-altitude-2026-policy-landscape, low-altitude-policy-evolution-2021-2026, civil-aviation-law-low-altitude, evtol-financing-h1-2026, low-altitude-economy-june-2026-overview
+- **Updated:** `index.md` — added [[low-altitude-weekly-2026-07-27-08-02]] under Concepts; bumped total pages from 175 to 176
+
 ## [2026-07-17] ingest | china-commercial-space-271-consortium-2026
 - **Source:** `raw/wechat/china-commercial-space-271-consortium-2026.md` — Starplore（微信公众号）：深度｜271家名单公布：中国商业航天开始编组
 - **Key content:** 2026年7月1日国防科工体系商业航天协同创新联合体首批271家名单。核心论点：入选不等于订单——从"企业赛马"到"项目编组"。九类结构（卫星79/数据应用44/火箭41/综合31/测控23/技术18/新兴15/产业13/金融7）。四类跟踪信号：任务/标准/交付/动态

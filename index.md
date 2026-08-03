@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-07-20 | Total pages: 175
+|> Last updated: 2026-08-03 | Total pages: 176
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -165,6 +165,7 @@
 - [[low-altitude-university-rd-agreement]] — 低空经济企业与高校研发合作协议：八大核心条款+五大低空特有关注+里程碑付款；磊律系列第41篇
 - [[low-altitude-vertiport-construction]] — 低空飞行器起降场点建设法律问题：五大法律风险+全链条解决方案+三方建议；磊律系列第28篇
 - [[low-altitude-vertiport-three-tier-network]] — 低空起降设施三级网络：枢纽（综合基地·每城1-3）+节点（起降场·10-30km²/个）+末梢（机巢/智能机库·3-10km²/个）；尚无国标；深圳范本/铁塔2,413座存量激活案例
+- [[low-altitude-weekly-2026-07-27-08-02]] — 低空经济周报07.27-08.02：政治局将低空经济写入"六大新兴支柱产业"+全国低空经济标委会67人公示+武汉"城市智眼"146座无人机场+猎聘182万人才缺口+民航局2份征求意见稿+发改委六张网+范堡罗eVTOL参军；低空观察
 - [[mot-2026-legislative-plan-impact]] — 交通运输部2026立法计划：41个项目+通航政策井喷（空域条例/运营准入/适航审定/人才基础）+三大趋势
 - [[national-low-altitude-policy-tiers]] — 全国低空经济三级政策体系
 - [[star-market-fifth-standard-low-altitude]] — 科创板第五套标准重启：低空经济纳入，允许未盈利上市（市值≥40亿）+四大战略路径
