@@ -1131,3 +1131,11 @@
 - **Tags:** regulation, CAAC, overwater-operation, extended-overwater, policy, draft, china, safety, low-altitude-economy, eVTOL, maritime
 - **Attachments:** P020260731342476021154.pdf（跨水运行征求意见稿全文，sha256 c2b86b1f...）；P020260731342476349910.doc（意见反馈表，.doc 二进制未能提取文本）
 - **Updated:** `index.md` — 新增[[caac-cross-water-operation-draft-2026]]（caac 组字母序首位）；总页数 179→180
+
+## [2026-08-03] ingest | ehang-switzerland-first-flight-2026
+- **Source:** `raw/web/20260707-ehang-switzerland-first-flight.md` — 亿航官网中文公告（主源）+ eVTOL Insights 英文报道（交叉验证，同一事件双源合并）
+- **URLs:** https://www.ehang.com/cn/news/1374.html / https://evtolinsights.com/ehang-completes-first-eh216-s-pilotless-flights-in-switzerland/
+- **Concept:** `concepts/ehang-switzerland-first-flight-2026.md` — 亿航EH216-S瑞士首次无人驾驶飞行（2026.7.7·提契诺州昆托·与FOCA/昆托市政府/DroneVia合作·全球演示扩至22国）：无人驾驶eVTOL出海欧洲监管里程碑；演示合作≠适航认证；CAAC vs FOCA/EASA/FAA框架对比
+- **Tags:** eVTOL, 亿航, EH216-S, 无人驾驶, 瑞士, FOCA, 适航认证, 出海, 欧洲, 首飞, 阿尔卑斯
+- **Related:** [[low-altitude-weekly-2026-07-27-08-02]], [[ehang-commercialization-struggle-2026]]（同批入库）, [[china-low-altitude-international-rule-making]], [[low-altitude-overseas-compliance]]
+- **Note:** 双源合并入库；口径纠正——两源均为"与FOCA合作开展演示/迈向适航认证"，未声称瑞士监管批准；raw 文件名按 SCHEMA 日期前缀规范定为 20260707-（任务建议名 2026- 前缀与 vault 先例不符）
