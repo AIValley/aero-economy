@@ -1114,3 +1114,12 @@
 - **Created:** `concepts/shenzhen-low-altitude-130b-plan.md` — 概念页：深圳低空经济第一城方案要点+对行业六大信号；related: low-altitude-weekly-2026-07-27-08-02, low-altitude-2026-policy-landscape, low-altitude-vertiport-three-tier-network, guangdong-low-altitude-policy, low-altitude-civil-aviation-law-countdown
 - **Tags:** 低空经济, 深圳, 低空基础设施, 全球低空经济第一城, 产值规模, SILAS, 起降点, 政策方案
 - **Updated:** `index.md` — added [[shenzhen-low-altitude-130b-plan]] under Concepts; bumped total pages 177→178
+
+## [2026-08-03] ingest | caac-cross-water-operation-draft-2026
+- **Source:** `raw/regulation/caac-cross-water-operation-draft-2026.md` — 中国民用航空局官网征求意见函 + 附件 PDF 全文提取
+- **URL:** https://www.caac.gov.cn/PHONE/HDJL/YJZJ/202607/t20260731_231404.html
+- **Key content:** 民航局飞行标准司《跨水运行（征求意见稿）》信息通告（IB-FS-OPS-XXX，CCAR-121-R8 跨水政策落地）：延伸跨水运行双门槛判定（具备一发/两发失效能力飞机 120分钟/740km，其他 30分钟/185km，以较少者为准）+三步判定法（滑翔距离93km圈→跨水运行、应急着陆机场400海里圈→延伸跨水）+适用应急着陆机场须等效ICAO第4类RFFS+应急设备梯度（跨水：救生衣+自动ELT；延伸跨水加救生筏/烟火信号器/救生型ELT/救生包/8.8kHz水下定位装置）+实施样例（B737三亚-浦东跨水运行、B787北京-西雅图延伸跨水）+六类水上救生设备介绍；反馈截止8月28日，联系人闫凤良 flyan@cauc.edu.cn
+- **Created:** `concepts/caac-cross-water-operation-draft-2026.md` — 概念页：eVTOL海上物流/救援/岛际通勤合规前提、海上场景解锁规则先行（低空+海洋经济交汇）；related: low-altitude-weekly-2026-07-27-08-02, caac-nav-database-management-spec-2026, low-altitude-2026-policy-landscape
+- **Tags:** regulation, CAAC, overwater-operation, extended-overwater, policy, draft, china, safety, low-altitude-economy, eVTOL, maritime
+- **Attachments:** P020260731342476021154.pdf（跨水运行征求意见稿全文，sha256 c2b86b1f...）；P020260731342476349910.doc（意见反馈表，.doc 二进制未能提取文本）
+- **Updated:** `index.md` — 新增[[caac-cross-water-operation-draft-2026]]（caac 组字母序首位）；总页数 179→180
