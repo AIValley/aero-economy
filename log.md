@@ -1164,3 +1164,13 @@
 - **口径说明:** 任务上下文67.64%/90.06%/72.71%/73.07%/60.34%/14.13% 属7月供需趋势洞察(近一年口径)，182万/73.85%/1:5 属2月发展报告；两份报告已在 raw 数字口径核验表显式区分
 - **Updated:** `index.md` — added [[low-altitude-talent-gap-2026]] under Concepts; bumped total pages 182→183 (sibling subagent 已并发 +2: ehang-commercialization-struggle-2026 + ehang-switzerland-first-flight-2026)
 - **Updated:** `concepts/low-altitude-weekly-2026-07-27-08-02.md` — related 添加 low-altitude-talent-gap-2026 反向链接
+
+
+## [2026-08-03] ingest | ndrc-six-networks-investment-2026
+- **Source:** `raw/web/20260731-ndrc-six-networks-investment.md` — 国家发改委7·31新闻发布会"六张网"投资实录（新浪财经全文，转自新基建投融圈）+ 中国日报"三里河"交叉分析稿；原头条号链接（21世纪经济报道）反爬，替代入库
+- **URLs:** https://finance.sina.com.cn/roll/2026-08-01/doc-inikurwm3949311.shtml（主源，发布会实录全文）/ https://china.chinadaily.com.cn/a/202608/01/WS6a6df16da310d709c2fc0fb1.html（交叉源）/ http://m.toutiao.com/group/7668632538453197331/（原链接，反爬不可提取）
+- **Concept:** `concepts/ndrc-six-networks-investment-2026.md` — '十五五'"六张网"投资全景：水网/新型电网/算力网/新一代通信网/城市地下管网/物流网；新型电网拟投超5万亿+地下管网约5万亿+算力网新增直接投资4万亿（机构测算口径）；算力网+通信网→SILAS全国铺开算力通信底座（分析层推断，发布会原文未提低空，已显式标注）
+- **口径说明:** 4万亿算力网为"有关机构测算"非发改委硬指标；电网/管网"超/约5万亿"为发改委规划表述；低空/SILAS关联为推断层，源于低空观察周报解读，非发布会原话
+- **Tags:** policy, infrastructure, investment, 六张网, 算力网, 新型电网, 地下管网, 新一代通信网, 水网, 物流网, NDRC, 十五五, SILAS
+- **Related:** low-altitude-weekly-2026-07-27-08-02, low-altitude-2026-policy-landscape, low-altitude-policy-evolution-2021-2026, huayuan-politburo-july-2026-review, low-altitude-national-pillar-industry-guide, shenzhen-low-altitude-130b-plan
+- **Index:** added [[ndrc-six-networks-investment-2026]] under Concepts; total pages 185→186（任务上下文写183→184，实际 header 已被并发 sibling 推到185，按实际值+1）
