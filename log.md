@@ -3,6 +3,13 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-08-03] ingest | national-low-altitude-standardization-committee-2026
+- **Source:** `raw/regulation/national-low-altitude-standardization-committee-2026.md` — 国家标准化管理委员会《关于对拟成立的全国低空经济标准化技术委员会进行公示的通知》（2026-07-30发布，全国专业标准化技术委员会信息公示系统 org.sacinfo.org.cn/tcrm/html/25046.html）+ 头条号·南京星瑞复材全文（2026-08-01）+ 网易号·通航圈转载（2026-08-02，含官方名单下载地址）
+- **Key content:** 第一届全国低空经济标准化技术委员会拟由67名委员组成；郑剑（国家发改委低空经济发展司司长）任主任委员，陆建华院士、刘欣、王文军、孙维、陈晔任副主任委员，王宇任委员兼秘书长、张广厚任委员兼副秘书长；秘书处中国标准化研究院+国家发改委综合运输研究所联合承担；国家发改委负责日常管理和业务指导；负责低空经济基础共性/低空航空器/低空基础设施/应用场景/管理评价五大领域标准化；公示期至2026年8月29日；67人名单覆盖政产学研发用监（发改委/工信/公安/民航/市场监管+清华/北航/南航/西工大/西华+大疆/美团/顺丰/华为/中兴/宁德时代/长安/沃飞长空/联合飞机/大漠大智+中国铁塔/中电莱斯/国网/航天等）
+- **Created:** `concepts/national-low-altitude-standardization-committee-2026.md` — 概念页：标委会意义（国标生产流水线/决定技术路线/发改委主导）+67人名单政产学研发用监六维拆解+五大领域标准地图+对从业者五条意义
+- **Related:** low-altitude-weekly-2026-07-27-08-02, low-altitude-2026-policy-landscape, low-altitude-policy-evolution-2021-2026, low-altitude-standards-system-guide-2025, low-altitude-industry-chain-three-pillars, civil-aviation-law-low-altitude
+- **Updated:** `index.md` — added [[national-low-altitude-standardization-committee-2026]] under Concepts; bumped total pages to 179
+
 ## [2026-08-03] ingest | low-altitude-weekly-2026-07-27-08-02
 - **Source:** `raw/wechat/low-altitude-weekly-2026-07-27-08-02.md` — 低空观察（低空观澜，微信公众号）：低空经济周报：2026.07.27-08.02｜中央政治局把它写进了"支柱产业"
 - **Key content:** 7月30日政治局会议将低空经济列入"六大新兴支柱产业"（集成电路/航空航天/生物医药/低空经济/新型储能/智能机器人）；第一届全国低空经济标准化技术委员会67人名单公示（郑剑任主任）；武汉"城市智眼"全国首个超大城市全域无人机遥感监测网络（146座无人值守机场/47万公里/16部门共享）；猎聘报告未来5年人才缺口182万；民航局2份征求意见稿（机载导航数据库/跨水运行）；发改委"六张网"投资（算力网4万亿）；范堡罗航展eVTOL"参军"趋势（BETA混合动力/Anduril+Archer雷霆/Vertical VX4首飞）
