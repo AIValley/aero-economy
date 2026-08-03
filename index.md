@@ -160,6 +160,7 @@
 - [[scenic-low-altitude-tourism-manual-2026]] — 景区低空观光完整运营手册：航线规划/空域报备/客流转化全流程+三类航线模板+四维客流转化模型+2架eVTOL回本1.9年；天集
 - [[shandong-drone-safety-regulation]] — 山东无人机公共安全管理合规：2026.1.1施行+持证登记+空域申请+强制保险+十行为规范+九禁止+全链条监管+最高5000元罚款
 - [[investment-location-assessment-framework]] — 投资选址八大维度评估框架：宏观/中观/微观三级分析
+|- [[caac-nav-database-management-spec-2026]] — 民航局《航空运营人机载导航数据库管理规范（征求意见稿）》：AC-91-FS-21R1修订自2014版+2027.1.1新造航空器机载数据强制民航局批准+数据供应商CTSOA资质+CCAR121/135/136适用+九大质量管理程序；eVTOL自主飞行导航基础设施监管、低空"GPS卡脖子"提前布局
 |- [[caict-low-altitude-industry-report-2025]] — 中国信通院《低空产业高质量发展路径与策略研究报告（2025年）》：官方三阶段预测(2027年5000亿→2030年1万亿→2035年5万亿)、四域协同框架、基础设施指标预测
 - [[low-altitude-supply-chain-31-provinces]] — 十五五低空经济全产业链细分+31省份精准布局
 - [[low-altitude-university-rd-agreement]] — 低空经济企业与高校研发合作协议：八大核心条款+五大低空特有关注+里程碑付款；磊律系列第41篇

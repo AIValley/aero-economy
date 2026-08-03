@@ -1082,3 +1082,11 @@
 - **Created:** `concepts/low-altitude-regulation-pause-2026.md` — 概念页：强监管下的行业洗牌与长期红利，5个关联概念页
 - **Updated:** `raw/wechat/low-altitude-regulation-pause-2026.md` — set sha256 body hash (789ea5275e)
 - **Updated:** `index.md` — added [[low-altitude-regulation-pause-2026]] under Concepts; bumped total pages from 169 to 170
+
+## [2026-08-03] ingest | caac-nav-database-management-spec-2026
+- **Source:** `raw/regulation/caac-nav-database-management-spec-draft-2026.md` — 中国民用航空局官网征求意见函 + 附件 docx 全文提取
+- **URL:** https://www.caac.gov.cn/PHONE/HDJL/YJZJ/202607/t20260728_231385.html
+- **Key content:** 民航局飞行标准司《航空运营人机载导航数据库管理规范（征求意见稿）》（AC-91-FS-21R1，修订自2014版）：支持国产导航数据规范应用；2027.1.1起新造航空器机载航空数据须获民航局批准、数据供应商须持CTSOA（1类/2类）；适用CCAR121/135/136（91部参照）；九大质量管理程序+工作流程七环节+飞行程序验证特殊流程+人员培训+局方监督11项；反馈截止8月14日邮箱liyufei@aischina.com
+- **Created:** `concepts/caac-nav-database-management-spec-2026.md` — 概念页：eVTOL自主飞行导航基础设施监管文件、低空"GPS卡脖子"提前布局；related: low-altitude-weekly-2026-07-27-08-02, low-altitude-2026-policy-landscape, civil-aviation-law-low-altitude, low-altitude-standards-system-guide
+- **Tags:** regulation, CAAC, navigation, policy, draft, china, certification, low-altitude-economy
+- **Updated:** `index.md` — 新增[[caac-nav-database-management-spec-2026]]；总页数175→176
