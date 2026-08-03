@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-08-03 | Total pages: 186
+|> Last updated: 2026-08-03 | Total pages: 187
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -181,6 +181,7 @@
 - [[star-market-fifth-standard-low-altitude]] — 科创板第五套标准重启：低空经济纳入，允许未盈利上市（市值≥40亿）+四大战略路径
 - [[state-council-54-investment-reconstruction]] — 国办函〔2026〕54号对低空产业招商的路径重构：穿透式监管+五大乱象整治（无序扩张/补贴恶性竞争/空壳化/考核短期化/监管不足）+四维转型（场景提供者/耐心资本+生态/制度型开放/引育人才）；九洲空管
 - [[china-commercial-space-271-consortium-2026]] — 中国商业航天从"企业赛马"到"项目编组"：271家联合体名单公布（7月1日）+九类结构（卫星79/数据应用44/火箭41）+四类跟踪信号；Starplore
+- [[uae-hybrid-operations-regulation-2026]] — 阿联酋GCAA全球首个"混合运行"监管框架（2025-07-02发布）：eVTOL与常规直升机共用基础设施（CAR AGA Part VFI Issue 01，459页）；证书修订三件套（安全评估/变更管理/合规登记册）；设计包络原则+风险导向应急消防；基建复用降本加速商业化；中东eVTOL商业化先行市场监管范式，对中国eVTOL出海意义重大（⚠️实际发布日期2025-07-02，任务上下文"2026新规"为推测）
 - [[urban-low-altitude-economy-safety-sustainable]] — 南开大学孙轩：城市低空经济三大挑战(法律适配不足/治理体系分散/功能服务薄弱)+三条路径(技术+制度协同/分区-分层-分级治理/数字底座)+低空数字神经系统+双轨推进机制
 - [[wuxi-suzhou-low-altitude-regulation-comparison]] — 无锡vs苏州低空经济促进条例对比：2025.10.1施行+无锡（绿色低碳/医疗应急/基建集约）+苏州（全产业链/水陆空无人体系/核心技术）+五大维度差异
 - [[wuhan-city-eyes-drone-network-2026]] — 武汉"城市智眼"（科创板日报2026-08-02）：全国首个超大城市全域低空无人机遥感监测网络——146座无人值守机场（中心城区2-3公里/开发区4-5公里半径·除禁飞区外5分钟达全市）+累计飞行47万公里/1.5万小时+服务16部门；"1+1+1+N"架构（监测网+云控平台+AI算法库+N场景）+首创高精度低空空域时空信息格网；"一套系统+多部门共享"范式；武昌交管日均90万车流量/无人机处置400起高架事故（30%远程喊话）；森林防火616次巡飞/日级监测/亚米级精度；G端场景是低空经济赚钱第一战场

@@ -1174,3 +1174,13 @@
 - **Tags:** policy, infrastructure, investment, 六张网, 算力网, 新型电网, 地下管网, 新一代通信网, 水网, 物流网, NDRC, 十五五, SILAS
 - **Related:** low-altitude-weekly-2026-07-27-08-02, low-altitude-2026-policy-landscape, low-altitude-policy-evolution-2021-2026, huayuan-politburo-july-2026-review, low-altitude-national-pillar-industry-guide, shenzhen-low-altitude-130b-plan
 - **Index:** added [[ndrc-six-networks-investment-2026]] under Concepts; total pages 185→186（任务上下文写183→184，实际 header 已被并发 sibling 推到185，按实际值+1）
+
+## [2026-08-03] ingest | uae-hybrid-operations-regulation-2026
+- **Source:** `raw/regulation/uae-hybrid-operations-regulation-2026.md` — WAM（阿联酋通讯社）阿拉伯语版（bkhbbzh，周报引用链接）+ 英语版（bkhbjp5）+ 监管文件实体 PDF（CAR AGA Part VFI Issue 01，459页）+ EnterpriseAM 报道（交叉验证，双源合并）
+- **URLs:** https://www.wam.ae/ar/article/bkhbbzh / https://www.wam.ae/en/article/bkhbjp5-gcaa-issues-first-regulatory-framework-for-hybrid / https://ent.news/2025/7/183.pdf / https://enterpriseam.com/uae/2025/07/03/uae-sets-rules-for-hybrid-evtol-helicopter-operations/
+- **Concept:** `concepts/uae-hybrid-operations-regulation-2026.md` — 阿联酋GCAA全球首个"混合运行"监管框架：eVTOL与常规直升机共用基础设施（CAR AGA Part VFI Issue 01）；证书修订三件套（安全评估/变更管理/合规登记册）；设计包络原则（CS HVI-DSN）；风险导向应急消防（VFI.OPS.D.HYB）；基建复用降本加速商业化；中东eVTOL商业化先行市场监管范式，对中国eVTOL出海意义重大
+- **Tags:** 阿联酋, GCAA, 混合运行, eVTOL, 直升机, VCA, vertiport, heliport, AAM, 中东, 适航, 基建共享
+- **Related:** [[low-altitude-weekly-2026-07-27-08-02]]（周报背景参考第11条）, [[ehang-switzerland-first-flight-2026]]（欧洲vs中东出海路径对照）, [[china-low-altitude-international-rule-making]], [[low-altitude-overseas-compliance]]
+- **日期勘误:** 任务上下文/周报隐含"2026新规"为推测；WAM JSON-LD 确认实际发布日期 **2025-07-02**（DUBAI, 2nd July, 2025）。文件名沿用任务指定 -2026 后缀，raw frontmatter 与概念页均显式标注实际日期
+- **获取过程:** WAM 页面为 Angular SPA（curl/jina 均只拿 JS 壳），改用浏览器渲染获取双语全文 + JSON-LD 元数据；监管文件实体经 EnterpriseAM 报道内嵌 PDF 直链下载（11.6MB，pdftotext 提取 459 页全文）；web_search 工具未配置，经 r.jina.ai 代理 DDG 搜索定位英文替代源
+- **Updated:** `index.md` — added [[uae-hybrid-operations-regulation-2026]] under Concepts（uae 字母序，插于 urban- 之前）；总页数 186→187（HEAD 基线经 commit 链核验：a34d8c0=186，非任务上下文的 184）
