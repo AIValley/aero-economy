@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-08-03 | Total pages: 184
+|> Last updated: 2026-08-03 | Total pages: 185
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -36,6 +36,7 @@
 - [[ehang-commercialization-struggle-2026]] — 亿航裁员与商业化困境（每经2026-07-16）：Q1交付仅4架（去年同期11架/2025Q4达61架）、净亏1.264亿、股价较高点129.8美元跌95%、公开售票两次跳票；"四证是入场券不是通行证"；三类最危险企业+破局三转变；"亿航样本"是否扩散
 - [[ehang-switzerland-first-flight-2026]] — 亿航EH216-S瑞士首次无人驾驶飞行（2026.7.7·提契诺州昆托·与FOCA/昆托市政府/DroneVia合作·全球演示扩至22国）：无人驾驶eVTOL出海欧洲监管里程碑，演示合作≠适航认证
 - [[evtol-financing-h1-2026]] — 2026上半年eVTOL融资盘点：央企"耐心资本"入局、沃兰特一个月融30亿、沃飞长空首家冲击科创板IPO
+- [[evtol-military-trend-2026]] — 范堡罗航展eVTOL"参军"全球趋势（看航空2026-07-31）：BETA混动MV250军用无人化（CT7涡轴+西科斯基MATRIX）/Anduril+Archer"雷霆"倾转旋翼忠诚僚机（与阿帕奇/MV-75协同、民用版Halo货运）/Vertical VX4航展史上首次公开演示飞行；纯电续航不足+适航慢→混动成军用主流、军用货运更快现金流；巴航×Anduril C-390托盘式武器；中国eVTOL暂无"民参军"动作——机会与风险并存
 - [[low-altitude-civil-aviation-law-countdown]] — 新民航法倒计时1个月：四梁八柱制度框架（空域/安全/装备/场景+8项支撑）+四大产业信号（高域GOVY量产/小鹏万台级基地/亿航四证/美团四代机扩场景）+低空胜负手分析
 |- [[low-altitude-commercial-landing-2026]] — 低空经济商业落地元年：美团医疗无人机配送毛利转正+顺丰跨城干线盈亏平衡+凤岗完整产业链+峰飞eVTOL哈萨克斯坦出海对标高铁+从业者布局指南
 |- [[low-altitude-cost-baseline-methodology]] — 低空场景成本底线方法论：五大成本类别（飞行器/电池/人员/场站/保险）+频次经济学+成本底线判断框架；长基低空

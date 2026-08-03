@@ -23,6 +23,7 @@ related:
   - huayuan-politburo-july-2026-review
   - civil-aviation-law-low-altitude
   - evtol-financing-h1-2026
+  - evtol-military-trend-2026
   - shenzhen-low-altitude-130b-plan
   - low-altitude-economy-june-2026-overview
   - low-altitude-talent-gap-2026

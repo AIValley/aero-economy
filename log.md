@@ -3,6 +3,15 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-08-03] ingest | evtol-military-trend-2026
+- **Source:** `raw/web/2026-farnborough-evtol-military.md` — 看航空（《中国航空报》社有限公司旗下官方账号，头条号）：美国地方政府官员积极进行"航展招商"，更多的eVTOL正在"参军"（2026-07-31）
+- **URL:** https://m.toutiao.com/group/7668594005567767075/（toutiao 直连可拿壳页，经 r.jina.ai 代理抓全文 + RENDER_DATA JSON articleInfo.content 双重提取交叉核对一致）
+- **Key content:** 2026范堡罗航展装备制造商超参展商一半（此前40%新高）；eVTOL"参军"趋势：①BETA混合动力MV250垂直起降无人飞行器=A250军用无人化版（GE航空CT7涡轴混动+西科斯基MATRIX自主系统，可用于后勤/侦察/打击）；②Anduril+Archer"雷霆"Thunder倾转旋翼无人机（混动+忠诚僚机，与阿帕奇/MV-75"夏延"Ⅱ协同，民用版Halo货运）；③Vertical Aerospace VX4全尺寸原型机完成范堡罗航展史上首次eVTOL公开过渡飞行演示+Valo混动版/无人版（近地自主合作）；纯电续航不满足军事任务→混动里程翻几倍成军用主流；载人适航认证慢→军用/货运更快现金流；跨界民参军：巴航C-390×Anduril托盘式武器（"梭鱼"-500M巡航导弹）、Anduril估值有望1000亿美元；航展订单波音173架vs空客154架+创纪录积压10年消化+英国50%+持证工程师超50岁；美国参展商+21%约占1/3、9参议员+州长"航展招商"（IRA/芯片法案补贴）；中国eVTOL暂无"民参军"动作——既是机会也是风险
+- **Created:** `concepts/evtol-military-trend-2026.md` — 概念页：eVTOL"参军"全球趋势（混动技术路线/忠诚僚机/军用现金流逻辑）+中国机会与风险（路线差距/现金流/出口管制/标准主导权）+关键数字表
+- **Related:** low-altitude-weekly-2026-07-27-08-02（周报第7节同题概述，本页为其深化）、evtol-financing-h1-2026（资本视角对照）、ehang-commercialization-struggle-2026（现金流警示）、low-altitude-commercial-landing-2026、low-altitude-profit-chain-analysis
+- **Updated:** `concepts/low-altitude-weekly-2026-07-27-08-02.md` — related 添加 evtol-military-trend-2026 反向链接
+- **Updated:** `index.md` — added [[evtol-military-trend-2026]] under Concepts; bumped total pages from 184 to 185
+
 ## [2026-08-03] ingest | 武汉"城市智眼"全域无人机遥感监测网络（全国首个超大城市全域覆盖）
 - **Source:** `raw/web/20260802-wuhan-city-eyes-drone-network.md` — 科创板日报（财联社头条号，记者李佳怡，2026-08-02）：全国首个！武汉搭建超大城市全域低空无人机监测网络 http://m.toutiao.com/group/7669431392769409574/（toutiao 直连 301 反爬，经 r.jina.ai 代理抓取全文）
 - **Key content:** 武汉市测绘研究院自研"城市智眼"低空无人机遥感监测系统，2024年8月上线：146座无人值守机场（中心城区2-3公里/开发区新城区4-5公里半径布局，除禁飞区外5分钟到达全市任一地点）；累计安全飞行超47万公里、作业1.5万小时；服务公安交管/城管/环保/园林/应急等16个部门；"1+1+1+N"架构（1监测网+1云控平台+1套AI算法库+N应用场景）；首创高精度低空空域时空信息格网，实现机场智能调度/航线智能生成/障碍智能规避、"一键直飞、接力续飞、临时转飞"；三端（飞机端/边缘端/云端）AI算力+几十类城市治理AI算子+实景三维快速生成；全市无人机接入"一网统管"平台；武昌区日均车流量90万架次、无人机累计处置400起高架交通事故（约30%远程喊话引导自处、无需民警上桥）；森林防火616次自动巡飞/181架次核查火情/"30分钟闭环"机制/监测频次季度级→日级/图斑识别亚米级；行业证据链：民航局公报全国注册无人机328.7万架/年飞行4530.29万小时(+70%)、农用无人机30万架/30亿亩次、大疆白皮书自动机场覆盖80+国800万架次、上海低空经济博览会452家企业570架航空器商业化多集中于G端/B端；大疆宋天奇"从研发制造主导向场景落地切换"；G端先行是当前最现实商业模式
