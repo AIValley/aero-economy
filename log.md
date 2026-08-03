@@ -1139,3 +1139,12 @@
 - **Tags:** eVTOL, 亿航, EH216-S, 无人驾驶, 瑞士, FOCA, 适航认证, 出海, 欧洲, 首飞, 阿尔卑斯
 - **Related:** [[low-altitude-weekly-2026-07-27-08-02]], [[ehang-commercialization-struggle-2026]]（同批入库）, [[china-low-altitude-international-rule-making]], [[low-altitude-overseas-compliance]]
 - **Note:** 双源合并入库；口径纠正——两源均为"与FOCA合作开展演示/迈向适航认证"，未声称瑞士监管批准；raw 文件名按 SCHEMA 日期前缀规范定为 20260707-（任务建议名 2026- 前缀与 vault 先例不符）
+
+## [2026-08-03] ingest | 2026-low-altitude-talent-report / low-altitude-talent-gap-2026
+- **Source:** `raw/report/2026-low-altitude-talent-report.md` — 今日头条·观会OS《年薪百万 缺口182万：中国低空经济正在"抢人"，风口还是泡沫？》(m.toutiao.com/group/7668197006241710632/) + 网易·通航圈全文转载(2026-02-28) + 凤凰网教育(2026-07-31) + 搜狐(2026-07-28) + 报告PDF(hulianhutongshequ.cn, 2026-03-05生成, 6页图片版) 五源交叉核验
+- **Key content:** 猎聘大数据研究院×航投人才《2026中国低空经济人才发展报告》(2026-02-28发布)：未来5年核心岗位人才缺口182万、供需比1:5(研发1:8/适航合规1:10)、2025新发职位+73.85%(低空基建与信息服务业+155.17%)、供给增速仅35%、高校首批毕业生3000人、复合型人才占缺口60%+/65%企业招聘受阻、深北上广67.7%岗位、深圳38.03万年薪、顶尖算法100-200万、无人机操控员缺口100万、军工6-9个月脱密周期。姊妹报告《2026低空经济领域人才供需趋势洞察》(猎聘, 2026国际低空经济博览会~07-28)：近一年新发职位+67.64%、活跃人才仅+14.13%、子领域增速(基础建设与服务业+90.06%/运营业+72.71%/配套业+73.07%/制造业+60.34%)、飞控算法+412.28%、平均年薪29.09万。"造飞机的人"vs"让飞行系统运行起来的人"范式转移
+- **Created:** `concepts/low-altitude-talent-gap-2026.md` — 概念页：供需矛盾量化(需求+67.64%~73.85% vs 供给+14.13%~35%)、三层面失衡(增速错配/金字塔结构/空间不均)、岗位结构(造飞机vs运营天空)、薪酬信号、对从业者/教育/企业三方面意义
+- **Related:** low-altitude-weekly-2026-07-27-08-02(周报已引182万), low-altitude-economy-june-2026-overview, low-altitude-economy-2026-mid-year-status(已含73.85%/28.09万), low-altitude-policy-airspace-infrastructure-scene-2026(百万飞手), low-altitude-drone-training-qualification
+- **口径说明:** 任务上下文67.64%/90.06%/72.71%/73.07%/60.34%/14.13% 属7月供需趋势洞察(近一年口径)，182万/73.85%/1:5 属2月发展报告；两份报告已在 raw 数字口径核验表显式区分
+- **Updated:** `index.md` — added [[low-altitude-talent-gap-2026]] under Concepts; bumped total pages 182→183 (sibling subagent 已并发 +2: ehang-commercialization-struggle-2026 + ehang-switzerland-first-flight-2026)
+- **Updated:** `concepts/low-altitude-weekly-2026-07-27-08-02.md` — related 添加 low-altitude-talent-gap-2026 反向链接

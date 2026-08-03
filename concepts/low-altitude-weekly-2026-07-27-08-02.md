@@ -25,6 +25,7 @@ related:
   - evtol-financing-h1-2026
   - shenzhen-low-altitude-130b-plan
   - low-altitude-economy-june-2026-overview
+  - low-altitude-talent-gap-2026
 ---
 
 # 低空经济周报：2026.07.27-08.02｜中央政治局把它写进了"支柱产业"
