@@ -1090,3 +1090,11 @@
 - **Created:** `concepts/caac-nav-database-management-spec-2026.md` — 概念页：eVTOL自主飞行导航基础设施监管文件、低空"GPS卡脖子"提前布局；related: low-altitude-weekly-2026-07-27-08-02, low-altitude-2026-policy-landscape, civil-aviation-law-low-altitude, low-altitude-standards-system-guide
 - **Tags:** regulation, CAAC, navigation, policy, draft, china, certification, low-altitude-economy
 - **Updated:** `index.md` — 新增[[caac-nav-database-management-spec-2026]]；总页数175→176
+
+## [2026-08-03] ingest | huayuan-politburo-july-2026-review
+- **Source:** `raw/report/huayuan-politburo-meeting-july-2026-review.md` — 华源证券研究所《发力提效，动能向新——2026年7月政治局会议点评》（PDF直接下载成功，pdftotext提取4页全文）
+- **URL:** https://pdf.dfcfw.com/pdf/H3_AP202607311827530014_1.pdf（东方财富网）
+- **Key content:** 2026.7.30中央政治局会议点评：发改委明确六大新兴支柱产业（集成电路/航空航天/生物医药/低空经济/新型储能/智能机器人）+六大未来产业；宏观政策"发力提效"+加大逆周期调节+增量政策；财政加快支出与债券资金使用进度（两重/两新/六张网）；货币适度宽松或降准配合；扩大内需核心抓手；资本市场提升韧性和信心；AI+从"全面实施"转"深入实施"
+- **Created:** `concepts/huayuan-politburo-july-2026-review.md` — 概念页：政治局低空经济"支柱产业"定位+宏观政策方向+对低空经济影响，关联3个概念页
+- **Related:** [[low-altitude-weekly-2026-07-27-08-02]]（同政策节点双视角）、[[low-altitude-policy-evolution-2021-2026]]（支柱定型阶段佐证）、[[low-altitude-2026-policy-landscape]]（顶层背景）；已同步更新 weekly 概念页 related 字段
+- **Updated:** `index.md` — added [[huayuan-politburo-july-2026-review]] under Concepts; bumped total pages 176→177

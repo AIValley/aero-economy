@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-08-03 | Total pages: 176
+|> Last updated: 2026-08-03 | Total pages: 177
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -26,6 +26,7 @@
 - [[guangdong-low-altitude-policy]] — 广东省低空经济支持政策：七大突破+企业六策
 - [[guangzhou-low-altitude-regulation]] — 广州低空经济发展条例：2025.2.28施行+8章41条+社会资本参与基建+低空安全保障基金+保险创新+数据合规+反制体系
 - [[guangzhou-vertiport-technical-guide]] — 广州低空垂直起降设施技术指引：全国首个市级指引+四大合规领域+关键安全距离；磊律系列第36篇
+- [[huayuan-politburo-july-2026-review]] — 华源证券7月政治局会议点评：发改委明确低空经济列入六大新兴支柱产业（集成电路/航空航天/生物医药/低空经济/新型储能/智能机器人）；宏观政策"发力提效"+加大逆周期调节；财政加快支出与债券资金使用进度、"两重两新六张网"为重点；货币适度宽松或降准配合；扩大内需为核心抓手；资本市场提升韧性和信心
 - [[2025-low-altitude-investment-ma-trends]] — 2025低空经济投资并购趋势：160起/115.94亿 + 七大趋势 + 投资逻辑三转变 + 四大风险；低空发展
 - [[2025-low-altitude-legal-article-index]] — 2025年度低空经济法律原创文章分类索引
 - [[2025-low-altitude-regulatory-trends]] — 2025中国低空经济六大监管趋势：顶层统筹/安全防控/空域革新/标准建设/场景拓展/产业升级；低空评论

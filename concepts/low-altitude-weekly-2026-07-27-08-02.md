@@ -20,6 +20,7 @@ status: active
 related:
   - low-altitude-2026-policy-landscape
   - low-altitude-policy-evolution-2021-2026
+  - huayuan-politburo-july-2026-review
   - civil-aviation-law-low-altitude
   - evtol-financing-h1-2026
   - low-altitude-economy-june-2026-overview
