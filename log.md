@@ -3,6 +3,13 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-08-03] ingest | 武汉"城市智眼"全域无人机遥感监测网络（全国首个超大城市全域覆盖）
+- **Source:** `raw/web/20260802-wuhan-city-eyes-drone-network.md` — 科创板日报（财联社头条号，记者李佳怡，2026-08-02）：全国首个！武汉搭建超大城市全域低空无人机监测网络 http://m.toutiao.com/group/7669431392769409574/（toutiao 直连 301 反爬，经 r.jina.ai 代理抓取全文）
+- **Key content:** 武汉市测绘研究院自研"城市智眼"低空无人机遥感监测系统，2024年8月上线：146座无人值守机场（中心城区2-3公里/开发区新城区4-5公里半径布局，除禁飞区外5分钟到达全市任一地点）；累计安全飞行超47万公里、作业1.5万小时；服务公安交管/城管/环保/园林/应急等16个部门；"1+1+1+N"架构（1监测网+1云控平台+1套AI算法库+N应用场景）；首创高精度低空空域时空信息格网，实现机场智能调度/航线智能生成/障碍智能规避、"一键直飞、接力续飞、临时转飞"；三端（飞机端/边缘端/云端）AI算力+几十类城市治理AI算子+实景三维快速生成；全市无人机接入"一网统管"平台；武昌区日均车流量90万架次、无人机累计处置400起高架交通事故（约30%远程喊话引导自处、无需民警上桥）；森林防火616次自动巡飞/181架次核查火情/"30分钟闭环"机制/监测频次季度级→日级/图斑识别亚米级；行业证据链：民航局公报全国注册无人机328.7万架/年飞行4530.29万小时(+70%)、农用无人机30万架/30亿亩次、大疆白皮书自动机场覆盖80+国800万架次、上海低空经济博览会452家企业570架航空器商业化多集中于G端/B端；大疆宋天奇"从研发制造主导向场景落地切换"；G端先行是当前最现实商业模式
+- **Created:** `concepts/wuhan-city-eyes-drone-network-2026.md` — 概念页：规模数据表+技术架构+"一套系统+多部门共享"范式（所有权与使用权分离/城市公共品化）+三大可量化场景成效+G端=低空经济赚钱第一战场行业判断+对从业者五点意义（产品化框架/G端商业模式/硬技术栈/投资信号/政策窗口）
+- **Related:** low-altitude-weekly-2026-07-27-08-02, low-altitude-2026-policy-landscape, low-altitude-economy-airspace-security-special-apps, low-altitude-infrastructure-7-trillion-2026, low-altitude-first-running-scenarios, low-altitude-vertiport-three-tier-network, urban-low-altitude-economy-safety-sustainable, low-altitude-commercial-landing-2026
+- **Updated:** `index.md` — added [[wuhan-city-eyes-drone-network-2026]] under Concepts; bumped total pages from 183 to 184
+
 ## [2026-08-03] ingest | 亿航裁员与商业化困境（"四证齐全"却飞不动）
 - **Source:** `raw/web/20260716-ehang-commercialization-struggle.md` — 每日经济新闻（新浪财经转载，2026-07-16）："四证齐全"却飞不动？ 亿航智能裁员风波背后:eVTOL的商业化为何迟迟无法起飞？ https://finance.sina.com.cn/roll/2026-07-16/doc-inihxxkr7869299.shtml
 - **Key content:** 亿航裁员（官方称"组织效能优化与人才结构焕新"、基于AI提效、聚焦低绩效岗位）；"4架之困"：2026 Q1仅交付4架EH216（2025 Q1为11架、2025 Q4达61架+5架VT35）；Q1营收2570万元、净亏1.264亿元（去年同期亏7840万）；股价7月14日跌至5-6美元、较2021年高点129.8美元跌约95%、年内跌近60%；公开售票两次跳票（原计划2026年3月广州未来城+合肥骆岗公园启动，实探未开放售票通道）；云浮二期试生产规划年产能1000架；CFO杨嘉宏维持年营收6亿指引；蔡明君"四证是入场券不是通行证"三道关+亿航个体策略失误+全球共性（Joby/Archer/Volocopter均未规模化盈利）；刘立波"空客干南航的事"制造运营边界论；Wind低空指数2026Q1营收下滑25家/净利下滑34家；三类最危险企业；破局三转变+海外优先+政府"新三样"（造场景/搭规则/建生态）

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-08-03 | Total pages: 183
+|> Last updated: 2026-08-03 | Total pages: 184
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -181,6 +181,7 @@
 - [[china-commercial-space-271-consortium-2026]] — 中国商业航天从"企业赛马"到"项目编组"：271家联合体名单公布（7月1日）+九类结构（卫星79/数据应用44/火箭41）+四类跟踪信号；Starplore
 - [[urban-low-altitude-economy-safety-sustainable]] — 南开大学孙轩：城市低空经济三大挑战(法律适配不足/治理体系分散/功能服务薄弱)+三条路径(技术+制度协同/分区-分层-分级治理/数字底座)+低空数字神经系统+双轨推进机制
 - [[wuxi-suzhou-low-altitude-regulation-comparison]] — 无锡vs苏州低空经济促进条例对比：2025.10.1施行+无锡（绿色低碳/医疗应急/基建集约）+苏州（全产业链/水陆空无人体系/核心技术）+五大维度差异
+- [[wuhan-city-eyes-drone-network-2026]] — 武汉"城市智眼"（科创板日报2026-08-02）：全国首个超大城市全域低空无人机遥感监测网络——146座无人值守机场（中心城区2-3公里/开发区4-5公里半径·除禁飞区外5分钟达全市）+累计飞行47万公里/1.5万小时+服务16部门；"1+1+1+N"架构（监测网+云控平台+AI算法库+N场景）+首创高精度低空空域时空信息格网；"一套系统+多部门共享"范式；武昌交管日均90万车流量/无人机处置400起高架事故（30%远程喊话）；森林防火616次巡飞/日级监测/亚米级精度；G端场景是低空经济赚钱第一战场
 <!-- Policy reading list -->
 
 ## References
