@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-08-13 | Total pages: 188
+|> Last updated: 2026-08-13 | Total pages: 189
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -32,7 +32,9 @@
 - [[2025-low-altitude-regulatory-trends]] — 2025中国低空经济六大监管趋势：顶层统筹/安全防控/空域革新/标准建设/场景拓展/产业升级；低空评论
 - [[air-tour-market-compliance]] — 《空中游览市场暂行办法》合规要点：9大维度+3年投诉记录保存
 - [[china-low-altitude-international-rule-making]] — 中国推动低空经济国际规则制定：标准先行/机制互认/数据融通/示范破局四维战略；深圳世界无人机大会演讲
-- [[civil-aviation-law-low-altitude]] — 新《民用航空法》低空经济条款解读：2026.7.1施行，6大核心条款（空域原则/发展专章/通航分类/无人机管理/基建协同/飞行管理）
+- [[civil-aviation-law-low-altitude]] —
+- [[commercial-franchise-regulation]] — 商业特许经营管理条例（国务院令第485号，2007.5.1施行）：特许人须为企业/"两店一年"（2直营店+1年）/15日备案/订约前30日书面披露12项信息/冷静期单方解除/合同期≥3年；低空加盟合规上位法，配套最高法7件典型案例
+ 新《民用航空法》低空经济条款解读：2026.7.1施行，6大核心条款（空域原则/发展专章/通航分类/无人机管理/基建协同/飞行管理）
 - [[ehang-commercialization-struggle-2026]] — 亿航裁员与商业化困境（每经2026-07-16）：Q1交付仅4架（去年同期11架/2025Q4达61架）、净亏1.264亿、股价较高点129.8美元跌95%、公开售票两次跳票；"四证是入场券不是通行证"；三类最危险企业+破局三转变；"亿航样本"是否扩散
 - [[ehang-switzerland-first-flight-2026]] — 亿航EH216-S瑞士首次无人驾驶飞行（2026.7.7·提契诺州昆托·与FOCA/昆托市政府/DroneVia合作·全球演示扩至22国）：无人驾驶eVTOL出海欧洲监管里程碑，演示合作≠适航认证
 - [[evtol-financing-h1-2026]] — 2026上半年eVTOL融资盘点：央企"耐心资本"入局、沃兰特一个月融30亿、沃飞长空首家冲击科创板IPO
