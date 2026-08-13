@@ -8,7 +8,7 @@
 - **URL:** https://www.gov.cn/gongbao/content/2007/content_564109.htm
 - **Concept:** `concepts/commercial-franchise-regulation.md` — 条例核心制度（特许人须为企业/两店一年/15日备案/订约前30日披露12项信息/冷静期/合同期≥3年/违法罚则）+低空加盟合规关系
 - **Tags:** 商业特许经营管理条例, 国务院令485号, 特许经营, 加盟, 两店一年, 备案, 信息披露, 冷静期
-- **Related:** [[franchise-typical-cases-low-altitude-lessons]]（sibling 并行入库中）、[[low-altitude-franchise-risk-guide]]
+- **Related:** [[franchise-typical-cases-low-altitude-lessons]]（sibling 并行入库中）、[[franchise-typical-cases-supreme-court-2026]]（概念页并行入库中，已预关联）、[[low-altitude-franchise-risk-guide]]
 
 ## [2026-08-13] ingest | franchise-typical-cases-low-altitude-lessons
 - **Source:** `raw/wechat/franchise-typical-cases-low-altitude-lessons.md` — 微信公众号「磊律（张磊律师低空经济法律事务团队）」：最高法特许经营典型案例给低空经济业务开展的启示

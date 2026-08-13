@@ -5,7 +5,7 @@ created: 2026-08-13
 updated: 2026-08-13
 type: concept
 ingested_from: https://www.gov.cn/gongbao/content/2007/content_564109.htm
-related: [franchise-typical-cases-low-altitude-lessons, low-altitude-franchise-risk-guide]
+related: [franchise-typical-cases-low-altitude-lessons, franchise-typical-cases-supreme-court-2026, low-altitude-franchise-risk-guide]
 source: 中国政府网（国务院公报 2007年第10号）
 confidence: high
 ---
@@ -52,6 +52,9 @@ confidence: high
 
 ### [[franchise-typical-cases-low-altitude-lessons]]
 最高法7件典型案例（2026-08-12发布）是条例的**司法适用样本**：案例裁判要旨（合同定性穿透、冷静期适用、主体资格、虚假宣传、履约能力、"两店一年"备案、刑事诈骗七维度）几乎逐条对应本条例第3/7/8/12/21-23/24-29条。本页提供**法规原文与罚则**，案例页提供**裁判规则与低空场景映射**——两者互补，构成"法条+案例"双支柱。
+
+### [[franchise-typical-cases-supreme-court-2026]]
+最高法 2026-08-12 发布的 7 件商业特许经营典型案例**裁判要旨全集**（概念页并行入库中，已预关联 wikilink）。本页为条例**法条原文层**（权利义务与罚则），该页为**司法裁判层**（案例定性规则）——低空加盟合规研究以"条例文本 + 案例裁判"双层引用。
 
 ### [[low-altitude-franchise-risk-guide]]
 张磊律师加盟风险指南从**加盟商尽调视角**给出五维尽调+六大风险清单；本条例为该指南的合规检查项提供**法条依据**（备案查证=第8/10条公示名单、冷静期维权=第12条、信息披露=第21-23条）。
