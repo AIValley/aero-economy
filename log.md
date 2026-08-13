@@ -17,6 +17,14 @@
 - **Tags:** 低空经济, 特许经营, 加盟, 风险防范, 典型案例, 合规, 磊律系列
 - **Related:** low-altitude-franchise-risk-guide、low-altitude-fake-project-guide、low-altitude-economy-project-cooperation-risk、low-altitude-unfair-competition-guide、low-altitude-contract-practical-guide（全部概念页已确认存在）
 
+## [2026-08-13] ingest | 最高法商业特许经营典型案例（官方原文追溯）
+- **Source:** `raw/policy/20260812-spc-franchise-typical-cases.md` — 最高人民法院新闻局官方发布（2026-08-12）：7件商业特许经营典型案例全文（基本案情/裁判结果/典型意义/案号）
+- **URL:** https://www.court.gov.cn/zixun/xiangqing/508501.html
+- **Concept:** `concepts/franchise-typical-cases-supreme-court-2026.md` — 发布背景（官方4大特点）+7案要旨表+逐案要点+对低空经济启示映射表（案例→低空场景）；一手源档案层，与主文章分析层互补
+- **Tags:** 最高人民法院, 商业特许经营, 典型案例, 加盟, 冷静期, 两店一年, 虚假宣传, 合同诈骗, 司法政策
+- **Related:** franchise-typical-cases-low-altitude-lessons（主文章分析层）、commercial-franchise-regulation（条例上位法，sibling 同日入库）、low-altitude-franchise-risk-guide
+- **Verified:** 官方全文与新华社/人民网/人民法院报报道交叉核验一致；sha256=f6a7244315be81e27a89a63ae843576af1dcd2c0c57cb973ee8ae8f33f0f323d
+
 ## [2026-08-03] ingest | evtol-military-trend-2026
 - **Source:** `raw/web/2026-farnborough-evtol-military.md` — 看航空（《中国航空报》社有限公司旗下官方账号，头条号）：美国地方政府官员积极进行"航展招商"，更多的eVTOL正在"参军"（2026-07-31）
 - **URL:** https://m.toutiao.com/group/7668594005567767075/（toutiao 直连可拿壳页，经 r.jina.ai 代理抓全文 + RENDER_DATA JSON articleInfo.content 双重提取交叉核对一致）

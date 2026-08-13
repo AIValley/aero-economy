@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-08-13 | Total pages: 189
+|> Last updated: 2026-08-13 | Total pages: 190
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -109,6 +109,7 @@
 - [[startup-investor-due-diligence-guide]] — 低空经济企业应对投资尽调指南：数据室/沟通/五误区
 - [[founder-vam-buyback-protection]]
 - [[franchise-typical-cases-low-altitude-lessons]] — 最高法7件商业特许经营典型案例（2026-08-12发布）给低空经济业务启示：合同定性穿透/冷静期/主体资格/虚假宣传/履约能力/两店一年备案/刑事诈骗七维度合规指引；磊律 — 创始人融资对赌/回购条款保护策略：四防线+四不要
+- [[franchise-typical-cases-supreme-court-2026]] — 最高法商业特许经营典型案例（2026-08-12发布·7件官方全文一手源档案页）：合同性质实质性认定/冷静期法定权利/非企业主体合同无效/编造数据欺诈/履约能力动态审查/两店一年+备案/合同诈骗罪七类裁判规则，配套[[franchise-typical-cases-low-altitude-lessons]]启示分析层
 - [[low-altitude-financing-channels-overview]] — 低空经济企业融资渠道全景：股权/债权/政府/创新四类+五建议
 - [[low-altitude-financing-negotiation-tips]] — 低空经济初创企业融资谈判：六大要点（估值/商业模式/控制权/退出）与九大注意事项
 - [[low-altitude-financing-practical-tips]] — 低空经济初创企业融资实操提醒：尽调坦诚/合同签署/交割/清算优先权/回购权/员工期权五大关键
