@@ -3,6 +3,13 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-08-13] ingest | franchise-typical-cases-low-altitude-lessons
+- **Source:** `raw/wechat/franchise-typical-cases-low-altitude-lessons.md` — 微信公众号「磊律（张磊律师低空经济法律事务团队）」：最高法特许经营典型案例给低空经济业务开展的启示
+- **URL:** https://mp.weixin.qq.com/s/4ULpVlci5kb1xsfqvzcIOQ
+- **Concept:** `concepts/franchise-typical-cases-low-altitude-lessons.md` — 2026-08-12最高法发布7件商业特许经营典型案例（合同性质认定/冷静期/特许人主体资格/虚假宣传/履约能力/两店一年备案/刑事诈骗七类裁判要旨）+低空经济特许经营四特殊性（技术门槛高/监管严/投资大/行业早期）+对低空经济业务七点启示
+- **Tags:** 低空经济, 特许经营, 加盟, 风险防范, 典型案例, 合规, 磊律系列
+- **Related:** low-altitude-franchise-risk-guide、low-altitude-fake-project-guide、low-altitude-economy-project-cooperation-risk、low-altitude-unfair-competition-guide、low-altitude-contract-practical-guide（全部概念页已确认存在）
+
 ## [2026-08-03] ingest | evtol-military-trend-2026
 - **Source:** `raw/web/2026-farnborough-evtol-military.md` — 看航空（《中国航空报》社有限公司旗下官方账号，头条号）：美国地方政府官员积极进行"航展招商"，更多的eVTOL正在"参军"（2026-07-31）
 - **URL:** https://m.toutiao.com/group/7668594005567767075/（toutiao 直连可拿壳页，经 r.jina.ai 代理抓全文 + RENDER_DATA JSON articleInfo.content 双重提取交叉核对一致）

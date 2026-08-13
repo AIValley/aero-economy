@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-08-03 | Total pages: 187
+|> Last updated: 2026-08-13 | Total pages: 188
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -105,7 +105,8 @@
 - [[low-altitude-trademark-strategy-guide]] — 低空经济商标保护六维策略：及早注册+显著性+使用管理+积极维权+规避侵权+体系文化
 - [[low-altitude-unfair-competition-guide]] — 低空经济应对不正当竞争完整体系：四步框架+四大行为+2025新反法六禁止+最高法8案例启示+五类不正当竞争情形及防范（张磊律师实务分析）
 - [[startup-investor-due-diligence-guide]] — 低空经济企业应对投资尽调指南：数据室/沟通/五误区
-- [[founder-vam-buyback-protection]] — 创始人融资对赌/回购条款保护策略：四防线+四不要
+- [[founder-vam-buyback-protection]]
+- [[franchise-typical-cases-low-altitude-lessons]] — 最高法7件商业特许经营典型案例（2026-08-12发布）给低空经济业务启示：合同定性穿透/冷静期/主体资格/虚假宣传/履约能力/两店一年备案/刑事诈骗七维度合规指引；磊律 — 创始人融资对赌/回购条款保护策略：四防线+四不要
 - [[low-altitude-financing-channels-overview]] — 低空经济企业融资渠道全景：股权/债权/政府/创新四类+五建议
 - [[low-altitude-financing-negotiation-tips]] — 低空经济初创企业融资谈判：六大要点（估值/商业模式/控制权/退出）与九大注意事项
 - [[low-altitude-financing-practical-tips]] — 低空经济初创企业融资实操提醒：尽调坦诚/合同签署/交割/清算优先权/回购权/员工期权五大关键
