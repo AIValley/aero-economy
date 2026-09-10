@@ -3,6 +3,13 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-09-10] reconcile | index.md 孤儿页/幽灵条目对账
+- **修正:** 幽灵条目 `[[equity-proxy-holding]]` 指向不存在的页面，真实页面为 `low-altitude-equity-proxy-holding`（低空经济公司股权代持指南，磊律系列第53篇）→ 重命名为真实 slug
+- **补齐:** 新增孤儿页条目 `central-budget-investment-application`（2026 低空经济财政资金三大渠道对比与申报策略：中央预算内投资/超长期特别国债/地方政府专项债）
+- **格式修正:** `[[raw/reports/caict-low-altitude-industry-report-2025.md]]` 为 raw 路径误用 wikilink → 改为 markdown 链接
+- **结果:** 180 页面 ↔ 180 条目，孤儿 0 / 幽灵 0
+- **Updated:** 2026-09-10
+
 ## [2026-09-10] fix | index.md 历史污染修复
 - **背景:** index.md 积累了历史污染——部分条目行带 `|`/`||`/`|||` 与行号前缀（早期把 `read_file` 带行号输出回写进文件所致），部分条目摘要整段丢失，另有重复条目与 `Total pages` 计数漂移（14 个 vault 全量体检发现）
 - **工具:** `~/.hermes/skills/research/vault-ingest-workflow/scripts/repair_index_corruption.py`（新增，支持 dry-run / --apply / --restore-truncated，内置"历史误拼"安全护栏）

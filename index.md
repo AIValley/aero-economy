@@ -138,7 +138,7 @@
 - [[low-altitude-smart-open-platform-xiong-an]] — 雄安低空智能开放平台(visdrone.net)：数据/模型/场景三模块闭环，70+数据集/30+预训练模型/60+巡检AI模型，覆盖14省100+城市，千万级标注样本
 - [[low-altitude-strategic-positioning-guide]] — 低空经济企业战略定位：生态构建者 vs 垂直领域领军者，双路径分析+动态协同策略；低空发展评论
 - [[equity-financing-legal-risks]] — 低空经济股权融资法律风险清单：七大风险+三段式对策
-- [[equity-proxy-holding]] — 低空经济公司股权代持四维必要性+书面协议四重要性+风险提示；磊律系列第53篇
+- [[low-altitude-equity-proxy-holding]] — 低空经济公司股权代持四维必要性+书面协议四重要性+风险提示；磊律系列第53篇
 - [[low-altitude-emergency-rescue]] — 国务院十五五规划明确"低空+应急"场景：1小时航空救援网络、应急侦测、体系化建设方向
 - [[low-altitude-equity-incentives]] — 低空经济公司股权激励全指南：注意事项与风险篇 + 实务机制适用性分析；磊律系列第13-14篇
 - [[low-altitude-equity-structure-guide]] — 低空经济股权架构搭建指南：三种模式(单一/集团化/合伙)+三阶段路线图+控制权/IP/ESOP/外资准入六大实务
@@ -173,6 +173,7 @@
 - [[caac-cross-water-operation-draft-2026]] — 民航局《跨水运行（征求意见稿）》：CCAR-121-R8延伸跨水定义落地（120分钟/740km与30分钟/185km双门槛判定）+滑翔距离圈判定方法+实施样例（三亚-浦东跨水/北京-西雅图延伸跨水）+水上应急设备梯度（救生衣/救生筏/ELT/水下定位8.8kHz）；eVTOL海上物流/救援/岛际通勤合规前提、海上场景解锁规则先行
 - [[caac-nav-database-management-spec-2026]] — 民航局《航空运营人机载导航数据库管理规范（征求意见稿）》：AC-91-FS-21R1修订自2014版+2027.1.1新造航空器机载数据强制民航局批准+数据供应商CTSOA资质+CCAR121/135/136适用+九大质量管理程序；eVTOL自主飞行导航基础设施监管、低空"GPS卡脖子"提前布局
 - [[caict-low-altitude-industry-report-2025]] — 中国信通院《低空产业高质量发展路径与策略研究报告（2025年）》：官方三阶段预测(2027年5000亿→2030年1万亿→2035年5万亿)、四域协同框架、基础设施指标预测
+- [[central-budget-investment-application]] — 2026 年低空经济财政资金三大渠道对比与申报策略：**中央预算内投资**（无偿拨款、无需偿还；东部补贴 15-35%、中西部 30-60%；投向技术攻关/中试平台/适航认证；单项目上限最高 5 亿元；纯公益与技术攻关首选）、**超长期特别国债**（期限长成本低；按总投资核定；投向低空产业园/算力枢纽；产业园与基建优先）、**地方政府专项债**（有收益的公益性项目债券；可作项目资本金 ≤30%；按收益覆盖倍数核定；有收益类基建优先）。四大正面投向之首为关键技术攻关（新质生产力专项）：eVTOL 整机、飞控芯片、机载氢能动力、轻量化复合材料、北斗低空导航、5G-A 低空通感一体——国产化率越高补助比例越高
 - [[low-altitude-supply-chain-31-provinces]] — 十五五低空经济全产业链细分+31省份精准布局
 - [[low-altitude-university-rd-agreement]] — 低空经济企业与高校研发合作协议：八大核心条款+五大低空特有关注+里程碑付款；磊律系列第41篇
 - [[low-altitude-vertiport-construction]] — 低空飞行器起降场点建设法律问题：五大法律风险+全链条解决方案+三方建议；磊律系列第28篇
@@ -192,7 +193,7 @@
 <!-- Policy reading list -->
 
 ## References
-- [[raw/reports/caict-low-altitude-industry-report-2025.md]] — 中国信通院低空产业高质量发展报告（2025年）官方PDF摘要
+- [中国信通院低空产业高质量发展报告（2025年）](raw/reports/caict-low-altitude-industry-report-2025.md) — 中国信通院低空产业高质量发展报告（2025年）官方PDF摘要
 ## Comparisons
 
 ## Queries
