@@ -32,7 +32,7 @@ related: [低空经济公司注册与经营范围, 低空经济公司注册资�
 
 ## 相关概念
 
-- [[低空经济公司注册与经营范围]]
-- [[低空经济公司注册资本设定]]
+- [[low-altitude-company-registration-scope]]
+- [[low-altitude-registered-capital-guide]]
 
 <!-- STATUS: DONE -->

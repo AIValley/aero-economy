@@ -3,6 +3,16 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-09-10] fix | 跨库/悬空 wikilink 规范化
+- **背景:** 扫描全部 13 个 vault 的 index.md 与概念页，发现 164 处 wikilink 无法在本库解析
+- **修复动作:**
+  - **跨库链接（19+3 处）** → 改为显式文字引用「`slug（见 <vault> 库）`」，含畸形写法 `[[vault:X:concepts/slug]]` 的解析修复
+  - **raw 路径伪链接** → `[[slug|显示名]]` 其页面只存在于 raw/ 者，改为 markdown 链接 `[显示名](raw/...)`（trusted-data-space / wiki-common / ai / web3）
+  - **同库拼写修正** → 尾部反斜杠转义 `[[slug\]]`、日期前缀多余（`20251114-ey-ai-...` → `ey-ai-...`）、大小写/空格/连字符不一致（`[[Abridge]]` → `[[abridge]]` 等 26 个文件）、同义改名（`citi-rwa-tokenization-2030` → `-hongkong`）、aero-economy 中文链接近似映射到英文 slug（`低空经济公司注册资本设定` → `low-altitude-registered-capital-guide` 等）
+  - **描述性伪链接** → `[[wikilinks]]` 改为纯文本
+- **结果:** 跨库可解析链接残留 **0**；未解析链接由 164 降至 **79**（均为尚无对应页面的「待建」关联概念，属正常 wiki 状态，保留不动）
+- **Updated:** 2026-09-10
+
 ## [2026-09-10] reconcile | index.md 孤儿页/幽灵条目对账
 - **修正:** 幽灵条目 `[[equity-proxy-holding]]` 指向不存在的页面，真实页面为 `low-altitude-equity-proxy-holding`（低空经济公司股权代持指南，磊律系列第53篇）→ 重命名为真实 slug
 - **补齐:** 新增孤儿页条目 `central-budget-investment-application`（2026 低空经济财政资金三大渠道对比与申报策略：中央预算内投资/超长期特别国债/地方政府专项债）

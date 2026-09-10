@@ -38,9 +38,9 @@ related: [低空经济初创企业股权稀释与控制权保护, 低空经济�
 
 ## 相关概念
 
-- [[低空经济初创企业股权稀释与控制权保护]] — 股权稀释与控制权工具
-- [[低空经济公司设立全流程]] — 公司设立总纲
-- [[低空经济公司章程模板]] — 章程五版本
-- [[低空经济股东协议与出资协议书模板]] — 股东协议与出资协议
+- [[low-altitude-startup-equity-dilution]] — 股权稀释与控制权工具
+- [[low-altitude-company-formation-master-guide]] — 公司设立总纲
+- [[low-altitude-company-charter-template]] — 章程五版本
+- [[low-altitude-shareholder-agreement-template]] — 股东协议与出资协议
 
 <!-- STATUS: DONE -->

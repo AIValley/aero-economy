@@ -43,8 +43,8 @@ related: [低空经济公司设立全流程, 低空经济公司章程模板, 低
 
 ## 参见
 
-- [[低空经济公司设立全流程]] — 股东协议与章程的关系
-- [[低空经济公司章程模板]] — 章程五版本
+- [[low-altitude-company-formation-master-guide]] — 股东协议与章程的关系
+- [[low-altitude-company-charter-template]] — 章程五版本
 
 ## 股东协议 vs 公司章程 完整对比
 

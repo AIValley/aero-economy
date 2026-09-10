@@ -34,8 +34,8 @@ related: [低空经济初创企业股权稀释, 低空经济初创企业融资�
 
 ## 相关概念
 
-- [[低空经济初创企业股权稀释与控制权保护]] — 公司设立时的股权结构设计
-- [[低空经济初创企业融资谈判]] — 设立后的融资谈判
-- [[低空经济企业出海合规]] — 跨境业务的合规要求
+- [[low-altitude-startup-equity-dilution]] — 公司设立时的股权结构设计
+- [[low-altitude-financing-negotiation-tips]] — 设立后的融资谈判
+- [[low-altitude-overseas-compliance]] — 跨境业务的合规要求
 
 <!-- STATUS: DONE -->

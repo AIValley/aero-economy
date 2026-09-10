@@ -29,9 +29,9 @@ related: [低空经济公司注册与经营范围, 低空经济公司注册资�
 
 ## 相关概念
 
-- [[低空经济公司注册与经营范围]]
-- [[低空经济公司注册资本设定]]
-- [[低空经济公司出资形式]]
-- [[投资选址评估框架]] — 投资者视角的通用选址框架
+- [[low-altitude-company-registration-scope]]
+- [[low-altitude-registered-capital-guide]]
+- [[low-altitude-capital-contribution-guide]]
+- [[investment-location-assessment-framework]] — 投资者视角的通用选址框架
 
 <!-- STATUS: DONE -->

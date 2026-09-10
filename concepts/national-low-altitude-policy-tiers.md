@@ -61,4 +61,4 @@ confidence: high
 
 ## 相关概念
 - [[beijing-low-altitude-policy]] — 北京低空经济政策体系（市级案例）
-- [[低空经济产业基金]] — 全国低空产业基金布局
+- [[low-altitude-industry-fund-framework]] — 全国低空产业基金布局

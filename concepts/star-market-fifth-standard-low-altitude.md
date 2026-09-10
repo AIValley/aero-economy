@@ -33,8 +33,8 @@ related: [低空经济ABS融资, 低空经济融资渠道, 低空经济PE基金�
 
 ## 相关概念
 
-- [[低空经济ABS融资]] — 另一种资本工具
-- [[低空经济融资渠道]] — 全阶段融资体系
-- [[低空经济PE基金设立]] — 私募股权基金
+- [[low-altitude-abs-financing]] — 另一种资本工具
+- [[low-altitude-financing-channels-overview]] — 全阶段融资体系
+- [[low-altitude-pe-fund-setup-guide]] — 私募股权基金
 
 <!-- STATUS: DONE -->

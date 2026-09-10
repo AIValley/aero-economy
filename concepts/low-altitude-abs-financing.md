@@ -12,7 +12,7 @@ related: [低空经济融资渠道, 低空经济产业基金, 低空经济天使
 
 2025年6月19日，深交所发行全国首单低空经济ABS——"科学城租赁大湾区智造融合（低空经济）ABS"，规模5.84亿元，AAA评级，优先A1档利率仅1.9%。
 
-参见：[[abs-low-altitude-economy|原始文章]]
+参见：[[low-altitude-abs-financing|原始文章]]
 
 ## 运作机制
 
@@ -44,9 +44,9 @@ related: [低空经济融资渠道, 低空经济产业基金, 低空经济天使
 
 ## 相关概念
 
-- [[低空经济融资渠道]]
-- [[低空经济产业基金框架]]
-- [[低空经济天使轮融资]]
-- [[低空经济种子轮融资]]
+- [[low-altitude-financing-channels-overview]]
+- [[low-altitude-industry-fund-framework]]
+- [[low-altitude-angel-round-guide]]
+- [[low-altitude-seed-round-guide]]
 
 <!-- STATUS: DONE -->

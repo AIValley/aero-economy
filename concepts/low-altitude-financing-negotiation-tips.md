@@ -29,10 +29,10 @@ related: [低空经济天使轮融资, 低空经济种子轮融资, 低空经济
 
 ## 相关概念
 
-- [[低空经济天使轮融资]]
-- [[低空经济种子轮融资]]
-- [[低空经济融资节奏与误区]]
-- [[低空经济融资渠道]]
-- [[低空经济股权融资法律风险识别与防范]]
+- [[low-altitude-angel-round-guide]]
+- [[low-altitude-seed-round-guide]]
+- [[low-altitude-financing-rhythm-mistakes]]
+- [[low-altitude-financing-channels-overview]]
+- [[equity-financing-legal-risks]]
 
 <!-- STATUS: DONE -->

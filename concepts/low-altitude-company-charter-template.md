@@ -43,13 +43,13 @@ related: [低空经济公司设立全流程, 低空经济公司注册资本设�
 | 条款 | 说明 | 参考 |
 |------|------|------|
 | 公司名称/住所 | 法定必备 | — |
-| 经营范围 | 参考业务方向规范表述 | [[低空经济公司注册与经营范围]] |
-| 注册资本 | 根据业务类型设定 | [[低空经济公司注册资本设定]] |
-| 出资方式 | 货币/非货币出资形式 | [[低空经济公司出资形式]] |
+| 经营范围 | 参考业务方向规范表述 | [[low-altitude-company-registration-scope]] |
+| 注册资本 | 根据业务类型设定 | [[low-altitude-registered-capital-guide]] |
+| 出资方式 | 货币/非货币出资形式 | [[low-altitude-capital-contribution-guide]] |
 | 股东权利义务 | 出资义务、知情权、分红权 | — |
-| 出资期限及失权 | 新公司法5年实缴，逾期失权 | [[低空经济公司注册资本设定]] |
-| 法定代表人 | 建议由创始人/控股股东担任 | [[低空经济公司设立全流程]] |
-| 三会一层职权 | 股东会/董事/监事/经理权限 | [[低空经济公司设立全流程]] |
+| 出资期限及失权 | 新公司法5年实缴，逾期失权 | [[low-altitude-registered-capital-guide]] |
+| 法定代表人 | 建议由创始人/控股股东担任 | [[low-altitude-company-formation-master-guide]] |
+| 三会一层职权 | 股东会/董事/监事/经理权限 | [[low-altitude-company-formation-master-guide]] |
 | 利润分配 | 分红比例与时间 | — |
 | 解散与清算 | 法定清算程序 | — |
 
@@ -59,9 +59,9 @@ related: [低空经济公司设立全流程, 低空经济公司注册资本设�
 
 ## 相关概念
 
-- [[低空经济公司设立全流程]] — 设立总纲
-- [[低空经济公司注册与经营范围]] — 经营范围确定
-- [[低空经济公司注册资本设定]] — 注册资本设定
-- [[低空经济公司出资形式]] — 出资形式选择
+- [[low-altitude-company-formation-master-guide]] — 设立总纲
+- [[low-altitude-company-registration-scope]] — 经营范围确定
+- [[low-altitude-registered-capital-guide]] — 注册资本设定
+- [[low-altitude-capital-contribution-guide]] — 出资形式选择
 
 <!-- STATUS: DONE -->
