@@ -3,6 +3,14 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-09-10] fix | index.md 历史污染修复
+- **背景:** index.md 积累了历史污染——部分条目行带 `|`/`||`/`|||` 与行号前缀（早期把 `read_file` 带行号输出回写进文件所致），部分条目摘要整段丢失，另有重复条目与 `Total pages` 计数漂移（14 个 vault 全量体检发现）
+- **工具:** `~/.hermes/skills/research/vault-ingest-workflow/scripts/repair_index_corruption.py`（新增，支持 dry-run / --apply / --restore-truncated，内置"历史误拼"安全护栏）
+- **修复内容:** 条目数 180 ｜ 去重 0 ｜ 恢复丢失摘要 4 ｜ 还原被截断摘要 1 ｜ 清理非条目行管道污染 1 ｜ 校正 Total pages 190→180
+- **⚠️ 跳过:** aero-economy 中 `franchise-typical-cases-low-altitude-lessons` 的历史"长版本"实为已知误拼事故（混入了 `founder-vam-buyback-protection` 的摘要），已由安全护栏识别并保持现状
+- **验证:** 无残留前缀垃圾、无重复 slug、每条目均有摘要、index 条目与页面文件一一对应
+- **Updated:** 2026-09-10
+
 ## [2026-08-13] ingest | commercial-franchise-regulation
 - **Source:** `raw/policy/commercial-franchise-regulation-485.md` — 《商业特许经营管理条例》国务院令第485号官方全文（中国政府网国务院公报2007年第10号一手源，与 gov.cn 法律法规库/商务部/司法部转载交叉验证一致）
 - **URL:** https://www.gov.cn/gongbao/content/2007/content_564109.htm

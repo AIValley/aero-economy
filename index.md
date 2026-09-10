@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-|> Last updated: 2026-08-13 | Total pages: 190
+> Last updated: 2026-08-13 | Total pages: 180
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -12,14 +12,14 @@
 - [[low-altitude-2026-policy-landscape]] — 2026低空经济政策变局：扫码飞全国推广、珠海低空数据管理办法、12城UAM+湖南全域空域放开、纳入城市更新十五五规划、1.8万亿市场
 - [[low-altitude-opening-june-2026]] — 2026年6月低空经济"开闸时刻"全景：空域松绑三连击/物流盈利/EVTOL突破/大疆74%市场+98%全景/7万亿基建
 - [[low-altitude-abs-financing]] — 资产支持专项计划(ABS)赋能低空经济：全国首单5.84亿元AAA评级解析+四阶段发行流程
-|- [[low-altitude-airspace-governance-study]] — 专业深度稿：低空空域三层治理架构（战略/属地/应用）+UTM系统四大模块+三大商业业态合规框架+风险闭环防控体系；天集低空产业网
-|- [[low-altitude-economy-airspace-security-special-apps]] — 低空经济下半场三大底层刚需赛道：低空安防（四维感知+分级处置+四大场景）、空域管控（分钟级审批+数字孪生+分层标准+全生命周期溯源）、特种低空应用（边防/应急/军警/工业特种作业）；丰临未来
-|- [[low-altitude-economy-june-2026-overview]] — 2026低空经济全维度盘点：市场1.06万亿/+33.8%/300万人就业；空域审批改备案制；亿航载客/西岛物流/海油运维6大标杆；六大理念/六大赛道/六种盈利/六大刚需
-|- [[low-altitude-economy-project-cooperation-risk]] — 低空经济项目合作风险实务：四维关注仪表盘（政策合规/技术运营/商业模式/合作伙伴）+五大陷阱警示+三层面建议；磊律实务经验
-|- [[low-altitude-economy-rural-five-models]] — 低空经济进乡村五大模式：智慧农业(濮阳无人农场降本80%)/乡村物流/低空文旅(芜湖村集体保底10万)/乡村治理/公共服务；国务院十五五首设量化目标35万架/35亿亩次；8省升级省级战略；三类机会
+- [[low-altitude-airspace-governance-study]] — 专业深度稿：低空空域三层治理架构（战略/属地/应用）+UTM系统四大模块+三大商业业态合规框架+风险闭环防控体系；天集低空产业网
+- [[low-altitude-economy-airspace-security-special-apps]] — 低空经济下半场三大底层刚需赛道：低空安防（四维感知+分级处置+四大场景）、空域管控（分钟级审批+数字孪生+分层标准+全生命周期溯源）、特种低空应用（边防/应急/军警/工业特种作业）；丰临未来
+- [[low-altitude-economy-june-2026-overview]] — 2026低空经济全维度盘点：市场1.06万亿/+33.8%/300万人就业；空域审批改备案制；亿航载客/西岛物流/海油运维6大标杆；六大理念/六大赛道/六种盈利/六大刚需
+- [[low-altitude-economy-project-cooperation-risk]] — 低空经济项目合作风险实务：四维关注仪表盘（政策合规/技术运营/商业模式/合作伙伴）+五大陷阱警示+三层面建议；磊律实务经验
+- [[low-altitude-economy-rural-five-models]] — 低空经济进乡村五大模式：智慧农业(濮阳无人农场降本80%)/乡村物流/低空文旅(芜湖村集体保底10万)/乡村治理/公共服务；国务院十五五首设量化目标35万架/35亿亩次；8省升级省级战略；三类机会
 - [[ai-transportation-low-altitude-opportunities]] — 七部门《人工智能+交通运输实施意见》低空经济商业机会解读
 - [[anhui-low-altitude-action-plan]] — 安徽"低空+"行动方案(2026-2028)：三先三后原则定义场景优先级(植保→物流→eVTOL)；行业四象限+三张清单；财政纪律约束；2028目标运营企业300家/飞行500万小时/示范场景100个
-- [[state-council-ai-plus-low-altitude]]
+- [[state-council-ai-plus-low-altitude]] — 国务院《"人工智能+"行动意见》四影响：智能化升级/场景拓展/安全治理/标准生态
 - [[beijing-low-altitude-policy]] — 北京低空经济政策体系
 - [[drone-airspace-classification-guide]] — 无人机空域4色分类系统（蓝/绿/白/红）+8类禁飞区+UOM飞行规范
 - [[guangdong-data-empower-low-altitude]] — 广东数据赋能低空经济实施方案：2025.8.1发布+八大亮点（数据要素/标准体系/一体化底座/市场化/可信空间）+七大影响+2026底标准体系/2027底可信数据空间
@@ -32,7 +32,7 @@
 - [[2025-low-altitude-regulatory-trends]] — 2025中国低空经济六大监管趋势：顶层统筹/安全防控/空域革新/标准建设/场景拓展/产业升级；低空评论
 - [[air-tour-market-compliance]] — 《空中游览市场暂行办法》合规要点：9大维度+3年投诉记录保存
 - [[china-low-altitude-international-rule-making]] — 中国推动低空经济国际规则制定：标准先行/机制互认/数据融通/示范破局四维战略；深圳世界无人机大会演讲
-- [[civil-aviation-law-low-altitude]] —
+- [[civil-aviation-law-low-altitude]] — 新《民用航空法》低空经济条款解读：2026.7.1施行，6大核心条款（空域原则/发展专章/通航分类/无人机管理/基建协同/飞行管理）
 - [[commercial-franchise-regulation]] — 商业特许经营管理条例（国务院令第485号，2007.5.1施行）：特许人须为企业/"两店一年"（2直营店+1年）/15日备案/订约前30日书面披露12项信息/冷静期单方解除/合同期≥3年；低空加盟合规上位法，配套最高法7件典型案例
  新《民用航空法》低空经济条款解读：2026.7.1施行，6大核心条款（空域原则/发展专章/通航分类/无人机管理/基建协同/飞行管理）
 - [[ehang-commercialization-struggle-2026]] — 亿航裁员与商业化困境（每经2026-07-16）：Q1交付仅4架（去年同期11架/2025Q4达61架）、净亏1.264亿、股价较高点129.8美元跌95%、公开售票两次跳票；"四证是入场券不是通行证"；三类最危险企业+破局三转变；"亿航样本"是否扩散
@@ -40,8 +40,8 @@
 - [[evtol-financing-h1-2026]] — 2026上半年eVTOL融资盘点：央企"耐心资本"入局、沃兰特一个月融30亿、沃飞长空首家冲击科创板IPO
 - [[evtol-military-trend-2026]] — 范堡罗航展eVTOL"参军"全球趋势（看航空2026-07-31）：BETA混动MV250军用无人化（CT7涡轴+西科斯基MATRIX）/Anduril+Archer"雷霆"倾转旋翼忠诚僚机（与阿帕奇/MV-75协同、民用版Halo货运）/Vertical VX4航展史上首次公开演示飞行；纯电续航不足+适航慢→混动成军用主流、军用货运更快现金流；巴航×Anduril C-390托盘式武器；中国eVTOL暂无"民参军"动作——机会与风险并存
 - [[low-altitude-civil-aviation-law-countdown]] — 新民航法倒计时1个月：四梁八柱制度框架（空域/安全/装备/场景+8项支撑）+四大产业信号（高域GOVY量产/小鹏万台级基地/亿航四证/美团四代机扩场景）+低空胜负手分析
-|- [[low-altitude-commercial-landing-2026]] — 低空经济商业落地元年：美团医疗无人机配送毛利转正+顺丰跨城干线盈亏平衡+凤岗完整产业链+峰飞eVTOL哈萨克斯坦出海对标高铁+从业者布局指南
-|- [[low-altitude-cost-baseline-methodology]] — 低空场景成本底线方法论：五大成本类别（飞行器/电池/人员/场站/保险）+频次经济学+成本底线判断框架；长基低空
+- [[low-altitude-commercial-landing-2026]] — 低空经济商业落地元年：美团医疗无人机配送毛利转正+顺丰跨城干线盈亏平衡+凤岗完整产业链+峰飞eVTOL哈萨克斯坦出海对标高铁+从业者布局指南
+- [[low-altitude-cost-baseline-methodology]] — 低空场景成本底线方法论：五大成本类别（飞行器/电池/人员/场站/保险）+频次经济学+成本底线判断框架；长基低空
 - [[low-altitude-core-concepts-part5-safety-penalty]] — 《低空经济核心概念100问》安全与处罚篇（81-100问）：黑飞定义+2026法律框架三大升级+处罚标准速查表+六大典型案例（田某某/李某某/沈阳演唱会/泸州王某）+强制保险制度（2027-2030）+地面第三人严格责任
 - [[low-altitude-contract-practical-guide]] — 低空经济企业合同实务+初创避坑指南：六步流程+差异化谈判+低空特有五大条款+四类踩坑案例；磊律系列第39-40篇
 - [[low-altitude-cross-border-ma-guide]] — 跨境资产收购法律风险全指南：从万丰奥威收购eVTOL先驱Volocopter谈起+五大风险（国家安全审查/反垄断/合同陷阱/IP/劳动法）+中国ODI合规+三维应对体系
@@ -73,9 +73,9 @@
 - [[low-altitude-loi-legal-status]] — 意向订单/合作意向书法律地位：三种法律地位+五大风险+七步防范；磊律系列第42篇
 - [[low-altitude-m-and-a-types]] — 低空经济公司收购方式：股权收购 vs 资产收购四大差异对比
 - [[low-altitude-standards-system-guide]] — 11省密集出台低空经济标准体系指南：三大驱动（国家顶层设计/产业竞争/安全风险）、两大作用（统一技术规范降本15%+/筑牢安全底线）、跨省标准兼容性待解
-|- [[general-airport-management-regulation]] — 通用机场管理规定合规：2025.4.1施行+六要点（分类管理/场址科学/设计审查/许可备案/安全责任/阶梯处罚）+A类许可制/B类备案制+四大合规评析
-|- [[ga-enterprise-ma-compliance]] — 通用航空企业并购合规路径（磊律系列）：行政许可型资产特性/两条路径(股权vs资产收购)/三大关卡(民航审批/外资红线/国资进场)/六维尽调
-|- [[general-aviation-m-and-a-guide]] — 通航企业并购全流程指南：四维价值模型+六法律风险+四级风控
+- [[general-airport-management-regulation]] — 通用机场管理规定合规：2025.4.1施行+六要点（分类管理/场址科学/设计审查/许可备案/安全责任/阶梯处罚）+A类许可制/B类备案制+四大合规评析
+- [[ga-enterprise-ma-compliance]] — 通用航空企业并购合规路径（磊律系列）：行政许可型资产特性/两条路径(股权vs资产收购)/三大关卡(民航审批/外资红线/国资进场)/六维尽调
+- [[general-aviation-m-and-a-guide]] — 通航企业并购全流程指南：四维价值模型+六法律风险+四级风控
 - [[drone-enterprise-m-and-a-guide]] — 无人机企业并购全流程指南：四维关注+四法律风险+三部曲风控
 - [[low-altitude-m-and-a-due-diligence-checklist]] — 低空经济并购法律尽调清单：被收购方十大领域核查要点
 - [[national-low-altitude-policy-wave-may-2026]] — 数十省密集加码低空经济：山西/青海/江苏民间资本+山东/海南文旅场景+江西空域扩容10万km²+安全监管体系
@@ -87,14 +87,14 @@
 - [[low-altitude-financial-leasing]] — 低空经济金融租赁合作：四大合作模式+六大注意事项+成功四要素；磊律系列第33篇
 - [[low-altitude-first-running-scenarios]] — 低空经济最先跑出来的八大场景：三类成熟度（巡检/农林/测绘→医疗/城市治理/应急→文旅/eVTOL）；关键判断标准非能飞而是能持续运行+成果闭环
 - [[low-altitude-infrastructure-industry-chain-deep-dive]] — 低空经济基础设施产业链深度拆解(产业图谱僧)：3大判断(缺口最大/跨界融合/2027窗口)+5子链(感知/通信/起降场/UTM/气象)+三类城市招商路径+328.7万无人机vs46服务站缺口
-- [[third-batch-low-altitude-pilot-cities]]
+- [[third-batch-low-altitude-pilot-cities]] — 第三批低空开放试点城市猜想：东莞/济南/无锡/芜湖四大潜力+绍兴/宁波/长沙特色候选
 - [[trade-secret-regulation-2026-compliance-guide]] — 商业秘密保护新规：2026.6.1施行+31条+数据/算法纳入保护+罚款最高5000万+企业五维合规方案
 - [[traditional-enterprise-low-altitude-transition]] — 传统企业转型低空经济六维战略框架：政策/技术/市场/风控/生态/差异化
 - [[construction-enterprise-low-altitude-transition]] — 建筑企业转型低空经济路径：Vertiport基建/EPC+运营/轻资产输出
 - [[county-low-altitude-development-strategy]] — 县域低空经济发展路径：深圳大鹏新区《若干措施》六维度启示（政策/基建/场景/生态/风控/资金）；低空评论
 - [[low-altitude-safety-regulation-international-experience]] — 低空经济安全监管的国际经验：制度/技术/治理/风险评估四维困境+欧盟U-space协同治理经验+四项政策建议；北京行政学院学报
 - [[low-altitude-soe-entry-policy-logic]] — 央国企入局低空经济八大政策逻辑：安全压舱石+重资产底座+场景开放+耐心资本+技术攻关+民航衔接+打破割据+非替代民企；央国企/地方国资/民企分工框架
-- [[low-altitude-startup-challenges-solutions-guide]] — 低空经济初创企业困难与应对
+- [[low-altitude-startup-challenges-solutions-guide]] — 低空经济初创企业困难与应对：五大困难（融资/人才/技术/市场/法规）+五大应对策略+六条成功关键；低空实务
 - [[low-altitude-startup-equity-dilution]] — 低空经济初创企业融资股权稀释与控制权六大保护工具
 - [[low-altitude-startup-financial-leasing]] — 低空经济初创公司融资租赁：三大场景案例+三种模式+三大核心作用；磊律系列第34篇
 - [[low-altitude-tech-transfer-guide]] — 低空经济技术受让关键事项：五维要点（IP尽调/范围界定/适航合规/分期支付/持续创新）；磊律系列第23篇
@@ -162,17 +162,17 @@
 - [[low-altitude-pe-fund-setup-guide]] — 低空经济私募股权基金设立全流程：四阶段/六注意/三大法规
 - [[low-altitude-private-enterprise-strategy-guide]] — 低空经济民营企业市场策略：国企vs民企分工格局+四大切入路径+三条发展思路；低空发展
 - [[low-altitude-private-soe-cooperation]] — 民营企业与国企/地方政府合作低空经济项目：六大注意事项+六类风险+六项合同关键条款；磊律系列第27篇
-|- [[low-altitude-registered-capital-guide]] — 低空经济初创公司注册资本设定指南：四类业务建议（100万-2亿）+分阶段策略+五大核心因素
-|- [[low-altitude-regulation-pause-2026]] — 低空经济按下暂停键：全国全域临时安全管控背景+短期阵痛三维度（商业暂缓/消费降温/小企业出局）+深层逻辑三重净化（斩断黑飞/抬高门槛/人员规范）+长期三大红利（统一监管/资本集中/赛道拓宽）；明时社
-|- [[pe-evaluation-low-altitude-companies]]
+- [[low-altitude-registered-capital-guide]] — 低空经济初创公司注册资本设定指南：四类业务建议（100万-2亿）+分阶段策略+五大核心因素
+- [[low-altitude-regulation-pause-2026]] — 低空经济按下暂停键：全国全域临时安全管控背景+短期阵痛三维度（商业暂缓/消费降温/小企业出局）+深层逻辑三重净化（斩断黑飞/抬高门槛/人员规范）+长期三大红利（统一监管/资本集中/赛道拓宽）；明时社
+- [[pe-evaluation-low-altitude-companies]] — PE基金四维评估模型：政策/技术/市场/团队
 - [[private-investment-low-altitude-policy]] — 国务院《促进民间投资若干措施》低空经济条款解读：四大影响+五投资启示（基建/REITs/合规风控）
 - [[scenic-low-altitude-tourism-manual-2026]] — 景区低空观光完整运营手册：航线规划/空域报备/客流转化全流程+三类航线模板+四维客流转化模型+2架eVTOL回本1.9年；天集
 - [[shandong-drone-safety-regulation]] — 山东无人机公共安全管理合规：2026.1.1施行+持证登记+空域申请+强制保险+十行为规范+九禁止+全链条监管+最高5000元罚款
 - [[shenzhen-low-altitude-130b-plan]] — 深圳《低空基础设施高质量建设方案（2024—2026年）》：打造"全球低空经济第一城"+2026年底产值规模突破1300亿元（产值口径非总投资）+四大中心（总部研发/高端智造/全场景示范/一站式方案）+起降点1200个以上+商业航线1000条以上+SILAS全球首个低空智能融合系统；中新网/深圳商报
 - [[investment-location-assessment-framework]] — 投资选址八大维度评估框架：宏观/中观/微观三级分析
-|- [[caac-cross-water-operation-draft-2026]] — 民航局《跨水运行（征求意见稿）》：CCAR-121-R8延伸跨水定义落地（120分钟/740km与30分钟/185km双门槛判定）+滑翔距离圈判定方法+实施样例（三亚-浦东跨水/北京-西雅图延伸跨水）+水上应急设备梯度（救生衣/救生筏/ELT/水下定位8.8kHz）；eVTOL海上物流/救援/岛际通勤合规前提、海上场景解锁规则先行
-|- [[caac-nav-database-management-spec-2026]] — 民航局《航空运营人机载导航数据库管理规范（征求意见稿）》：AC-91-FS-21R1修订自2014版+2027.1.1新造航空器机载数据强制民航局批准+数据供应商CTSOA资质+CCAR121/135/136适用+九大质量管理程序；eVTOL自主飞行导航基础设施监管、低空"GPS卡脖子"提前布局
-|- [[caict-low-altitude-industry-report-2025]] — 中国信通院《低空产业高质量发展路径与策略研究报告（2025年）》：官方三阶段预测(2027年5000亿→2030年1万亿→2035年5万亿)、四域协同框架、基础设施指标预测
+- [[caac-cross-water-operation-draft-2026]] — 民航局《跨水运行（征求意见稿）》：CCAR-121-R8延伸跨水定义落地（120分钟/740km与30分钟/185km双门槛判定）+滑翔距离圈判定方法+实施样例（三亚-浦东跨水/北京-西雅图延伸跨水）+水上应急设备梯度（救生衣/救生筏/ELT/水下定位8.8kHz）；eVTOL海上物流/救援/岛际通勤合规前提、海上场景解锁规则先行
+- [[caac-nav-database-management-spec-2026]] — 民航局《航空运营人机载导航数据库管理规范（征求意见稿）》：AC-91-FS-21R1修订自2014版+2027.1.1新造航空器机载数据强制民航局批准+数据供应商CTSOA资质+CCAR121/135/136适用+九大质量管理程序；eVTOL自主飞行导航基础设施监管、低空"GPS卡脖子"提前布局
+- [[caict-low-altitude-industry-report-2025]] — 中国信通院《低空产业高质量发展路径与策略研究报告（2025年）》：官方三阶段预测(2027年5000亿→2030年1万亿→2035年5万亿)、四域协同框架、基础设施指标预测
 - [[low-altitude-supply-chain-31-provinces]] — 十五五低空经济全产业链细分+31省份精准布局
 - [[low-altitude-university-rd-agreement]] — 低空经济企业与高校研发合作协议：八大核心条款+五大低空特有关注+里程碑付款；磊律系列第41篇
 - [[low-altitude-vertiport-construction]] — 低空飞行器起降场点建设法律问题：五大法律风险+全链条解决方案+三方建议；磊律系列第28篇
@@ -192,7 +192,7 @@
 <!-- Policy reading list -->
 
 ## References
-|- [[raw/reports/caict-low-altitude-industry-report-2025.md]] — 中国信通院低空产业高质量发展报告（2025年）官方PDF摘要
+- [[raw/reports/caict-low-altitude-industry-report-2025.md]] — 中国信通院低空产业高质量发展报告（2025年）官方PDF摘要
 ## Comparisons
 
 ## Queries
