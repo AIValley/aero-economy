@@ -17,6 +17,9 @@ sources:
     name: 网易号·通航圈《低空经济发展司司长郑剑等67人在列！》（2026-08-02）
   - url: https://www.sohu.com/a/985195365_122624310
     name: 搜狐·全国低空经济标准化技术委员会（筹）征集意向委员（2026-02-09，筹备阶段背景）
+source_url: https://org.sacinfo.org.cn/tcrm/html/25046.html
+ingested: 2026-07-30
+sha256: 2f7a7358df056d100c5c295ed16b510004ca870171a8f47f68f30f64c1a292fa
 ---
 
 # 关于对拟成立的全国低空经济标准化技术委员会进行公示的通知

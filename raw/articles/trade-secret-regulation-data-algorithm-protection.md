@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/7uBVQQ3glM_Ac09lkoyg4Q
 type: analysis
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/7uBVQQ3glM_Ac09lkoyg4Q
+ingested: 2026-06-08
+sha256: 123b51b7ddad25485a42e75be5afdf768681610240fe923494958f9b58afe515
 ---
 
 # 【法律实务】以创新为剑，以合规为盾：数据和算法纳入商业秘密保护范围之后的企业发展之道

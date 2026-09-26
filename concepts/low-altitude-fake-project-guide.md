@@ -29,3 +29,10 @@ source: 张磊律师 — 低空经济法律事务团队
 4. 团队靠谱吗？→ 可查证行业背景？
 5. 融资合规吗？→ 专业机构or个人募资？
 6. 信息透明吗？→ 可实地考察？
+
+## 相关页面
+
+- [[low-altitude-financing-practical-tips]] — 共享标签 尽调
+- [[low-altitude-tech-transfer-guide]] — 共享标签 低空经济/尽调/磊律系列
+- [[low-altitude-partner-selection-guide]] — 共享标签 低空经济/尽调
+- [[low-altitude-foreign-investment-negative-list]] — 共享标签 低空经济/适航认证

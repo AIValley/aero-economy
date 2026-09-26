@@ -1,3 +1,8 @@
+---
+source_url: https://mp.weixin.qq.com/s/Is18gn_TvHZvxsbRDZls9Q
+ingested: 2026-06-08
+sha256: 9827689600b6278b48686ca625e1d7d4e0f94e1bc5bfb40d88767f8359b50de4
+---
 # 【低空范本】低空经济公司出资协议书
 
 > 作者：张磊律师

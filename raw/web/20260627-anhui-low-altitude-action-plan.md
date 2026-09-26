@@ -13,6 +13,7 @@ tags:
   - drone
   - evtol
   - policy-analysis
+sha256: b1e4d0032329e56856acbe72e912ea89a3f25ff5638d30ccffacdc3d43c43e04
 ---
 
 # 安徽"低空+"行动方案解读

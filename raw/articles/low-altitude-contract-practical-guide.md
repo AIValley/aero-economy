@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/MfM-g-mIaGptuMhuKFWhbQ"
 series: "磊律系列第39篇"
 ingested: "2026-06-08"
 tags: [低空经济, 合同管理, 商务谈判, 合规, 法律实务]
+source_url: https://mp.weixin.qq.com/s/MfM-g-mIaGptuMhuKFWhbQ
+sha256: eed9591a38e28706211661bdcb4f38f740a6cabc7d0f2cad939a232646b774e0
 ---
 
 # 低空经济企业对外签订合同的实务提示

@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/7DaGndowHRRWwQVdUfWBCw
 ingested: 2026-06-08
-sha256: pending
+sha256: 0d7b3c35a7a1f00964e1481758aecf5fe7bcef9e8b8eeb9273fcedfc63ccf053
 ---
 
 # 低空经济项目合伙人退出机制六类详解

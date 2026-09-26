@@ -1231,3 +1231,6 @@
 - **日期勘误:** 任务上下文/周报隐含"2026新规"为推测；WAM JSON-LD 确认实际发布日期 **2025-07-02**（DUBAI, 2nd July, 2025）。文件名沿用任务指定 -2026 后缀，raw frontmatter 与概念页均显式标注实际日期
 - **获取过程:** WAM 页面为 Angular SPA（curl/jina 均只拿 JS 壳），改用浏览器渲染获取双语全文 + JSON-LD 元数据；监管文件实体经 EnterpriseAM 报道内嵌 PDF 直链下载（11.6MB，pdftotext 提取 459 页全文）；web_search 工具未配置，经 r.jina.ai 代理 DDG 搜索定位英文替代源
 - **Updated:** `index.md` — added [[uae-hybrid-operations-regulation-2026]] under Concepts（uae 字母序，插于 urban- 之前）；总页数 186→187（HEAD 基线经 commit 链核验：a34d8c0=186，非任务上下文的 184）
+
+## [2026-09-27] wiki-health | 批量健康修复（batch 2/3/3b/4/7）：① 18 个根目录内容页迁回 concepts/（index Total 180 对齐）；② 删除 1 行游离重复片段；③ 断链 10 条清零（1 条 raw 路径补全，9 条转纯文本并登记 ref/wanted-pages.md）；④ 零出链页面补链；⑤ 162 个 raw 文件回填 frontmatter 缺项 + 149 个失效哈希重算。
+- **Updated:** 2026-09-27

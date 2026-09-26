@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/VnGKxbEMWDIfRuUWcddtoQ
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/VnGKxbEMWDIfRuUWcddtoQ
+ingested: 2026-06-08
+sha256: 476c1dad0582866fcf31f7af92cb217fa733fd4ac64133088409579564170d9f
 ---
 
 2025年7月30日，江苏省十四届人大常委会第十六次会议审查批准了《无锡市低空经济发展促进条例》和《苏州市低空经济促进条例》，均自2025年10月1日起施行。

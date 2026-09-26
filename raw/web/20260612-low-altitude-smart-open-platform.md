@@ -2,7 +2,7 @@
 source_url: https://mp.weixin.qq.com/s/ndS703mbQ4QDQCoOlZ4Kvg
 title: 低空智能开放平台正式发布上线
 ingested: 2026-06-12
-sha256: 9af47fda4eb3fe6ad3d96324fbc0b3b7aae97314427478b1fa3e4428ffea3e28
+sha256: 4aa1fcd267aa0d0d2258903dc690c8b55195cd6955f01b30e2479e22dd98e4ff
 ---
 
 # 低空智能开放平台正式发布上线

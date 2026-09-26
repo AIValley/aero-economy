@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/0QQ5GcUhbuoy2WjhS4_HKg
 ingested: 2026-06-08
-sha256: pending
+sha256: 4ec03e02c9da1ee7f9ca317654535853b9ebc658fbafc5aeef91a26e2891ede8
 ---
 
 # 转型低空经济的七大挑战与应对

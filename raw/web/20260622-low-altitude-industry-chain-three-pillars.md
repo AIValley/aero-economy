@@ -6,7 +6,7 @@ source_url: https://mp.weixin.qq.com/s/gX-M78t8GX4abbk6_kOCwQ
 ingested: 2026-06-22
 language: zh
 tags: [低空经济, 民航法, 适航审定, 合规运营, 人才培养, 产业分析]
-sha256: 
+sha256: 24d25d9d8cb1e2d8a5cd946d8178cee3305869022521f91cae012c989c23b9a8
 ---
 
 # 新民航法下的低空产业链：制造看适航，运营看合规，教学看标准

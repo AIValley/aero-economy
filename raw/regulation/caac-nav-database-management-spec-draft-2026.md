@@ -6,13 +6,15 @@ type: regulation
 status: draft
 date: 2026-07-28
 ingested_at: 2026-08-03
-sha256: 785d69016c8c89d076d5fd0ed29d7f98ccbe21b3c3317760b4a4f2f9efe06b57
+sha256: 931aac9094fdf66e38f40b0e86024ef856429bd68a4bcb2adf7f63caae63fb0c
 tags: [民航局, 导航数据库, 机载导航, 咨询通告, AC-91-FS-21R1, 征求意见稿, 国产导航数据, CTSOA, PBN, 飞行标准司, 低空经济]
 attachments:
   - url: https://www.caac.gov.cn/PHONE/HDJL/YJZJ/202607/P020260728552790943358.docx
     name: 航空运营人机载导航数据库管理规范（征求意见稿）.docx
   - url: https://www.caac.gov.cn/PHONE/HDJL/YJZJ/202607/P020260728552791136661.xlsx
     name: 修订意见反馈表.xlsx
+source_url: https://www.caac.gov.cn/PHONE/HDJL/YJZJ/202607/t20260728_231385.html
+ingested: 2026-07-28
 ---
 
 # 关于征求《航空运营人机载导航数据库管理规范（征求意见稿）》意见的函

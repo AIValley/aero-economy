@@ -29,3 +29,9 @@ ingested_from:
 - 付费机制是否清楚
 - 结果有没有人用
 - 风险责任能否说清
+
+## 相关页面
+
+- [[evtol-financing-h1-2026]] — 共享标签 eVTOL
+- [[caac-cross-water-operation-draft-2026]] — 共享标签 eVTOL
+- [[evtol-military-trend-2026]] — 共享标签 eVTOL

@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/BJ9avfcFWtx2rdCjJso1-Q
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/BJ9avfcFWtx2rdCjJso1-Q
+ingested: 2026-06-08
+sha256: 9349ce5779f4b5395f743762be880ea682be24e1da5fc52cb32146ad4680d860
 ---
 
 《通用机场管理规定》（交通运输部令2024年第11号），2025年4月1日起施行，我国首部系统性针对通用机场的专项管理规定，共八章79条。

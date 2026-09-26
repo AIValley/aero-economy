@@ -1,3 +1,8 @@
+---
+source_url: https://mp.weixin.qq.com/s/kQoz87hEvoml-967a5TEcQ
+ingested: 2026-06-08
+sha256: d03049c8cb7405f9bbec3b6356573dfa00257e0047da1897b885bdce24e10c74
+---
 # 【低空实务】资产支持专项计划（ABS）如何赋能低空经济的发展及低空经济企业如何发行ABS——从全国首单低空经济ABS谈起
 
 > 作者：张磊律师

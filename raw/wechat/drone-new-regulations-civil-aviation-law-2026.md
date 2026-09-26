@@ -6,6 +6,9 @@ title: 2026年7月1日无人机新规（新版《民用航空法》）核心全�
 vault: aero-economy
 type: raw
 tags: [低空经济, 民用航空法, 无人机, 空域分层, 12城试点]
+source_url: https://mp.weixin.qq.com/s/Wy1qGXJBC-T623uQvuo7KQ
+ingested: 2026-07-03
+sha256: 7ea78e884af9b59d1d67e719623e8b0f6bcd605e203403a53e8179a421e56688
 ---
 
 # 2026年7月1日无人机新规（新版《民用航空法》）核心全解读

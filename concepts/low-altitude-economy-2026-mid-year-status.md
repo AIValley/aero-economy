@@ -41,3 +41,9 @@ ingested_from:
 3. **人才供给：** 高校新专业批量落地填补缺口
 
 <!-- STATUS: DONE -->
+
+## 相关页面
+
+- [[caac-nav-database-management-spec-2026]] — 共享标签 low-altitude-economy/policy/regulation
+- [[national-low-altitude-standardization-committee-2026]] — 共享标签 low-altitude-economy/policy/regulation
+- [[caac-cross-water-operation-draft-2026]] — 共享标签 low-altitude-economy/policy/regulation

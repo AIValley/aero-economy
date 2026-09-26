@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/tJcIpRB1S2zDHXpO5wsDgQ"
 series: "磊律系列第34篇"
 ingested: "2026-06-08"
 tags: [低空经济, 融资租赁, 初创公司, eVTOL, 无人机, 经营性租赁, 售后回租]
+source_url: https://mp.weixin.qq.com/s/tJcIpRB1S2zDHXpO5wsDgQ
+sha256: 3de94061c8720974cbd538a2fd0073f7e751ce5ffb21832e6ea7c5dde50794be
 ---
 
 # 融资租赁在低空经济初创公司中的应用和作用

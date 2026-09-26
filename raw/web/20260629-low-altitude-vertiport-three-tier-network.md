@@ -5,6 +5,8 @@ source_url: "https://mp.weixin.qq.com/s/8kt0UgCpP2Put1x_F3Pjfg"
 date: 2026-06-29
 language: zh
 type: web
+ingested: 2026-06-29
+sha256: 472214c05d795020212800a39655aa9fa12e8d649ffd65e046bda3c24deb8c59
 ---
 
 低空产业要从单点验证阶段迈入规模化商业运行，必须搭建一套层级清晰、覆盖全域的地面物理承载网络——起降设施正是这一网络的核心载体。

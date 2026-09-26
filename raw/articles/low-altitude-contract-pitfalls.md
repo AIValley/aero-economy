@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/GbLMU_UL2-NWBYIya3pPLA"
 series: "磊律系列第40篇"
 ingested: "2026-06-08"
 tags: [低空经济, 初创公司, 合同, 法律风险, 教训, 避坑]
+source_url: https://mp.weixin.qq.com/s/GbLMU_UL2-NWBYIya3pPLA
+sha256: 795eb06fb4a946547af5120c59d981713e2622b22f2910d22893c67f925e88bd
 ---
 
 # 低空经济初创公司对外签订合同应当避免的典型事项和教训

@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/RB-xEnfUrWrDakqeM0yFJA
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/RB-xEnfUrWrDakqeM0yFJA
+ingested: 2026-06-08
+sha256: a1752d04f376ad137a12a7568d79717deb94353c7711a7f96d7eea7f381ec5b4
 ---
 
 2025年8月1日，广东省政务服务和数据管理局印发的《广东省数据赋能低空经济高质量发展实施方案》正式公布。国内首个省级层面系统性地以数据要素为核心驱动力、专门针对低空经济制定的高质量发展实施文件。5方面15项主要任务。

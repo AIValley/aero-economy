@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/R07n3Mcu14mYrllRl3C92A
 series: 磊律系列第46篇
 tags: [低空经济, 无人机巡检, 合同风险, 电力巡检, 法律合规]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/R07n3Mcu14mYrllRl3C92A
+ingested: 2026-06-08
+sha256: 16159c0d960c2bdbbb87649f4afca544191b1cc235ff5c9d75f776f97eece769
 ---
 
 # 【低空经验】无人机电力巡检服务合同主要条款的风险识别与防范措施

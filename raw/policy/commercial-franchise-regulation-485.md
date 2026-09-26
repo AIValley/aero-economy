@@ -11,6 +11,7 @@ url: https://www.gov.cn/gongbao/content/2007/content_564109.htm
 ingested_at: 2026-08-13
 sha256: 9893d43b74b7bdf3cce75e4b16c7db46e1b6d93718213d48515805eb600db04c
 tags: [商业特许经营管理条例, 国务院令485号, 特许经营, 加盟, 两店一年, 备案, 信息披露, 冷静期, 低空经济, 政策法规]
+ingested: 2007-02-06
 ---
 
 # 商业特许经营管理条例（国务院令第485号）

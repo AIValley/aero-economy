@@ -1,3 +1,8 @@
+---
+source_url: https://mp.weixin.qq.com/s/SWbJrEriNCYr-cz2ZDooLA
+ingested: 2026-06-08
+sha256: 1bccfce6f8c0322e24c11d879558a6001675ce873647d2a9f5d1d8864d55cdd1
+---
 # 【低空实务】低空经济初创公司设定注册资本的注意事项和建议
 
 > 作者：张磊律师

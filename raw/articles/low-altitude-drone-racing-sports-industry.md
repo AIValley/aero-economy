@@ -10,6 +10,9 @@ part:
 tags: [低空经济, 无人机赛事, 无人机足球, 穿越机竞速, 低空文旅, 体育产业]
 ingested_at: 2026-06-09
 language: zh
+source_url: https://mp.weixin.qq.com/s/ZgOAIH3kij6w4U0ay4DEkg
+ingested: 2026-06-09
+sha256: 3374f3b66c4fabd424faf1e5c9752022901549b8fd6bfac2431c9f882a5b7e42
 ---
 
 # 天空竞技场：无人机赛事如何成为低空经济万亿赛道的"超级入口"

@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/RAnjot4xAqqEwa3U_s4qig
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
 language: en
+source_url: https://mp.weixin.qq.com/s/RAnjot4xAqqEwa3U_s4qig
+ingested: 2026-06-08
+sha256: 1b38df847def4ff0bb991d490ef019983cdf38e6e65aa9ad81dd8666c8ad9d92
 ---
 
 Investment Restrictions and Prohibitions for Foreign Investors in China's General Aviation and Low-Altitude Economy Sectors

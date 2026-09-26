@@ -6,7 +6,9 @@ vault: aero-economy
 type: raw
 tags: [商业航天, 商业航天协同创新联合体, 国防科工, 卫星研制, 火箭发射, 数据应用, 低轨网络, 航天保险, 航天金融]
 slug: china-commercial-space-271-consortium-2026
-sha256: 7350946f78e59216842b9d68d3d988f105bc80046c1af058ee5edcfb41bc9e10
+sha256: ca0e8d10cb11f6ba370e79d1c582ac0b4a53e4388579d94116c615ec6e3df965
+source_url: 微信公众号
+ingested: 2026-07-17
 ---
 
 # 深度｜271 家名单公布：中国商业航天开始编组

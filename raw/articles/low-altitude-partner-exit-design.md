@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/TDqiiBOxFzuLTuL3uiKuNQ
 ingested: 2026-06-08
-sha256: pending
+sha256: ee91fec3c3cbe74670c6682b075cd8ac09d787408df95a0bdbb70d75b3d5e000
 ---
 
 # 低空经济项目合伙人退出机制：（二）实务设计建议

@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/nPyfKlvEif8pdyCjOXJS3g
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/nPyfKlvEif8pdyCjOXJS3g
+ingested: 2026-06-08
+sha256: 091c206ef60d967b4ba4f44e31c16a78c8e54b5ecff62c34fd810642fc8b0862
 ---
 
 # 《关于"人工智能+交通运输"的实施意见》— 低空经济商业机会分析

@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/T-fbd-3wJkTYzClkRibtzA
 type: speech
 series: 低空跨境监管
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/T-fbd-3wJkTYzClkRibtzA
+ingested: 2026-06-08
+sha256: e5cb5417dccd6e9c289abfc0b0c6412759f578cc4b912a543c4aa540ba9174ba
 ---
 
 # 【跨境监管】低空经济跨境监管冲突频发，中国如何推动国际规则制定？——在深圳世界无人机大会法律圆桌会上的思考

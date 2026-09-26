@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/AwQ5LjwxNqIwMPUEqVcBpA
 series: 磊律系列第48篇
 tags: [低空经济, 无人机采购, 合同风险, 供应链, 法律合规]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/AwQ5LjwxNqIwMPUEqVcBpA
+ingested: 2026-06-08
+sha256: cbb90ac90677433394384050a58be669ae14530635ec62ac05607a68001b3d32
 ---
 
 # 【低空经验】无人机采购的核心事项分析和无人机采购合同的风险防范要点

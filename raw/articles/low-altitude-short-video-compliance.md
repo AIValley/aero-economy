@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/ABiR307qeeHQ0hgt--2FNw
 series: 低空经济实务
 tags: [低空经济, 短视频, 合规, 广告法, 数据安全, 版权]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/ABiR307qeeHQ0hgt--2FNw
+ingested: 2026-06-08
+sha256: ed22d23c81eb0c32dfd1324904567574cfd872b610367672aea1ff59ba783ff8
 ---
 
 # 【低空实务】低空经济短视频传播的合规挑战与风险防控体系构建

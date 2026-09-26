@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/GXjM0ZrZnTNlSTEBKkbtbQ
 series: 低空经济实务
 tags: [低空经济, 不正当竞争, 反不正当竞争法, 商业诋毁, 商业秘密]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/GXjM0ZrZnTNlSTEBKkbtbQ
+ingested: 2026-06-08
+sha256: c7b0bdb5a0c063c0c8cc8eaffa5188592669392e98848a6b1e310be79325015b
 ---
 
 # 遇到竞争对手恶意或不正当竞争行为，低空经济企业应如何应对？

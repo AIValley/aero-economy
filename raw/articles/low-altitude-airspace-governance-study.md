@@ -10,6 +10,9 @@ part:
 tags: [低空经济, 空域治理, UTM, 商业化落地, 合规运营]
 ingested_at: 2026-06-09
 language: zh
+source_url: https://mp.weixin.qq.com/s/f5YBeTHnHOFMXo17ahix1Q
+ingested: 2026-06-09
+sha256: 450a07b894be3ce595cebae49d6442c919111538d4fd585dda12db005ccdd546
 ---
 
 # 专业深度稿：低空经济空域治理体系构建与城市商业化落地路径研究

@@ -29,3 +29,9 @@ ingested_from:
 ## 市场规模
 低空经济：2023年5059亿→2026年万亿→2035年3.5万亿
 低空文旅：2030年突破2000亿
+
+## 相关页面
+
+- [[low-altitude-tourism-disputes]] — 共享标签 低空文旅/低空经济
+- [[low-altitude-first-running-scenarios]] — 共享标签 低空文旅/低空经济
+- [[ai-transportation-low-altitude-opportunities]] — 共享标签 低空经济

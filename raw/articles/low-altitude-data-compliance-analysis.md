@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/iGoNn3yLtWcaXL-P8_cm0g
 series: 低空经济实务
 tags: [低空经济, 数据合规, 数据安全法, 个人信息保护, 分类分级, 跨境传输]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/iGoNn3yLtWcaXL-P8_cm0g
+ingested: 2026-06-08
+sha256: e1584b5b00fd6a18683fc0678bb242de766c8152bcaae2a378162058654ca02c
 ---
 
 # 【低空实务】低空经济企业数据合规要点分析和建议

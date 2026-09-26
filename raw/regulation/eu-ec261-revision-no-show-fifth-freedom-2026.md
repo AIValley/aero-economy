@@ -5,6 +5,9 @@ date: 2026-07-15
 vault: aero-economy
 category: regulation
 tags: [欧盟, EC 261, 航空旅客权益, no-show, 第五航权, 定价体系, 跳段登机, 甩去程保回程, 航空监管]
+source_url: https://mp.weixin.qq.com/s/lf3OodfVTzdaYndJOvw2Kw
+ingested: 2026-07-15
+sha256: dd43a20a058d75d41fc6df1c7459437aa9a3a6e4494e823ed01bd80525183f4b
 ---
 
 # 欧盟EC 261修订落地：no-show条款废止对第五航权定价体系的影响评估

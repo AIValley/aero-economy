@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/oUpCMVbjUhedgLh7DEsrBw
 series: 各地低空经济立法系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/oUpCMVbjUhedgLh7DEsrBw
+ingested: 2026-06-08
+sha256: 1fa76ebd9aa0e32aa6a4411c50c7e5232b7e3d1f78a84e514efbb0ccf3362697
 ---
 
 《广州市低空经济发展条例》2024.11.29市人大通过，2025.1.12省人大批准，2025.2.28施行。共8章41条。广东省内继深圳、珠海后第三个市级低空经济地方法规。

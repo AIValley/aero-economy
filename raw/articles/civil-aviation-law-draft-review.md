@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/0icQb43isqttzaDUfRJGvw
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/0icQb43isqttzaDUfRJGvw
+ingested: 2026-06-08
+sha256: 8a205d964bd21feb823231234d467b3209d6bf0281cbbeba47f3b4901535ccc4
 ---
 
 2025年2月24日，《中华人民共和国民用航空法（修订草案）》提请十四届全国人大常委会第十四次会议审议，公开征求意见（2025.2.25-3.26）。草案共15章255条。

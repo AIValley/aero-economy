@@ -1,3 +1,8 @@
+---
+source_url: https://mp.weixin.qq.com/s/M1286Ox0UbkJJy3NIxwzCQ
+ingested: 2026-06-08
+sha256: 792024cef376783a3456793dbe96da4338bd914510fc7337279326a16987f12c
+---
 # 【低空范本】低空经济公司章程——多股东、1名董事兼经理、无监事版
 
 > 作者：张磊律师

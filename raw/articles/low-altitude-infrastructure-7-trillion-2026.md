@@ -10,6 +10,9 @@ part:
 tags: [低空经济, 新基建, 7万亿, 央企场景, 常态化运营, 跨市航路]
 ingested_at: 2026-06-09
 language: zh
+source_url: https://mp.weixin.qq.com/s/KEMT_4D30_SqkKHpHHOn0w
+ingested: 2026-06-09
+sha256: 8b1ff5c30d7cb5153928aecb6f0909be206d64a63c02f35482dcad6e18782b78
 ---
 
 # 低空基础设施纳入7万亿新基建，2026年或成低空经济"常态化运营元年"

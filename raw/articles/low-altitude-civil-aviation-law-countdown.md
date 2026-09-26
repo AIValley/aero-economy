@@ -10,6 +10,9 @@ part:
 tags: [低空经济, 民用航空法, eVTOL, 适航, 产业化, 高域科技, 小鹏汇天, 亿航智能, 美团无人机]
 ingested_at: 2026-06-09
 language: zh
+source_url: https://mp.weixin.qq.com/s/JNxk10Pv5IZ1272B6pOwtg
+ingested: 2026-06-09
+sha256: 371175fc4d6e8c46cdb2e1d2a0867c50c84a511da8dfac60bf339aa22bca37aa
 ---
 
 # 新民航法倒计时：低空经济不再只看"会不会飞"

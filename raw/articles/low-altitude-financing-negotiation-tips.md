@@ -1,3 +1,8 @@
+---
+source_url: https://mp.weixin.qq.com/s/Hqr2UmN4uNOYbr1mYv3wmg
+ingested: 2026-06-08
+sha256: 9f386c6bc5e46ffbe43a4e992ede8c1404e98a0fdb34bbdb562ce6cac3cd8163
+---
 # 【低空实务】低空经济初创企业对外融资过程中的谈判要点和注意事项
 
 > 作者：张磊律师

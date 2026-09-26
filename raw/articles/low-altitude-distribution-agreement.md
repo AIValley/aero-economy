@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/kZTa5jFN0ZmzhMKpPu7hOQ"
 series: "磊律系列第45篇"
 ingested: "2026-06-08"
 tags: [低空经济, 经销协议, 经销商, 合同条款, 知识产权, 合规, 退出机制]
+source_url: https://mp.weixin.qq.com/s/kZTa5jFN0ZmzhMKpPu7hOQ
+sha256: 647a878671836b83b2c04011e1750313c4afa06802f5e29114cc46165e97ede8
 ---
 
 # 低空经济领域经销协议的关键条款及实务建议

@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/NR1Ckcqk_d3H-WIXwoe1vA
 type: analysis
 series: 低空发展
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/NR1Ckcqk_d3H-WIXwoe1vA
+ingested: 2026-06-08
+sha256: 93ef90b76a27dcde37551bef95b6193292b1ffa3e819571cdc567fbcb0aaffb8
 ---
 
 # 【低空发展】2025年来中国低空经济领域投资并购趋势的简要分析

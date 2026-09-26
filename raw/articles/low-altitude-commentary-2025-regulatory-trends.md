@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/D8J9yd-fT1gflVWCQw3Zig
 type: analysis
 series: 低空评论
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/D8J9yd-fT1gflVWCQw3Zig
+ingested: 2026-06-08
+sha256: 29f2008064de614062972b54d083978a5ff363ca042d8617d587a12c274a035a
 ---
 
 # 【低空评论】2025年来中国低空经济领域监管政策趋势简述

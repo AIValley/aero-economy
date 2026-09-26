@@ -7,6 +7,9 @@ ingested_at: "2026-07-20"
 type: "report"
 tags: [caict, low-altitude-economy, three-phase, market-forecast, china-policy]
 pages: Unknown (PDF未直接下载)
+source_url: https://www.caict.ac.cn/kxyj/qwfb/bps/202603/P020260331466642289162.pdf
+ingested: 2026-07-20
+sha256: a4448d34f6c511448234fcfe919be2ae52b0b25d868c6773b8417e115074b0b5
 ---
 
 # 低空产业高质量发展路径与策略研究报告（2025年）

@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/I-jN65-WPMrfLoA-C-xjGw
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/I-jN65-WPMrfLoA-C-xjGw
+ingested: 2026-06-08
+sha256: 1905ff6d8551807bd630e7ee810fbd72dcc1e4fce2e23f7e7c95cc9c6a5653f3
 ---
 
 # 《广东省支持低空经济高质量发展若干措施》解读

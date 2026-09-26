@@ -56,3 +56,9 @@ ingested_from:
 ## 行业展望
 
 未来3-5年，率先完成空域数字化改造、打通军民航协同机制的城市将形成产业集聚效应。运营企业需摒弃"重设备、轻合规"的粗放模式。
+
+## 相关页面
+
+- [[low-altitude-industry-chain-three-pillars]] — 共享标签 低空经济/合规运营
+- [[ai-transportation-low-altitude-opportunities]] — 共享标签 低空经济
+- [[guangdong-low-altitude-policy]] — 共享标签 低空经济

@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/ZmnquBJJeQ6RtCssItijaQ
 ingested: 2026-06-09
-sha256: <pending>
+sha256: a5fe53a6b3dd82b792e3febfba712a46d2f222441610f69b7b03553636899779
 meta:
   platform: weixin
   author: "九洲空管"

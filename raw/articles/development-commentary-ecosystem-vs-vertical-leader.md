@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/-GJuXcIjYcc6UPrVfXB9GA
 type: analysis
 series: 低空发展评论
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/-GJuXcIjYcc6UPrVfXB9GA
+ingested: 2026-06-08
+sha256: 763d827698325434d60fd1301b14dd44820dfea5a03ddd6157a003c32b9e5e81
 ---
 
 # 【发展评论】做低空生态构建者，还是垂直领域领军者？

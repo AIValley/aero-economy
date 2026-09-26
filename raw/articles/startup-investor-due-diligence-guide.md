@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/eWSgRxupu0UBmD5ua_6beg
 ingested: 2026-06-08
-sha256: pending
+sha256: b678ac7819ab91a5bc04ac1ce6d64977ff8dd07b0de02827db0f958339145f4f
 ---
 
 # 被投企业应对投资人尽职调查指南

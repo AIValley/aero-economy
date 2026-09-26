@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/t03F9Bk3Ik1CktZA2dMoxw
 type: analysis
 series: 低空评论
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/t03F9Bk3Ik1CktZA2dMoxw
+ingested: 2026-06-08
+sha256: aaf2d3a9e76da32de6871131c460000c4a7c82f9e022ecc9a2e620cb791098d4
 ---
 
 # 【低空评论】就近期美国华盛顿撞机和费城坠机事件，如何正确处理低空经济安全与发展的关系

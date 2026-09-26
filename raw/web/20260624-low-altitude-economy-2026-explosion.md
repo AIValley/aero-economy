@@ -8,6 +8,8 @@ tags: [low-altitude-economy, policy-landing, central-enterprise, talent-shortage
 metadata:
   sn: "N/A"
   source: 微信公众号
+ingested: 2026-06-24
+sha256: dd47250c33e972c1ce130c7a3b232526bcf9dbf84f3d922e1c629670933347d7
 ---
 # 2026低空经济全面爆发：政策落地·央企加码·人才缺口·新专业
 

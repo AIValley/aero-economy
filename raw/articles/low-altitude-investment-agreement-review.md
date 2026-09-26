@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/De91MKqynJCBynE0geXYlg"
 series: "磊律系列第43篇"
 ingested: "2026-06-08"
 tags: [低空经济, 招商引资, 投资协议, 合同审查, 土地, 税收优惠, 法律风险]
+source_url: https://mp.weixin.qq.com/s/De91MKqynJCBynE0geXYlg
+sha256: bcd1d1b4561a10bff138a8daf868cbea571b8d1e696ad65edfaf92426d37c41f
 ---
 
 # 低空经济招商引资协议主要条款的风险审查要点和应对策略

@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/YY0KiOp9QIDJLQO9TQC-Fw
 series: 磊律系列第53篇
 tags: [低空经济, 股权代持, 公司治理, 投资合规, 法律合规]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/YY0KiOp9QIDJLQO9TQC-Fw
+ingested: 2026-06-08
+sha256: a97838542af43799d9efdea051025d947ba96bb072de746d2118b3fcac60a9ef
 ---
 
 # 【低空经验】低空经济公司股权代持的必要性和签订书面股权代持协议的重要性

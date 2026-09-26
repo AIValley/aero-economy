@@ -14,7 +14,7 @@ ingested_from:
 
 ## 概述
 
-地方政府为吸引低空经济企业推出的优惠政策中包含诸多与中央政策相悖的法律风险。[[low-altitude-enterprise]]需清醒认识到任何超越中央政策的"优惠"都是不可持续的，必须将合规视为生命线。
+地方政府为吸引低空经济企业推出的优惠政策中包含诸多与中央政策相悖的法律风险。low-altitude-enterprise需清醒认识到任何超越中央政策的"优惠"都是不可持续的，必须将合规视为生命线。
 
 ## 地方政府政策五大合规风险
 
@@ -64,5 +64,5 @@ ingested_from:
 
 - [[low-altitude-bidding-guide]] — 投标全流程风险
 - [[low-altitude-partner-exit-mechanisms]] — 合伙人退出机制
-- [[low-altitude-enterprise]] — 低空经济企业总纲
+- low-altitude-enterprise — 低空经济企业总纲
 <!-- STATUS: DONE -->

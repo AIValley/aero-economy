@@ -10,6 +10,9 @@ part:
 tags: [低空经济, 应用场景, 巡检, 农林植保, 医疗配送, 城市治理, 低空文旅, eVTOL]
 ingested_at: 2026-06-09
 language: zh
+source_url: https://mp.weixin.qq.com/s/UFHcYL8khP-X04-HscCULQ
+ingested: 2026-06-09
+sha256: 5843ee33b3f68b35f4b5be38995a6f52dc8630e26ed6562e5e969e535ce94c74
 ---
 
 # 低空经济最先跑出来的场景是什么？

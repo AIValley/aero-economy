@@ -8,6 +8,8 @@ language: zh
 tags: [低空经济, 产业链, eVTOL, 无人机, 应用场景, 空域]
 metadata:
   nick_name: 网络安全直通车
+ingested: 2026-06-25
+sha256: f5f6ea31771a23bd3a4013cd7fb26b0c49a760f676d807df42f4d59acae475e9
 ---
 
 # 一文读懂低空经济｜官方定义 + 完整产业链 + 四大落地场景全解析

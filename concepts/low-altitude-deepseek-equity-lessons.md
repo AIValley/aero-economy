@@ -41,3 +41,9 @@ source: 张磊律师 — 低空经济法律事务团队
 - ⚠️ 实控人不担任董监高虽有战略自由度，但可能影响机构投资者信心
 
 > [[low-altitude-holding-startup-equity]] — 控股集团与初创公司股权架构（互补案例）
+
+## 相关页面
+
+- [[low-altitude-equity-structure-guide]] — 共享标签 控制权/股权架构
+- [[low-altitude-financing-negotiation-tips]] — 共享标签 控制权
+- [[low-altitude-company-formation-master-guide]] — 共享标签 股权架构

@@ -22,3 +22,9 @@ source: 张磊律师 — 低空经济法律事务团队
 | 5 | **持续创新** | 后续产权归属+共享出让方改进技术 |
 
 > **终极目标**：形成自主迭代能力，避免"一代技术，反复付费"
+
+## 相关页面
+
+- [[low-altitude-financing-practical-tips]] — 共享标签 合同/尽调
+- [[low-altitude-capital-contribution-guide]] — 共享标签 知识产权
+- [[trade-secret-regulation-2026-compliance-guide]] — 共享标签 知识产权

@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/aEjJ9r9fUd7mHZqdoXdKEA
 series: 低空经济实务
 tags: [低空经济, 法定代表人, 公司治理, 法律风险, 合规]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/aEjJ9r9fUd7mHZqdoXdKEA
+ingested: 2026-06-08
+sha256: 495aade8aa01d67536ed85eb74d9f7f8b0522d81554bee7fc140e973e2386d39
 ---
 
 # 【低空经济公司法定代表人的法律风险防范措施和建议

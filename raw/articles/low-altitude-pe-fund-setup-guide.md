@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/qP3fv4bRKHtq-Kq7WHqtCA
 ingested: 2026-06-08
-sha256: pending
+sha256: 14f9d5fde5ecf5cccfc05c9a964b053d204dd18b6287da31a3b77731571ea436
 ---
 
 # 低空经济私募股权投资基金设立指南

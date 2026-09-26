@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/KCK6a7-tIxmXpTmLAEtzAA
 ingested: 2026-06-08
-sha256: pending
+sha256: 7620dd5bbfb9004cce631677f4edb369f49b1e88e4add86e636a0d410d5a5d0d
 ---
 
 # 低空经济产业基金组建框架与实操要点

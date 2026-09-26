@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/IB0qah2cG8dcD1jxcAE_TQ
 series: 低空经济实务
 tags: [低空经济, 商标保护, 品牌策略, 知识产权, 不正当竞争]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/IB0qah2cG8dcD1jxcAE_TQ
+ingested: 2026-06-08
+sha256: 594bc4fad9aa6572bac7e35976b2f7b3fe39815c4e3514c12c72d45825d40646
 ---
 
 # 【低空实务】低空经济企业的商标保护策略和关键措施

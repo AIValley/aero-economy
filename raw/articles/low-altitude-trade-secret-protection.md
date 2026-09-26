@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/tlma1NQPFMT74C8Ml2pGQw
 series: 低空经济实务
 tags: [低空经济, 商业秘密, 竞业限制, 保密协议, 知识产权]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/tlma1NQPFMT74C8Ml2pGQw
+ingested: 2026-06-08
+sha256: e90ad09b92828bc2af5d63e044e0802edbbc5fb69e6e048a93fb409380dcbcc4
 ---
 
 # 低空经济企业商业秘密保护刻不容缓

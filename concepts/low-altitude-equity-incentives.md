@@ -100,4 +100,9 @@ source: 张磊律师 — 低空经济法律事务团队
 4. **动态跟踪**：每季度考核评估；建立反馈机制
 5. **文化建设**：强调长期价值，避免"套现工具"思维
 
-> [[low-altitude-economy-legal]] · [[low-altitude-equity-incentives]]
+> low-altitude-economy-legal · [[low-altitude-equity-incentives]]
+
+## 相关页面
+
+- [[low-altitude-financing-practical-tips]] — 共享标签 期权
+- [[low-altitude-equity-structure-guide]] — 共享标签 ESOP

@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/zfnBcDV3oSNhHj50isxrlw
 series: 低空经济实务
 tags: [低空经济, 低空文旅, 法律纠纷, 纠纷解决, 旅游法, 侵权]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/zfnBcDV3oSNhHj50isxrlw
+ingested: 2026-06-08
+sha256: 365289807e3ce8e19f6b48f09b23a63a8b303e080de8325d3edfd055285f539b
 ---
 
 # 【低空实务】低空文旅常见法律纠纷类型及其解决途径

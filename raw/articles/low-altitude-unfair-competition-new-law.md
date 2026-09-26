@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/p44cfShFN1jLxorUSLfedg
 series: 低空经济实务
 tags: [低空经济, 反不正当竞争法2025修订, 合规, 数据滥用, 商业贿赂]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/p44cfShFN1jLxorUSLfedg
+ingested: 2026-06-08
+sha256: 5797efb8a0d469b16f426eeb66abbe5b8795ae08802eef2153b38a5f7e6a87d0
 ---
 
 # 新修订《反不正当竞争法》下低空经济企业合规

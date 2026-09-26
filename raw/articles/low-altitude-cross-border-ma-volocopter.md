@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/CC9HFOiBP-BuyBMbKB_PeA
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/CC9HFOiBP-BuyBMbKB_PeA
+ingested: 2026-06-08
+sha256: 51e847c5a9540015b0336e1402f1f5d62de9a447b6e50c2c25dd046edaafa3a6
 ---
 
 2025年3月，万丰奥威（002085）子公司以1,000万欧元收购Volocopter GmbH核心资产（账面价值约4,200万欧元），为其eVTOL产业布局关键一步。本文以此为引，系统分析跨境资产收购的法律风险。

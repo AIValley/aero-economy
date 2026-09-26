@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/A1llW59HzEGXJN94fRAusw
 series: 低空经济实务
 tags: [低空经济, 基础设施, 智能化升级, 顶层设计, 政策建议]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/A1llW59HzEGXJN94fRAusw
+ingested: 2026-06-08
+sha256: e93858ae0f29bb5cd18d60cb24915bdaf13f9cfb5853a046f77ca59da839b393
 ---
 
 # 【实务经验】低空经济基础设施智能化升级的注意事项与实施建议

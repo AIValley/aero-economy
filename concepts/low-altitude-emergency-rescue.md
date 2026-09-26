@@ -59,3 +59,8 @@ ingested_from:
 - **基建拉动**：应急需求→起降点/通信网络/感知系统/飞服平台→外溢巡检/物流/医疗/文旅
 
 <!-- STATUS: DONE -->
+
+## 相关页面
+
+- [[ndrc-six-networks-investment-2026]] — 共享标签 十五五
+- [[drone-airspace-classification-guide]] — 共享标签 无人机

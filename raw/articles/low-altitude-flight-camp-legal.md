@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/fJWgnN-KMiXjRx29BdDxjw"
 series: "磊律系列第29篇"
 ingested: "2026-06-08"
 tags: [低空经济, 飞行营地, 低空旅游, 运营合规, 安全责任, 损害赔偿, 保险]
+source_url: https://mp.weixin.qq.com/s/fJWgnN-KMiXjRx29BdDxjw
+sha256: 5f1a76b4fde057f1d4201749b81dc163d460f5cf3fc95b46c588b61ba40eb2c9
 ---
 
 # 低空飞行营地建设和运营过程中的法律风险与防范措施

@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/eXIOTzfHxJ0CRngqRQ-i8A
 type: analysis
 series: 低空发展评论
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/eXIOTzfHxJ0CRngqRQ-i8A
+ingested: 2026-06-08
+sha256: 9adaf66a810d440eef44af9caef21135eae35b74a0bf6be8e5deee9cffe7e65b
 ---
 
 # 【发展评论】低空经济企业构建竞争优势的思考

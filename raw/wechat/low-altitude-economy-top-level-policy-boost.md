@@ -5,6 +5,9 @@ title: 国家级信号！低空经济再迎顶层利好
 vault: aero-economy
 type: raw
 tags: [低空经济, 政策利好, 民用航空法, eVTOL]
+source_url: https://mp.weixin.qq.com/s/zt31b_9ihsaGJBLoYj5CPg
+ingested: 2026-07-03
+sha256: 6dcf3364d6ffebd09bea5ffbb64dc4728d56a299f63ce166f778fa984c637442
 ---
 
 # 国家级信号！低空经济再迎顶层利好

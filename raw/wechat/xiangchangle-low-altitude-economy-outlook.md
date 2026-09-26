@@ -5,6 +5,9 @@ title: "低空经济发展态势及"十五五"展望"
 vault: aero-economy
 type: raw
 tags: [低空经济, 十五五, 项昌乐, eVTOL, 飞行汽车]
+source_url: https://mp.weixin.qq.com/s/5LfuZk6RklKJr4Hxy8r1Wg
+ingested: 2026-07-04
+sha256: 27ad5c43c36f6a7331312c441b282b6b2fea5356313c9e65ecd4f05f2e7158ab
 ---
 
 # 低空经济发展态势及"十五五"展望

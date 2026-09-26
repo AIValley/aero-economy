@@ -39,3 +39,9 @@ related:
 - **技术**：四川低空行业世界模型+智联网，重庆低空垂类大模型
 - **人才**：广东高校增设专业，吉林每年输送3000+
 - **安全**：云南低空条例、深圳低空气象保险、北京招录安全警务
+
+## 相关页面
+
+- [[private-investment-low-altitude-policy]] — 共享标签 低空经济/基础设施/民间投资
+- [[low-altitude-standards-system-guide-2025]] — 共享标签 低空经济/基础设施/安全监管
+- [[low-altitude-safety-regulation-international-experience]] — 共享标签 低空经济/安全监管

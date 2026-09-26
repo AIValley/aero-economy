@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/q6bAqh30qSIHzRCP3dmEMg
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
 language: zh
+source_url: https://mp.weixin.qq.com/s/q6bAqh30qSIHzRCP3dmEMg
+ingested: 2026-06-08
+sha256: 3396936f828b97e513b7a7901f87490f55a36c5c23eb29369fb11e6a9187cc7c
 ---
 
 根据《外商投资准入特别管理措施（负面清单）（2024年版）》（2024年9月6日国家发展改革委、商务部令第23号公布，自2024年11月1日起施行），我国在通用航空和低空经济关联领域对外商投资的限制和禁止情况如下。

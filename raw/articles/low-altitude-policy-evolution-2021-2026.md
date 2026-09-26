@@ -10,6 +10,9 @@ part:
 tags: [低空经济, 政策演变, 民用航空法, 十五五规划, 无人驾驶航空器, 空域改革]
 ingested_at: 2026-06-09
 language: zh
+source_url: https://mp.weixin.qq.com/s/-V4pRRyVQE8CrBbfwprYpA
+ingested: 2026-06-09
+sha256: c865041d05936044f54f119439aef3ab8b75a5d307bfe9ef369ed8d8d8183cda
 ---
 
 # 低空经济从"四个字"升级为国家新兴支柱产业（2021-2026政策演变全记录）

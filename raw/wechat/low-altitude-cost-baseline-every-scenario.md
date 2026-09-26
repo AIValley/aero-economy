@@ -7,6 +7,9 @@ source_type: wechat
 vault: aero-economy
 description: "低空运营成本深度分析：飞行器折旧、电池周转、人员配置、场站维护、保险合规五大成本类别，以及频次经济学与成本底线方法论"
 tags: [low-altitude-economy, cost-analysis, operations, uav-delivery, evtol, unit-economics, frequency-economics]
+source_url: https://mp.weixin.qq.com/s/Iq--Pc39DJSNOfm6Yo2dxw
+ingested: 2026-07-07
+sha256: 93570867c1b27f49b85b34b2d3a4d1baa5b7dec2c74f3fc0ad49366626f39a89
 ---
 
 # 每个低空场景，都有一条成本底线

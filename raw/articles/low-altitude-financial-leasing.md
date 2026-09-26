@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/9yhnR_Pgzk_xYwThndPT8A"
 series: "磊律系列第33篇"
 ingested: "2026-06-08"
 tags: [低空经济, 金融租赁, eVTOL, 融资租赁, 峰飞航空, 浦银金租, 时的科技, 中银金租]
+source_url: https://mp.weixin.qq.com/s/9yhnR_Pgzk_xYwThndPT8A
+sha256: 0e61fc83a64c50bbd0ac3d27f18f427f74fdf77de75bcfb4994358a1e3f046f1
 ---
 
 # 低空经济企业与金融租赁公司的合作模式及注意事项

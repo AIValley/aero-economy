@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/_sLYL8iXhCq9JjeUsbZP2Q
 type: analysis
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/_sLYL8iXhCq9JjeUsbZP2Q
+ingested: 2026-06-08
+sha256: e8be87fff86f350a085930fa4791c28388efe6fd18c1fd807903446b3a7bf877
 ---
 
 # 重磅！交通运输部2026立法计划发布：低空经济进入"规则构建"关键年

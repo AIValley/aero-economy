@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/BMwyRKaGLlup0ojY6AGwgA"
 series: "磊律系列第31篇"
 ingested: "2026-06-08"
 tags: [低空经济, 通用航空, 通航运营, 适航合规, 飞行安全, 运营合规, 法律风险]
+source_url: https://mp.weixin.qq.com/s/BMwyRKaGLlup0ojY6AGwgA
+sha256: 2659e04bd5d2484f926f4df3b3f7177fb81503ce387068da5302c62469f9af08
 ---
 
 # 通用航空运营公司的主要法律风险及防范措施

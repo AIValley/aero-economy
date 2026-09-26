@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/_hv6ePPSyMe7JIs9cjyb_w"
 series: "磊律系列第32篇"
 ingested: "2026-06-08"
 tags: [低空经济, 无人机制造, 合规, 适航认证, 数据安全, 出口管制, 产品责任]
+source_url: https://mp.weixin.qq.com/s/_hv6ePPSyMe7JIs9cjyb_w
+sha256: 08a63cf8414ee08004e2204270a67d430c9a4ee09c1f8b2d3254247ed26e6b61
 ---
 
 # 非载人类无人机生产制造企业的合规运营要点和风险规避措施

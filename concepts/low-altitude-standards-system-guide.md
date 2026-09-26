@@ -18,3 +18,10 @@ ingested_from:
     date: 2026-06-29
     type: wechat
 created: 2026-06-29
+
+## 相关页面
+
+- [[scenic-low-altitude-tourism-manual-2026]] — 共享标签 airspace-regulation/low-altitude-economy
+- [[guangdong-data-empower-low-altitude]] — 共享标签 低空经济/标准体系
+- [[low-altitude-standards-system-guide-2025]] — 共享标签 低空经济/标准体系
+- [[low-altitude-economy-june-2026-overview]] — 共享标签 low-altitude-economy/低空经济

@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/aPi7KZVFTCHGrFnm64IV5g
 series: 低空经济实务
 tags: [低空经济, 网络安全法, 数据合规, CII, 个人信息保护]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/aPi7KZVFTCHGrFnm64IV5g
+ingested: 2026-06-08
+sha256: c790c01ff11b674544eb56cbc9b574f987f14c3108471c89fa8f4a3c4ba3e656
 ---
 
 # 【法律实务】《网络安全法》重磅修订：低空经济企业的合规应对措施和建议

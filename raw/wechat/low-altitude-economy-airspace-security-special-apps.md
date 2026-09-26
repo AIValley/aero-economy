@@ -3,7 +3,9 @@ source: 丰临未来（微信公众号）
 url: https://mp.weixin.qq.com/s/TzuYwTrfgfPQ9crcaCw2Nw
 title: 低空经济下半场最大红利：空域管控、低空安防、特种应用｜硬核解析
 slug: low-altitude-economy-airspace-security-special-apps
-sha256: d1614df8452c27792cc14d8f66e08fd53cd55c2604892a3fd44968d8f4a36c08
+sha256: 4c8ae0eff57ba0a0504119c8e7beefa8caa110641daf95cd3ac6627d41f30e3d
+source_url: https://mp.weixin.qq.com/s/TzuYwTrfgfPQ9crcaCw2Nw
+ingested: 2026-07-03
 ---
 
 文章解析低空经济三大底层刚需赛道：低空安防、空域管控、特种低空应用。

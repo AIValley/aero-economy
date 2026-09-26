@@ -5,6 +5,9 @@ date: 2026-06-12
 title: 低空经济立法要来了：法律人需要关注的三个问题
 author: 陈石（浙江海泰律师事务所副主任）
 tags: [低空经济, 立法, 空域管理, 隐私, 责任保险]
+source_url: https://mp.weixin.qq.com/s/vmC3N7BZ5e4MtxzrT6lZFg
+ingested: 2026-06-12
+sha256: 232baab2e21c11c08edb22e8ca7969b4e7730f78faa5760a0715619f43acf565
 ---
 
 # 低空经济立法要来了：法律人需要关注的三个问题

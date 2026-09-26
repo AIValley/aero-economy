@@ -8,6 +8,8 @@ tags: [low-altitude-infrastructure, industry-chain, perception-network, 5g-a, ut
 metadata:
   sn: "N/A"
   source: 产业图谱僧（第17篇）
+ingested: 2026-06-24
+sha256: 7a3ec4505cc50c7ff373617fcf02eb8aff4cc65ee1c09ec35fe03b329d7fe12b
 ---
 # 拆解低空经济基础设施产业链
 

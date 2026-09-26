@@ -10,6 +10,9 @@ part:
 tags: [低空经济, 央国企, 基础设施, 安全产业, 长期资本, 产业协同]
 ingested_at: 2026-06-09
 language: zh
+source_url: https://mp.weixin.qq.com/s/wKVdhYJSREbRN2Vsk7fdsg
+ingested: 2026-06-09
+sha256: b2a3bb701d0c02132b1cc55409389c4185dbfa2cb1007a7fb9342eff7ea683c2
 ---
 
 # 为什么国家推动央国企入局低空经济？

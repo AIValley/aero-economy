@@ -7,6 +7,9 @@ source_type: wechat
 vault: aero-economy
 description: "通用航空企业并购合规全指南：行政许可型资产特性/两条并购路径(股权vs资产)/三大高危关卡(民航审批/外资红线/国资进场)/六维尽调/五类关键条款设计"
 tags: [general-aviation, m-and-a, compliance, legal, aero-economy, leilv-series]
+source_url: https://mp.weixin.qq.com/s/sQ5BTcRYYXruALhzC-ejlg
+ingested: 2026-07-07
+sha256: 9fd1a061744df47ac6992bb6f30f9c542a95a26715e2a51e54a91a2564595507
 ---
 
 # 【投资并购】并购国内通用航空企业的合规路径和实务建议

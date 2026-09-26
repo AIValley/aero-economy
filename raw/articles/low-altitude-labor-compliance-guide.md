@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/h0OSV7WoagRuzeWOVl2y-A
 series: 低空经济实务
 tags: [低空经济, 劳动人事, 合规管理, 人力资源管理, 劳动合同]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/h0OSV7WoagRuzeWOVl2y-A
+ingested: 2026-06-08
+sha256: 479d95caa98d0d03ce19967b1e44b3124a96f7e9887773ff99a706a872dd3536
 ---
 
 # 【低空经济企业劳动人事合规管理精要梳理

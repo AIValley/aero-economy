@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/qAZGr3-n4GLym3rZgo85Rw"
 series: "磊律系列第41篇"
 ingested: "2026-06-08"
 tags: [低空经济, 高校合作, 研发协议, 知识产权, 技术合作, 产学研]
+source_url: https://mp.weixin.qq.com/s/qAZGr3-n4GLym3rZgo85Rw
+sha256: df165ffd748543deb7767365130bd664a9a14d99bb049c18c27afdaaba0ce361
 ---
 
 # 低空经济企业与高校等研究机构签订技术研发合作协议时的关注要点

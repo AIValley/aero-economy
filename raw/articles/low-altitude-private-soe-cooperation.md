@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/Dg-_YgLewfhLTnNdjyWKeA"
 series: "磊律低空系列第27篇"
 ingested: "2026-06-08"
 tags: [低空经济, 民营企业, 国有企业, 地方政府, PPP, 合资合作, 合作协议, 风险管控]
+source_url: https://mp.weixin.qq.com/s/Dg-_YgLewfhLTnNdjyWKeA
+sha256: 4fe405ca9d019dafcaf7f18620c249889c647267b5aed58a89e28ea05f9320e5
 ---
 
 # 民营企业与国有企业、地方政府合作低空经济项目的核心注意事项、风险点及合作协议条款的重点分析

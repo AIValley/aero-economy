@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/nZBsIN7qLuFsHyVcBNm9wQ
 type: guide
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/nZBsIN7qLuFsHyVcBNm9wQ
+ingested: 2026-06-08
+sha256: b134da9c8e3794d98fec7edea955a7b2b05f733552f888a2ee787c55ea972c15
 ---
 
 # 如何识别低空经济公司或项目的融资骗局

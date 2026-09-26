@@ -28,7 +28,7 @@ related: [低空经济初创企业融资谈判, 低空经济股权融资法律�
 
 - [[low-altitude-financing-negotiation-tips]] — 谈判阶段的要点
 - [[equity-financing-legal-risks]] — 法律风险清单
-- [[低空经济应对投资尽调指南]] — 尽调应对策略
+- 低空经济应对投资尽调指南 — 尽调应对策略
 - [[low-altitude-startup-equity-dilution]] — 控制权设计
 
 <!-- STATUS: DONE -->

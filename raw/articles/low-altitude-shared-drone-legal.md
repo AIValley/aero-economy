@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/5ZqxFSMrPJL1kigqtVa47g"
 series: "磊律系列第30篇"
 ingested: "2026-06-08"
 tags: [低空经济, 共享无人机, 无人机运营, 合规, 隐私, 数据安全, 保险, 法律风险]
+source_url: https://mp.weixin.qq.com/s/5ZqxFSMrPJL1kigqtVa47g
+sha256: 5a1e54fe65f40b5f81e8151fb5575c0f57fa6d6c4a529b41b61724271bd773b7
 ---
 
 # 共享无人机运营过程中的法律风险分析与防范措施建议

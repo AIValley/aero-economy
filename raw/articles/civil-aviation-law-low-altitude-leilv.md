@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/KUwnc7AulNKCGQlkrVz0fg
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/KUwnc7AulNKCGQlkrVz0fg
+ingested: 2026-06-08
+sha256: 3d017015dc1294d199919a32ab8404d3c94a6762d9da20f3316faee06f44103c
 ---
 
 2025年12月27日修订通过，《中华人民共和国民用航空法》共16章262条，自2026年7月1日起施行。本次修法首次在法律层面对低空经济作出系统性制度安排。

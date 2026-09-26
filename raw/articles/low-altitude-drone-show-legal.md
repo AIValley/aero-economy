@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/qKMyDUuCXJMQs7rR_z4q3g"
 series: "磊律系列第37篇"
 ingested: "2026-06-08"
 tags: [低空经济, 无人机, 编队表演, 空域, 知识产权, 保险, 法律风险]
+source_url: https://mp.weixin.qq.com/s/qKMyDUuCXJMQs7rR_z4q3g
+sha256: d81961797928f943d32e3d9eab80db4b81e7e1dd7e90b4017e0aaaf06fd82c1f
 ---
 
 # 无人机编队表演的法律风险分析及防范措施

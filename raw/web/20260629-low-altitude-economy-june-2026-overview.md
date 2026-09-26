@@ -5,6 +5,8 @@ source_url: "https://mp.weixin.qq.com/s/TndeFBQFgnSF9Jz5A45GLA"
 date: 2026-06-29
 language: zh
 type: web
+ingested: 2026-06-29
+sha256: 920ad1d6002cceadb527d0988edee9944a5c5c6ced689b8b6ca853df0712abee
 ---
 
 2026年被官方定义为低空经济常态化商业运营元年，行业正式升级为国家新兴支柱产业。赛迪研究院数据显示，2026年全国低空经济整体市场规模突破1.06万亿元，同比增速33.8%，带动全社会就业超300万人；其中飞行器制造占比35%、运营服务40%、基建配套25%。

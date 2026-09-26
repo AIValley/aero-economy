@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/HT0N0hrCdMZSkLdvCKb_2Q
 ingested: 2026-06-08
-sha256: pending
+sha256: c5e3aa9f5543b15ec7c529de357d0d477f350b55734ba867ed51a64b74672e39
 ---
 
 # 投资选址评估八大核心维度

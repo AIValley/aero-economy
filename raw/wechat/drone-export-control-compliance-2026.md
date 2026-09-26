@@ -5,6 +5,9 @@ date: 2026-07-08
 vault: aero-economy
 category: regulation
 tags: [无人机, 出口管制, 合规, 两用物项, 海关]
+source_url: https://mp.weixin.qq.com/s/XM-wZzvminWfSIcu_JaQQQ
+ingested: 2026-07-08
+sha256: 0482d1b73b6f16960a33149369569d7f9be9f3e836181b93e1bd3ccfa2a523e4
 ---
 
 # 2026无人机出口合规手册：市场分析、管制参数和出口申报全流程

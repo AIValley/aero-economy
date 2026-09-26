@@ -7,7 +7,8 @@ type: report
 date: 2026-02-28
 ingested_at: 2026-08-03
 tags: [低空经济, 人才, 猎聘, 航投人才, 人才缺口, 薪酬, 就业, 教育, report]
-sha256: fb6978f1c23a653a5d2f5dd4ee8e8a58c62529a625cb77d6b294c96d15eadb2f
+sha256: 68d056d9b16e69d4377d91ddd45035eb1d06926fed2deac2fc8bb10bf7087da2
+ingested: 2026-02-28
 ---
 
 # 2026中国低空经济人才发展报告（猎聘大数据研究院+航投人才）

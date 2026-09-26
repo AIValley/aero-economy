@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/qud-6ZMRZ04trsAB9PxByA
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/qud-6ZMRZ04trsAB9PxByA
+ingested: 2026-06-08
+sha256: 527bad3a4dd553672670fb798540e7b3fe17e5f710b12c714e2607ba11d2c181
 ---
 
 # 《国务院关于深入实施"人工智能+"行动的意见》— 低空经济影响分析

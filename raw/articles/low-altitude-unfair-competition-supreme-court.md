@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/55FJZ1sJdbYCAq9246rQ-g
 series: 低空经济实务
 tags: [低空经济, 反不正当竞争, 最高法案例, 商业秘密, AI保护, 举证]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/55FJZ1sJdbYCAq9246rQ-g
+ingested: 2026-06-08
+sha256: 22eac8933b995e6401b090a0a9c9a1c88efa52fd0ff363b6efedc9caae0c4602
 ---
 
 # 最高人民法院反不正当竞争典型案例对低空经济企业的启示

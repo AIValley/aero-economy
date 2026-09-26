@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/7-VmCVsy8rrgowsrjaBbJg
 ingested: 2026-06-08
-sha256: pending
+sha256: 665b260a92a399fe5f22d581cff9ef0dcd740023250c8c47b0763a1d5fd7a93e
 ---
 
 # 私募股权基金如何评估低空经济企业 — 四大核心维度

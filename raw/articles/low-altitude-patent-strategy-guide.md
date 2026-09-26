@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/Ns7NJKu4WWvPCNiJsOmmeQ
 series: 低空经济实务
 tags: [低空经济, 专利保护, 初创企业, 知识产权, IP战略]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/Ns7NJKu4WWvPCNiJsOmmeQ
+ingested: 2026-06-08
+sha256: 1fafe3e69332cd82e532758ec7a565d5082174b8d57105a96345334679353019
 ---
 
 # 【低空实务】低空经济初创企业的专利保护策略和关键措施

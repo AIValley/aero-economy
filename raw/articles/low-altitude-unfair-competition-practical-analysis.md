@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/QYWL6WxKauXOF-4NvMR05A
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/QYWL6WxKauXOF-4NvMR05A
+ingested: 2026-06-08
+sha256: 6ea66b8a61e79c820d9748f16ec53c0d5cc196ca8c51657c0cca42ca11c5c4bc
 ---
 
 低空经济作为新兴产业，在国内政策支持、技术创新、市场扩张等多重驱动下，共同推动了行业繁荣和竞争加剧，但随之而来的不正当竞争问题也日益凸显。作为诸多低空经济投资基金和低空经济公司的法律顾问，张磊律师及时、全面地协助客户制定了各类风险防范措施，处理了不少行业不正当竞争行为，认为低空经济企业在创新发展的同时需筑牢竞争合规防线。以下为笔者从法律和实务角度，系统分析低空经济领域的不正当竞争形态及防范策略。

@@ -59,7 +59,7 @@ ingested_from:
 
 ## 企业家群像：50位核心推动者
 
-> 长城战略咨询梳理了50位代表性民营企业家，覆盖8大赛道。详见 [[raw/report/top-50-low-altitude-entrepreneurs-2026]]
+> 长城战略咨询梳理了50位代表性民营企业家，覆盖8大赛道。详见 [[raw/report/top-50-low-altitude-entrepreneurs-2026.md]]
 
 | 赛道 | 代表人物 | 企业数 |
 |------|---------|--------|
@@ -79,3 +79,9 @@ ingested_from:
 > **"低空经济的万亿红利，藏在规则、基建和场景里。"**
 
 2026年核心变化不是多了几款新飞行器，而是空域放开、流程简化、数据合规、城市配套、标准统一——所有落地条件全部成熟。
+
+## 相关页面
+
+- [[guangdong-low-altitude-policy]] — 共享标签 UAM
+- [[low-altitude-opening-june-2026]] — 共享标签 airspace-reform/low-altitude-economy
+- [[low-altitude-three-phase-development-2026]] — 共享标签 airspace-reform/low-altitude-economy

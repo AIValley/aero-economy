@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/ofBqaZkMDvaebYRrvrTk7A"
 series: "磊律系列第44篇"
 ingested: "2026-06-08"
 tags: [低空经济, 招商引资, 投资协议, 风险分析, 市场风险, 技术风险, 融资风险]
+source_url: https://mp.weixin.qq.com/s/ofBqaZkMDvaebYRrvrTk7A
+sha256: b35011e72f7b2bd0995f8263f876838375b538d015d4c14dfd045b5e9406e500
 ---
 
 # 低空经济招商引资协议中的风险分析与防范策略

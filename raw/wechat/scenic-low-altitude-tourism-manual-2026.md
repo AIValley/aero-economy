@@ -5,6 +5,9 @@ author: "天集"
 url: "https://mp.weixin.qq.com/s/nCqu8dA9vjKskNJhMl4EVw"
 ingested_at: "2026-07-20"
 tags: [low-altitude-economy, tourism, evtol, scenic-spot, airspace-regulation, uom]
+source_url: https://mp.weixin.qq.com/s/nCqu8dA9vjKskNJhMl4EVw
+ingested: 2026-07-20
+sha256: 35948466ab5f4d78240c4baac2b1211ed061858a16f8679915503da663502105
 ---
 
 # 景区低空观光完整运营手册：航线规划、空域报备、客流转化全流程落地指南

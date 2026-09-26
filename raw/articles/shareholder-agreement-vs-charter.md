@@ -1,3 +1,8 @@
+---
+source_url: https://mp.weixin.qq.com/s/fQLFxuKEfhBvR4Ifn_eCKA
+ingested: 2026-06-08
+sha256: 6d9869f35fe8e9ebed6769fe62d41abceb381d7397741bd50ba9d279bfb66a20
+---
 # 【法律实务】有限公司的股东协议可以取代公司章程吗？
 
 > 作者：张磊律师

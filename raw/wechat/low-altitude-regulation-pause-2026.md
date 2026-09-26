@@ -6,6 +6,9 @@ vault: aero-economy
 type: raw
 tags: [低空经济, 强监管, 安全管控, 行业洗牌, 临时管控, 明时社]
 slug: low-altitude-regulation-pause-2026
+source_url: 微信公众号
+ingested: 2026-07-17
+sha256: 6205e38a4098030685908c39e9bcab6d4ccc747577ac79080ef5b15dea68c997
 ---
 
 # 低空经济按下暂停键？阵痛过后行业将迎来高质量起飞

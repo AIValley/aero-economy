@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/t_z9_sy0xIsHcn1i5R2Mkw"
 series: "磊律系列第35篇"
 ingested: "2026-06-08"
 tags: [低空经济, 建设用地, 特殊不动产, 楼顶, 临时用地, 储备用地, 基础设施, 法律风险]
+source_url: https://mp.weixin.qq.com/s/t_z9_sy0xIsHcn1i5R2Mkw
+sha256: 69cdb01ba6093f6ac936d3d5bdf34532538d273f1d38b5ac9f2994b394f97a2b
 ---
 
 # 低空经济项目建设用地风险管控分析和应对

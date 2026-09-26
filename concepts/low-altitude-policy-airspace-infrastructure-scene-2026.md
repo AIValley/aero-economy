@@ -36,3 +36,8 @@ related:
 - 新民航法施行后经营性飞行须持CAAC执照
 - 持证驾驶员仅满足30%需求，缺口近百万
 - 农业植保/巡检/测绘需求占比超65%
+
+## 相关页面
+
+- [[star-market-fifth-standard-low-altitude]] — 共享标签 政策
+- [[low-altitude-company-location-guide]] — 共享标签 政策

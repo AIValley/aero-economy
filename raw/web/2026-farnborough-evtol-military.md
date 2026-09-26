@@ -13,6 +13,8 @@ verified: |
   r.jina.ai 代理抓取 m.toutiao.com 原文 + 页面内 RENDER_DATA JSON（articleInfo.content）双重提取交叉核对一致。
   发布媒体为《中国航空报》体系（航空工业官方媒体），可信度较高；文中事实与周报
   concepts/low-altitude-weekly-2026-07-27-08-02.md 第7节「范堡罗航展：eVTOL参军成新趋势」一致。
+ingested: 2026-07-31
+sha256: 04004ef18819ea805d0e893ebc192e1c691c3c8ee6fdd329a0129a59553f397a
 ---
 
 # 美国地方政府官员积极进行"航展招商"，更多的eVTOL正在"参军"

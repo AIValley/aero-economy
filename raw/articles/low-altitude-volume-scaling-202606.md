@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/AQ08bK5xA0sNfj3Pf_Ryhw
 ingested: 2026-06-09
-sha256: <pending>
+sha256: a59b1dbbabfcd0ee7987ac91a820b4f95e2a9d0c2e543b7ac611820bc9af1f90
 meta:
   platform: weixin
   author: "经济观察报—张锐"

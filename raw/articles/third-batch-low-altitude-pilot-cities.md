@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/aOPnmClVOY5Zm1j9JXGmiw
 type: analysis
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/aOPnmClVOY5Zm1j9JXGmiw
+ingested: 2026-06-08
+sha256: 821b71dd1ee26938a301afbcfce313165e1db8f9efb22dd0df43b3f42f1f8436
 ---
 
 # 第三批低空开放试点城市猜想：谁是下一个"天空之域"

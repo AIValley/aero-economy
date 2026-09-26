@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/m3KdGXLI1-SKOQXJb1xOQw
 series: 低空经济实务
 tags: [低空经济, 无人机培训, 资质授权, CAAC, 合规, 挂靠]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/m3KdGXLI1-SKOQXJb1xOQw
+ingested: 2026-06-08
+sha256: 52473c4421af811e3d847366840193ab3a952446bb9c0c5d35d26ae3947e3db9
 ---
 
 # 【法律实务】民用无人机驾驶员培训资质可以对外授权使用吗？

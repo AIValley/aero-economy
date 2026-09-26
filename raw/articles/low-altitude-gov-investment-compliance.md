@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/zkNvaWwXGVlTgjbHFhscxg"
 series: "磊律低空系列第26篇"
 ingested: "2026-06-08"
 tags: [低空经济, 招商引资, 合规, 地方政府, 法律风险, 政策合规]
+source_url: https://mp.weixin.qq.com/s/zkNvaWwXGVlTgjbHFhscxg
+sha256: b89d0cd5fd3caa28a087e02cc1981823c008786a400289186bcfbcdd45688fa7
 ---
 
 # 地方政府招商引资政策的合规挑战与低空经济企业的法律风险防范

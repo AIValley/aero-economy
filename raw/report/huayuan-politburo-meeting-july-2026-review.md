@@ -5,8 +5,10 @@ url: "https://pdf.dfcfw.com/pdf/H3_AP202607311827530014_1.pdf"
 type: report
 date: 2026-07-31
 ingested_at: 2026-08-03
-sha256: db9233fcee1131a6550c377a1dc0ae5bb2122c83264745b1b445ef5e83b9c0b8
+sha256: cf6b275fe0cc9b108c4fb3ef9fb57b47cd3b3cb259e11b9186c6d88790a42937
 tags: [report, policy, politburo, 新兴支柱产业, 低空经济, 宏观政策, china]
+source_url: https://pdf.dfcfw.com/pdf/H3_AP202607311827530014_1.pdf
+ingested: 2026-07-31
 ---
 
 # 发力提效，动能向新——2026年7月政治局会议点评

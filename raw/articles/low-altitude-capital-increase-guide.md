@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/GHAfMKcODeus_duH4cCb8w
 series: 磊律系列第54篇
 tags: [低空经济, 增资, 公司治理, 投融资, 法律合规]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/GHAfMKcODeus_duH4cCb8w
+ingested: 2026-06-08
+sha256: 5bbbd3cfacd9578e28e65287690156e4ff79bb8aa8ff77fb2245d885db732c20
 ---
 
 # 【低空实务】低空经济有限公司增资流程法律要点指引

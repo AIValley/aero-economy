@@ -10,6 +10,9 @@ part: 5
 tags: [低空经济, 黑飞, 治安管理处罚法, 无人机处罚, 强制保险, 刑事责任, 安全合规]
 ingested_at: 2026-06-09
 language: zh
+source_url: https://mp.weixin.qq.com/s/lUZEpvrhSxgbifI2hmMTNg
+ingested: 2026-06-09
+sha256: f7036f81dbe934413aa3905ee76bf159d511a3b13a014ceb4e3d6fc1c702bee2
 ---
 
 # 《低空经济核心概念100问》第五部分——安全与处罚篇（81—100问）

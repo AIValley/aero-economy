@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/vSVS3Tvv0z6ZDeo9lEBRqw"
 series: "磊律系列第38篇"
 ingested: "2026-06-08"
 tags: [低空经济, 无人机, 飞手, 驾驶员, 合规, 空域, 隐私, 保险, 法律风险]
+source_url: https://mp.weixin.qq.com/s/vSVS3Tvv0z6ZDeo9lEBRqw
+sha256: bdb238110c54621e116b23ddfd673a179f2852e82a08affd55681d7ed97437ab
 ---
 
 # 无人机飞手从业过程中可能涉及的法律风险分析和防范建议

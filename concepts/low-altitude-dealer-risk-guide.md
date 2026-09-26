@@ -36,3 +36,8 @@ source: 张磊律师 — 低空经济法律事务团队
 2. **合同是根本**
 3. **动态管理**
 4. **保留核心控制权**
+
+## 相关页面
+
+- [[trade-secret-regulation-2026-compliance-guide]] — 共享标签 数据合规/知识产权
+- [[low-altitude-capital-contribution-guide]] — 共享标签 知识产权

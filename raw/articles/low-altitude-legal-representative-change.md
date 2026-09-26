@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/eFk928PVYcwPsPUnbEeinw
 series: 低空经济实务
 tags: [低空经济, 法定代表人, 新公司法, 公司治理, 工商变更]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/eFk928PVYcwPsPUnbEeinw
+ingested: 2026-06-08
+sha256: 2f33c8056a9704e6e8a3507791f5164296d9bc759ababf3d89e92e73d6abfdf9
 ---
 
 # 【低空实务】低空经济公司选任和变更法定代表人的注意事项和提示

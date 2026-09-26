@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/YLxb01zQIvD08nGtnkhecQ
 type: analysis
 series: 低空发展
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/YLxb01zQIvD08nGtnkhecQ
+ingested: 2026-06-08
+sha256: 85b68b3fa798d4d85e35a3f0a82e24ceef1b1dd4248bfd9f1345deb8aacc0839
 ---
 
 # 【低空发展】民营企业掘金低空经济的市场策略和思路参考

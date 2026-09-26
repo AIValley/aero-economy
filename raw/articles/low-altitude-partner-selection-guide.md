@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/ISI8r9CS-1816nCCreVYAQ
 series: 低空经济实务
 tags: [低空经济, 合伙人遴选, 创业, 股权设计, 尽调]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/ISI8r9CS-1816nCCreVYAQ
+ingested: 2026-06-08
+sha256: ff98ed69fdd83e3bd375d10d13fe448ba662c079b40635e93e9a44dbec5740ae
 ---
 
 # 【低空经验】低空经济企业和创业者如何遴选合伙人及关注事项

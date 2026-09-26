@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/DMUnRiCdMHkb7Ua4LsHyUQ
 ingested: 2026-06-08
-sha256: pending
+sha256: 20da50e67b3a2eb87b12c1a7dade61449e0b7a3511a64b33ff7a373b79b7ba58
 ---
 
 # 传统企业转型低空经济战略框架

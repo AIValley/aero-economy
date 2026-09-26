@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/3TxmvR5YeujjLn2tFrFHwA
 series: 低空经济实务
 tags: [低空经济, 数据合规, 个人信息保护, 网络安全, 隐私]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/3TxmvR5YeujjLn2tFrFHwA
+ingested: 2026-06-08
+sha256: be57650ef9f40b950c71d60b59067b29dcfed178089df93b1e73aaa427473e87
 ---
 
 # 【合规实务】上海个人信息保护处罚案例对低空经济企业的警示与建议

@@ -10,6 +10,9 @@ part:
 tags: [低空经济, 商业落地, 美团无人机, 顺丰无人机, 低空物流, 出海, 供应链, 凤岗]
 ingested_at: 2026-06-09
 language: zh
+source_url: https://mp.weixin.qq.com/s/1nuemWtporsNW-nz0gluOg
+ingested: 2026-06-09
+sha256: 04d6e66620fac7186f80cb9747f781e822664c747c1705c23c2de1ee48b9441b
 ---
 
 # 彻底变天！低空经济终结烧钱时代，2026普通人全新风口出炉

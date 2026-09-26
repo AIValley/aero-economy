@@ -6,6 +6,9 @@ title: 学习时报：全球低空经济产业链发展态势
 vault: aero-economy
 type: raw
 tags: [低空经济, 产业链, 全球格局, 学习时报, eVTOL, AAM]
+source_url: https://mp.weixin.qq.com/s/gPtmWRkN6G-ukLmghiafOw
+ingested: 2026-07-03
+sha256: dd7adfc73c27d8e8dc0c409011c6af8a42e5bf64cfe026d02cd8ba099a7860ff
 ---
 
 # 全球低空经济产业链发展态势

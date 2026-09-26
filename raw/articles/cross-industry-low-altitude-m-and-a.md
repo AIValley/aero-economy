@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/qv5VDKYpi0kLCCEi54ydtw
 ingested: 2026-06-08
-sha256: pending
+sha256: 329686039b4e4c86d820dee319d603a818e560a0adc53b5b1b193c2b618afcb9
 ---
 
 # 跨界并购低空经济企业：战略投资者的核心考量框架

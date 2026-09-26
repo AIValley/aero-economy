@@ -12,6 +12,9 @@ tags:
   - standardization
   - evtol
   - g-end-scenarios
+source_url: https://mp.weixin.qq.com/s/ggnb41PE377O5AhGWjtYZw
+ingested: 2026-08-03
+sha256: 066ef394cf7407dd307f2e3c11e3ef31afd9c2212d14d40eb31842c1d30c6e01
 ---
 
 # 低空经济周报：2026.07.27-08.02｜中央政治局把它写进了"支柱产业"

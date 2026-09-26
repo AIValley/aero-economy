@@ -39,3 +39,9 @@ source: 张磊律师 — 低空经济法律事务团队
 3. **专业律师** → 特许经营+低空经济双重专业
 
 > [[low-altitude-dealer-risk-guide]] — 生产商视角：经销商合作法律风险（互补阅读）
+
+## 相关页面
+
+- [[franchise-typical-cases-low-altitude-lessons]] — 共享标签 低空经济/加盟/特许经营
+- [[commercial-franchise-regulation]] — 共享标签 低空经济/加盟/特许经营
+- [[low-altitude-bidding-guide]] — 共享标签 低空经济/合同风险/磊律系列

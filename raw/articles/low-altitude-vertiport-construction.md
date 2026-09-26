@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/VxxuxyhzBmPAUyr_IgIOyg"
 series: "磊律低空系列第28篇"
 ingested: "2026-06-08"
 tags: [低空经济, 起降场点, 基础设施建设, 土地, 空域, 环保, 运营许可, 法律合规]
+source_url: https://mp.weixin.qq.com/s/VxxuxyhzBmPAUyr_IgIOyg
+sha256: a9ab0351b33fa51699e542103b88ad068d8b13812718c3982c2f1e1d1923bbed
 ---
 
 # 低空飞行器起降场点建设的常见法律问题及其核心解决方案

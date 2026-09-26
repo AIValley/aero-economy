@@ -7,6 +7,9 @@ source_type: wechat
 vault: aero-economy
 description: "低空经济项目合作实务全指南：四维关注仪表盘（政策合规/技术运营/商业模式/合作伙伴）+五大陷阱警示+三大层面建议"
 tags: [low-altitude-economy, legal-risk, project-cooperation, airspace-compliance, drone-regulation]
+source_url: https://mp.weixin.qq.com/s/XwXo9ybzW0yl3kep-ZzC2Q
+ingested: 2026-07-27
+sha256: e7a4e812dd4c53bc992e6f9bdfe3103c036fd34a618f3b72c393a0073a2cc2c1
 ---
 
 # 【实务经验】把握时代风口，警惕合作风险——低空经济项目合作的要点、问题和建议

@@ -15,8 +15,10 @@ type: regulation
 status: issued
 date: 2025-07-02
 ingested_at: 2026-08-03
-sha256: d03a24ca9f8d0c28c2515bdbea85e997ebc247900a731447d12e4e2e54d22b09
+sha256: fd4af5fb5303b1ab981f96fb8004276b6ba645aa7760a704548f2e0d2a64daaf
 tags: [阿联酋, GCAA, 混合运行, hybrid operations, eVTOL, 直升机, VCA, 垂直起降场, vertiport, 直升机坪, heliport, AAM, 先进空中交通, 监管框架, CAR AGA Part VFI, 中东, 适航, 基建共享, 低空经济]
+source_url: https://www.wam.ae/ar/article/bkhbbzh
+ingested: 2025-07-02
 ---
 
 # 阿联酋GCAA发布全球首部"混合运行"监管框架（eVTOL与常规直升机共用基础设施）

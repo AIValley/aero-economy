@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/PFt1h1Mg_fumIRy-chjW1g
 ingested: 2026-06-08
-sha256: pending
+sha256: 970b2462b2dca6c91c10efbf68079ffdd0408cad12e3a7a30c762eca70c4639f
 ---
 
 # 低空经济公司收购方式解析：股权收购 vs 资产收购

@@ -23,3 +23,9 @@ ingested_from:
 
 ## 关键判断
 看现金流，不看发布会。
+
+## 相关页面
+
+- [[evtol-financing-h1-2026]] — 共享标签 eVTOL
+- [[caac-cross-water-operation-draft-2026]] — 共享标签 eVTOL
+- [[evtol-military-trend-2026]] — 共享标签 eVTOL

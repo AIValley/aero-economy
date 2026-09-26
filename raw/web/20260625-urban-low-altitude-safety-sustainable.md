@@ -9,6 +9,8 @@ tags: [低空经济, 城市安全, 空域治理, eVTOL, 无人机, 合规]
 metadata:
   nick_name: 中国信息安全
   author_detail: "孙轩 — 南开大学数字城市治理实验室主任、计算社会科学实验室副主任"
+ingested: 2026-06-25
+sha256: bf4a0a34890e672b760de521fa2d6c9c0d9f28a0a1f5302bbd4759d94028c8bf
 ---
 
 # 观点 | 推动城市低空经济安全可持续发展

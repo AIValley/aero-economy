@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/gM5rXhYJ9G39NO2vtwHYkQ
 series: 磊律系列第51篇
 tags: [低空经济, 竞业限制, 竞业禁止, 员工协议, 商业秘密, 法律合规]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/gM5rXhYJ9G39NO2vtwHYkQ
+ingested: 2026-06-08
+sha256: 4a892371cf9f33e9fe9750464d6f79bd4dc97a97937dc9ac20876d6b32fd3253
 ---
 
 # 【低空实务】低空经济企业签署竞业限制协议/竞业禁止协议的重要性及注意事项

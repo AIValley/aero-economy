@@ -36,3 +36,9 @@ related:
 
 ## 三大风险
 - 适航进度风险、空域落地风险、低端产能过剩风险
+
+## 相关页面
+
+- [[low-altitude-abs-financing]] — 共享标签 融资
+- [[star-market-fifth-standard-low-altitude]] — 共享标签 融资
+- [[low-altitude-financing-negotiation-tips]] — 共享标签 融资

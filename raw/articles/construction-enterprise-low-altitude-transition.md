@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/oT3JWU-a6-cSv5ZxDL-Rzw
 ingested: 2026-06-08
-sha256: pending
+sha256: ff1f0ae050b0bc0da914e91a29029fbc8ffdad8195cb279490dfe60fc4a4772a
 ---
 
 # 传统建筑企业转型低空经济路径与策略

@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/lu96ia7rTdvlRQPcLbIc8Q
 series: 磊律系列第47篇
 tags: [低空经济, 无人机巡检, 电力巡检, 合规管理, 数据安全, 法律合规]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/lu96ia7rTdvlRQPcLbIc8Q
+ingested: 2026-06-08
+sha256: 6cef1f25cc101f083cbb49a171859c9e6f846e702409ffc08a910c0589710138
 ---
 
 # 【低空实务】从事无人机电力巡检服务应注意的核心事项及签订无人机电力巡检服务合同的法律风险和防范措施

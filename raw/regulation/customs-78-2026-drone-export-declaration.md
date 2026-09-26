@@ -5,6 +5,9 @@ date: 2026-07-08
 vault: aero-economy
 category: regulation
 tags: [无人机, 出口管制, 海关, 合规, 公告]
+source_url: http://chongqing.customs.gov.cn/manzhouli_customs/566020/3392762/566021/7188209/index.html
+ingested: 2026-07-08
+sha256: 28330761841294c715479090cea2b7d47544dd073ad1bbf6082148634850de3e
 ---
 
 # 海关总署公告2026年第78号

@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/e6E6_8Y5HedSgbgFoKK6OQ
 ingested: 2026-06-08
-sha256: pending
+sha256: 95ede226d71601c98fbc420945bf73b27148d38e8a2862998d82263277a90357
 ---
 
 # 低空经济初创公司天使轮融资指南

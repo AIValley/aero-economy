@@ -19,3 +19,9 @@ ingested_from:
     date: 2026-06-29
     type: wechat
 created: 2026-06-29
+
+## 相关页面
+
+- [[uae-hybrid-operations-regulation-2026]] — 共享标签 infrastructure/vertiport
+- [[shenzhen-low-altitude-130b-plan]] — 共享标签 infrastructure/low-altitude-economy/vertiport
+- [[low-altitude-infrastructure-industry-chain-deep-dive]] — 共享标签 vertiport

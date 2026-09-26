@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/acBsSj34R98M7GHOjDdaqw
 series: 磊律系列第49篇
 tags: [低空经济, 知识产权, 员工协议, 归属协议, 法律合规, IP管理]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/acBsSj34R98M7GHOjDdaqw
+ingested: 2026-06-08
+sha256: 262f2a0ba6fe47ed8f842f4fefd6aaa0a7da8064565d580ba447c9edc1638d0e
 ---
 
 # 【低空经验】低空经济企业与员工签署知识产权归属协议的重要性分析及特殊事项

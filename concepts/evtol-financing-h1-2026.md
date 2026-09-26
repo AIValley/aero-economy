@@ -43,3 +43,9 @@ ingested_from:
 - 融资用途从PPT融资转向**量产工厂、适航取证、产能交付**
 - 沃兰特股东结构六大门类覆盖（全球资本/险资/国资/产业/创投/区域基金）
 - 适航审批是第一道生死关，全球竞争（Joby FFA阶段四）不容忽视
+
+## 相关页面
+
+- [[star-market-fifth-standard-low-altitude]] — 共享标签 IPO
+- [[low-altitude-civil-aviation-law-countdown]] — 共享标签 小鹏汇天
+- [[ai-transportation-low-altitude-opportunities]] — 共享标签 eVTOL

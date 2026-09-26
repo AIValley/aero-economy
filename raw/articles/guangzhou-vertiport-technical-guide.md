@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/EYBTJ3PvMpdyCEHBCRuGEQ"
 series: "磊律系列第36篇"
 ingested: "2026-06-08"
 tags: [低空经济, 广州, 垂直起降设施, 技术指引, eVTOL, 起降场, 合规, 法律风险]
+source_url: https://mp.weixin.qq.com/s/EYBTJ3PvMpdyCEHBCRuGEQ
+sha256: bbfdb8498802ee025157bfa2413b7390f935557f25a1223834ba55456b7bb7a9
 ---
 
 # 低空垂直起降设施建设的法律风险及防范建议

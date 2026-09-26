@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/v6Qx6W_zYfbajwM8EheOMw
 ingested: 2026-06-09
-sha256: <pending>
+sha256: 3dcf1419f64487f9e8c0203a9eec4ffdfdfce9a137aa7d6e9ab9c85fba65eff8
 meta:
   platform: weixin
   author: "微信公众号"

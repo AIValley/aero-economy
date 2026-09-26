@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/BsBZnqH6XzrOxvTJ_FX0CQ
 series: 磊律系列第52篇
 tags: [低空经济, 保密协议, 员工协议, 商业秘密, 数据安全, 法律合规]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/BsBZnqH6XzrOxvTJ_FX0CQ
+ingested: 2026-06-08
+sha256: 4041ddcee776fc1b1b58954d01f4dd7604ea8580b02b6210a611b80abb403f96
 ---
 
 # 【低空经验】低空经济企业与员工签署保密协议的重要性分析与提示

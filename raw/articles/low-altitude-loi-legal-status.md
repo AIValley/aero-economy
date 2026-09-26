@@ -6,6 +6,8 @@ url: "https://mp.weixin.qq.com/s/l5JqMaX0H9qD0sTFOJjdNg"
 series: "磊律系列第42篇"
 ingested: "2026-06-08"
 tags: [低空经济, 意向订单, 合作意向书, MOU, 合同, 法律风险, 缔约过失]
+source_url: https://mp.weixin.qq.com/s/l5JqMaX0H9qD0sTFOJjdNg
+sha256: a337d0089f2b5e67f6606ea4c2d3b0efd0f7b4a0bee42e9e502e282526c0835b
 ---
 
 # 意向订单/合作意向书的法律地位及法律风险防范

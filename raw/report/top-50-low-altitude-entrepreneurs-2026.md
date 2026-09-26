@@ -5,6 +5,9 @@ date: 2026-07-08
 vault: aero-economy
 category: industry-landscape
 tags: [企业家, 低空经济, eVTOL, 物流无人机, 巡检, 零部件]
+source_url: https://mp.weixin.qq.com/s/7C_nfhdd9IQkxq272KxmvA
+ingested: 2026-07-08
+sha256: a4a1be8a34db782cfb1ac3c96a77fa0699d45fddc2af791a5e249a30aa1ce767
 ---
 
 # 推动中国低空经济快步向前的关键群体（2026版）：50位民营企业家

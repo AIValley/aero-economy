@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/W1jgq_AmNeCXUREQBpXhvg
 ingested: 2026-06-08
-sha256: pending
+sha256: a162b508430b83c2431bc77ed995318df442cec868ae6e20937400ddfaff281d
 ---
 
 # 低空经济企业融资渠道与方式全景指南

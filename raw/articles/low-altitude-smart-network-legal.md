@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/n367y466OdVAARuwtR_UtQ
 series: 低空经济实务
 tags: [低空经济, 低空智联网, 空域管理, 数据合规, 基础设施, 法律合规]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/n367y466OdVAARuwtR_UtQ
+ingested: 2026-06-08
+sha256: 4223472b8c61fe8419357ae3ea58beef98444c244ae8c37f3d5afa3de86db4b7
 ---
 
 # 【低空实务】目前低空智联网建设中的主要法律问题

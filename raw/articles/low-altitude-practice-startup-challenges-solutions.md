@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/cRW1BHh3ozRQX-b_UUXv2A
 type: guide
 series: 低空实务
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/cRW1BHh3ozRQX-b_UUXv2A
+ingested: 2026-06-08
+sha256: 719e053144bf9ea08e1b5c14d5719d83664fdcafcde0e0c6c579fc09d1cf6991
 ---
 
 # 【低空实务】低空经济初创企业发展面临的主要困难与挑战及应对思路和实务建议

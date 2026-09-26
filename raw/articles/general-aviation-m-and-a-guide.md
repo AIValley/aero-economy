@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/no9CpS1Q3eUR0Rl4UAbHIQ
 ingested: 2026-06-08
-sha256: pending
+sha256: 2bd392eb8e8fdfd61cee090cabf8c5fd05a71cbc4701d4c1789bd86f11b0d72a
 ---
 
 # 并购通航企业核心关注事项与法律风险防控

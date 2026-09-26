@@ -5,6 +5,9 @@ title: 欧洲标准化委员会发布无人机、数据交易及建筑环境性�
 vault: aero-economy
 type: raw
 tags: [CEN, 无人机标准, EN 4709-001, 数据交易, 建筑环境]
+source_url: https://mp.weixin.qq.com/s/YyRKkfwkUewgPs6O6g1KzA
+ingested: 2026-07-03
+sha256: b895ab64a041105d4605e87e72eef3090fb1fb3f50b2dc950f270e00165f8803
 ---
 
 # 欧洲标准化委员会发布无人机、数据交易及建筑环境性能评估标准

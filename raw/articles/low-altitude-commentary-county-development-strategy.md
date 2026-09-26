@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/UfGHORLA9UpsRviZDqgNnA
 type: analysis
 series: 低空评论
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/UfGHORLA9UpsRviZDqgNnA
+ingested: 2026-06-08
+sha256: 8b73459b98270255526469c257515a89fde47a28dd26022df68222965df0f976
 ---
 
 # 【低空评论】我国县域低空经济发展的路径和策略——深圳市大鹏新区《若干措施》带来的启示

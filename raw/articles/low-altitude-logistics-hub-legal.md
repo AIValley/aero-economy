@@ -6,6 +6,9 @@ author: 磊律团队（张磊律师）
 vault: aero-economy
 category: legal
 tags: [低空经济, 低空物流枢纽, 法律合规, 空域管理, 数据安全, 适航三证, 运营合格证, 强制保险, 民用航空法2026]
+source_url: https://mp.weixin.qq.com/s/020-Ee5lD4S46sv5ANHbkQ
+ingested: 2026-07-13
+sha256: 730cfb2e407eead3990d81314387a7b34201b44e6974a458885f9f0b6677b2ed
 ---
 
 # 【实务经验】区域低空物流枢纽建设和运营过程中需关注的法律问题

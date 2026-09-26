@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/61G8aH2BHc_Ofi_dFPYmLg
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
 language: zh
+source_url: https://mp.weixin.qq.com/s/61G8aH2BHc_Ofi_dFPYmLg
+ingested: 2026-06-08
+sha256: eea28844b585edfdb6436b666c869d4b5258e44af6dadafb01fbbc0170bcb157
 ---
 
 外国投资者投资中华人民共和国境内（不含港澳台地区，下同）的低空经济项目机遇巨大，但也伴随着独特的挑战和严格的监管要求。根据多年的实务经验和行业观察，我们总结了以下外国投资者需要重点关注的事项，大致可分为宏观与准入、运营与合规、商业与风险三个层面。

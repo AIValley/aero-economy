@@ -10,6 +10,9 @@ part:
 tags: [低空经济, 利润池, eVTOL, 运营网络, 商业化, 投资框架]
 ingested_at: 2026-06-09
 language: zh
+source_url: https://mp.weixin.qq.com/s/T8dEA8zVt8GsErz5oFSDZQ
+ingested: 2026-06-09
+sha256: b0585982849f9b93f96a17cc431be4c3afbc8dc7b1ab0879d1265df1e887f61a
 ---
 
 # 低空经济：从无人机到eVTOL，谁能真正赚到钱？

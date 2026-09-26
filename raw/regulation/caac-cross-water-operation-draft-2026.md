@@ -6,13 +6,15 @@ type: regulation
 status: draft
 date: 2026-07-31
 ingested_at: 2026-08-03
-sha256: c2b86b1fe3e69c1fcbce3a6d66e0b832f54399d74f24a4ff29b80a81bfa3dcac
+sha256: 52e13d4f6451dd0ec8c6f9837fcc8ba2eafcd1ed311db78dfbdb983724cc481e
 tags: [民航局, 跨水运行, 延伸跨水运行, 信息通告, IB-FS-OPS, CCAR-121, 应急设备, 救生设备, 水上迫降, 征求意见稿, 飞行标准司, 低空经济]
 attachments:
   - url: https://www.caac.gov.cn/PHONE/HDJL/YJZJ/202607/P020260731342476021154.pdf
     name: 跨水运行（征求意见稿）.pdf
   - url: https://www.caac.gov.cn/PHONE/HDJL/YJZJ/202607/P020260731342476349910.doc
     name: 《跨水运行（征求意见稿）》意见反馈表.doc
+source_url: https://www.caac.gov.cn/PHONE/HDJL/YJZJ/202607/t20260731_231404.html
+ingested: 2026-07-31
 ---
 
 # 关于征求《跨水运行（征求意见稿）》意见的函

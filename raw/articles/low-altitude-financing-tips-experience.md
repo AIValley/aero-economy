@@ -1,3 +1,8 @@
+---
+source_url: https://mp.weixin.qq.com/s/ItMl1iCJnp5XvfQ_UBWnQA
+ingested: 2026-06-08
+sha256: c6c4833383aa7ee798b9769d32fad88e5ac63990fe23e9815be7ed574a8a8229
+---
 # 【低空经验】低空经济初创公司进行融资的经验和提示
 
 > 作者：张磊律师

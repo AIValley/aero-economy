@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/B0SPfn504ZKsH6V4qpuU6w
 ingested: 2026-06-08
-sha256: pending
+sha256: 8434587222437adbe7d3d12e56752bb789d56d5fbb741c2e75e96a9f955d4722
 ---
 
 # 创始人要不要接受对赌/股权回购条款？保护措施与谈判策略

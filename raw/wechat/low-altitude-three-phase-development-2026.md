@@ -5,6 +5,9 @@ author: "点击关注→"
 url: "https://mp.weixin.qq.com/s/A-D-n_l_L0RFn_QtiW4dZA"
 ingested_at: "2026-07-20"
 tags: [low-altitude-economy, caict, three-phase, 2027-2030-2035, evtol, airspace-reform]
+source_url: https://mp.weixin.qq.com/s/A-D-n_l_L0RFn_QtiW4dZA
+ingested: 2026-07-20
+sha256: 44c5b7cb32c43da0b4169922c55fe040b040931c6c90cec857ae14f18ed2acce
 ---
 
 # 局域→区域→规模 | 我国低空经济产业阶梯发展态势研究

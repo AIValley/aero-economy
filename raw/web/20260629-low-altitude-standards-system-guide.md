@@ -5,6 +5,8 @@ source_url: "https://mp.weixin.qq.com/s/Z3N0UEm0ZBnbOggJK0wHvg"
 date: 2026-06-29
 language: zh
 type: web
+ingested: 2026-06-29
+sha256: 637cfab8929760a18a1ccc079b770c19bc1bf54b46b211a554f9e6952425d32b
 ---
 
 最近发现一个有趣的现象，除了国家市场监管总局等多部委去年12月联合发布有《低空经济标准体系建设指南》以外，先后有11个省也发布低空经济标准建设体系指南，明确完整标准体系框架文件；另外有7个省份在低空产业规划政策文件中提及要"完善标准"。

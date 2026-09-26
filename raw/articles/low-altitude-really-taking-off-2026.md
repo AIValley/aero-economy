@@ -1,7 +1,7 @@
 ---
 source_url: https://mp.weixin.qq.com/s/UTx7GhMsbyJn1tM4d_mb4w
 ingested: 2026-06-11
-sha256: a556f1a796c10db15b49ff859c8ed4e1ae4bd583e0e4ee3db46011c0271f6bfb
+sha256: 6220fb51a037a794a7a90944671d01113ad18fe6853cf78b007344d54fe1ebf3
 author: 丶小二 (repost/aggregator)
 title: 低空经济真的开始"飞"了
 description: 低空经济宏观综述：新民航法2026.7.1实施、"扫码飞"模式、六城试点格局、企业量产进展、基础设施需求分析

@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/PO_dxC7NGds2vL_if019Eg
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/PO_dxC7NGds2vL_if019Eg
+ingested: 2026-06-08
+sha256: 32c60efa5fe262f9dcabcf134cfe8105e467366d1becb99cc26f4d3cedc6b3c3
 ---
 
 ## 案例：TENSOR AG 中国项目

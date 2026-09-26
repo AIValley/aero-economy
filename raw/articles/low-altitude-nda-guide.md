@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/SpqQWJPI8S8W_x9qotQqqg
 series: 磊律系列第50篇
 tags: [低空经济, 保密协议, NDA, 数据安全, 商业秘密, 法律合规]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/SpqQWJPI8S8W_x9qotQqqg
+ingested: 2026-06-08
+sha256: 6980860f4f0312f67cb0168fd1a69174af1a1948994cbaf292456dc839b29a49
 ---
 
 # 【低空经验】低空经济企业与合作方签署保密协议的重要性与注意事项

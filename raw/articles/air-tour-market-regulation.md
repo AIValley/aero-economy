@@ -5,6 +5,9 @@ source: 微信公众号
 url: https://mp.weixin.qq.com/s/LHQMmhicUiBWRWP72MKvjw
 series: 磊律低空经验系列
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/LHQMmhicUiBWRWP72MKvjw
+ingested: 2026-06-08
+sha256: bef47023ed22f1ebd3919f97e512504e7126c9eecc7e096a7f183e6c11fe3b69
 ---
 
 # 《空中游览市场管理暂行办法》解读 — 通航企业合规要点

@@ -6,6 +6,9 @@ url: https://mp.weixin.qq.com/s/OWzDL4woqgnfw0_oMovgpg
 series: 低空经济实务
 tags: [低空经济, 控制权, 两会一层, 公司治理, 创始人]
 ingested_at: 2026-06-08
+source_url: https://mp.weixin.qq.com/s/OWzDL4woqgnfw0_oMovgpg
+ingested: 2026-06-08
+sha256: f3dae50b455068fa1f9987e2f7509aef63bbce84ac516768a115eb545f23e571
 ---
 
 # 【低空实务】从"两会一层"保障创始人对低空经济公司控制权的实操要点

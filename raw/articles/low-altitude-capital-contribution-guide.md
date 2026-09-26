@@ -1,3 +1,8 @@
+---
+source_url: https://mp.weixin.qq.com/s/BO1iOlbDWQ1l8OMNX9A0eg
+ingested: 2026-06-08
+sha256: c54c229b781ceddaff3c5d4067a51ca7212494d4dd96da3ef2bf58bd1bd70915
+---
 # 【低空经验】注册成立低空经济公司时出资形式的选择和注意事项
 
 > 作者：张磊律师

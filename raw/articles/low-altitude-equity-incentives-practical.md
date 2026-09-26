@@ -7,6 +7,9 @@ ingest_date: 2026-06-08
 tags: [低空经济, 股权激励, 期权, RSU, 虚拟股权, 员工持股平台]
 series: 低空经验
 series_no: 14
+source_url: 低空经济法律事务团队
+ingested: 2026-06-08
+sha256: 81db4454bfeb52102469689dda6582f4b2b2f3feb9c04c0778659cd31eb12c1d
 ---
 
 <!-- Full article content - scraped from WeChat -->

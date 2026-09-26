@@ -11,6 +11,7 @@ url: https://www.court.gov.cn/zixun/xiangqing/508501.html
 ingested_at: 2026-08-13
 tags: [最高人民法院, 商业特许经营, 典型案例, 特许经营, 加盟连锁, 冷静期, 两店一年, 虚假宣传, 合同诈骗, 司法政策]
 sha256: f6a7244315be81e27a89a63ae843576af1dcd2c0c57cb973ee8ae8f33f0f323d
+ingested: 2026-08-12
 ---
 # 最高人民法院发布商业特许经营典型案例
 

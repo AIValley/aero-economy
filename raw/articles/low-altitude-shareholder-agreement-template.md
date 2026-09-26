@@ -1,3 +1,8 @@
+---
+source_url: https://mp.weixin.qq.com/s/FL22T6O2KmXRVrqVIG9yQQ
+ingested: 2026-06-08
+sha256: 457887e94059371706ca633eeed3ced213871cf0ad414eb144a50340836c76bb
+---
 # 【低空范本】低空经济公司股东协议（投资协议/创业协议）
 
 > 作者：张磊律师
