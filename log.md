@@ -1234,3 +1234,16 @@
 
 ## [2026-09-27] wiki-health | 批量健康修复（batch 2/3/3b/4/7）：① 18 个根目录内容页迁回 concepts/（index Total 180 对齐）；② 删除 1 行游离重复片段；③ 断链 10 条清零（1 条 raw 路径补全，9 条转纯文本并登记 ref/wanted-pages.md）；④ 零出链页面补链；⑤ 162 个 raw 文件回填 frontmatter 缺项 + 149 个失效哈希重算。
 - **Updated:** 2026-09-27
+
+## [2026-09-29] ingest | agricultural-mechanization-15th-fyp-low-altitude（农业机械化"十五五"规划 · 低空）
+- **Source:** https://mp.weixin.qq.com/s/PIFLBeYp6IS8ByvDcwdSBQ — 磊律（张磊律师低空经济法律团队）《【政策评论】《全国农业机械化发展"十五五"规划》涉低空内容全景梳理与深度解读》
+- **Raw:** `raw/wechat/agricultural-mechanization-15th-fyp-low-altitude-2026.md`（sha256 已校验 MATCH）
+- **引用追溯（2 份，均获官方源）:**
+  - `raw/policy/agricultural-mechanization-15th-fyp-2026.md` — 农业农村部+工信部《全国农业机械化发展"十五五"规划》原文（中国农业机械化信息网全文发布页 amic.agri.cn）
+  - `raw/policy/state-council-agricultural-rural-modernization-15th-fyp-2026.md` — 国务院《加快农业农村现代化"十五五"规划》（国发〔2026〕14号，gov.cn）
+- **Concept:** `concepts/agricultural-mechanization-15th-fyp-low-altitude.md`（解读页，5 条 wikilink）+ `concepts/agricultural-mechanization-15th-fyp-policy.md`（政策原文页）；按"同题多来源"规则**增强** `concepts/low-altitude-economy-rural-five-models.md`（补该规划独立小节），未新建重复页
+- **Tags:** 低空经济, 农业机械化, 十五五, 农用无人机, 丘陵山区, 吊装吊运, 政策, 磊律系列
+- **Related:** [[low-altitude-economy-rural-five-models]], [[low-altitude-economy-project-cooperation-risk]], [[low-altitude-2026-policy-landscape]], [[guangzhou-vertiport-technical-guide]], [[low-altitude-national-pillar-industry-guide]]
+- **备注:** 文件于 2026-10-02 由 auto-commit 提交（8617fe7），但 index/log 登记遗漏；2026-10-07 补齐 index 2 条 + Total pages 180→182 + 本记录，并回填 2 个 raw 的 `ingested` 字段
+- **Updated:** `index.md` — Concepts 新增 [[agricultural-mechanization-15th-fyp-low-altitude]]、[[agricultural-mechanization-15th-fyp-policy]]
+

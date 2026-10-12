@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-27 | Total pages: 180
+> Last updated: 2026-10-07 | Total pages: 182
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -17,6 +17,8 @@
 - [[low-altitude-economy-june-2026-overview]] — 2026低空经济全维度盘点：市场1.06万亿/+33.8%/300万人就业；空域审批改备案制；亿航载客/西岛物流/海油运维6大标杆；六大理念/六大赛道/六种盈利/六大刚需
 - [[low-altitude-economy-project-cooperation-risk]] — 低空经济项目合作风险实务：四维关注仪表盘（政策合规/技术运营/商业模式/合作伙伴）+五大陷阱警示+三层面建议；磊律实务经验
 - [[low-altitude-economy-rural-five-models]] — 低空经济进乡村五大模式：智慧农业(濮阳无人农场降本80%)/乡村物流/低空文旅(芜湖村集体保底10万)/乡村治理/公共服务；国务院十五五首设量化目标35万架/35亿亩次；8省升级省级战略；三类机会
+- [[agricultural-mechanization-15th-fyp-low-altitude]] — 农业机械化"十五五"规划涉低空条款全景解读（磊律）：低空经济首以"独立专栏+专门条款"双重形式嵌入农机五年规划；10条涉低空条款梳理（专栏1-04装备攻关/第九条低空经济专章/第二十条安全合规/专栏5-05充换电/专栏4-04北斗）+四大模块深读+三类行动参考；2030年无人机农业作业超35亿亩次、丘陵山区吊装吊运规模化
+- [[agricultural-mechanization-15th-fyp-policy]] — 《全国农业机械化发展"十五五"规划》政策原文（农业农村部+工信部联合印发，2026-09-09）：农业低空作业及吊运装备列入四大标志性攻关方向；"低空+田间作业/吊装转运/生产服务"三大场景；丘陵山区"上山难、下山难"装备使命；起降平台与充换电桩基建部署
 - [[ai-transportation-low-altitude-opportunities]] — 七部门《人工智能+交通运输实施意见》低空经济商业机会解读
 - [[anhui-low-altitude-action-plan]] — 安徽"低空+"行动方案(2026-2028)：三先三后原则定义场景优先级(植保→物流→eVTOL)；行业四象限+三张清单；财政纪律约束；2028目标运营企业300家/飞行500万小时/示范场景100个
 - [[state-council-ai-plus-low-altitude]] — 国务院《"人工智能+"行动意见》四影响：智能化升级/场景拓展/安全治理/标准生态
