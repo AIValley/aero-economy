@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-10-07 | Total pages: 182
+> Last updated: 2026-10-29 | Total pages: 183
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -15,6 +15,7 @@
 - [[low-altitude-airspace-governance-study]] — 专业深度稿：低空空域三层治理架构（战略/属地/应用）+UTM系统四大模块+三大商业业态合规框架+风险闭环防控体系；天集低空产业网
 - [[low-altitude-economy-airspace-security-special-apps]] — 低空经济下半场三大底层刚需赛道：低空安防（四维感知+分级处置+四大场景）、空域管控（分钟级审批+数字孪生+分层标准+全生命周期溯源）、特种低空应用（边防/应急/军警/工业特种作业）；丰临未来
 - [[low-altitude-economy-june-2026-overview]] — 2026低空经济全维度盘点：市场1.06万亿/+33.8%/300万人就业；空域审批改备案制；亿航载客/西岛物流/海油运维6大标杆；六大理念/六大赛道/六种盈利/六大刚需
+- [[low-altitude-economy-ten-trends-2026]] — **2026 低空经济十大趋势（年度盘面 / 轴心页）**：据融中咨询 26 页报告（2026-09，孙毅颂）转述；政策三级跳、2025 融资 211 件/214 亿、2026 1–8 月 295 亿、电池 285→400Wh/kg、载人飞控国产化仅 25%、飞控芯片 90% 进口；**附 2026-10-29 一手校正**：民航法「首次明确无人机法律属性」与「十五五六大任务」两项**不成立**，GB 46860 实为 2027-01-01 实施，CAGR 20% 与 eVTOL 65% 均系区间混用
 - [[low-altitude-economy-project-cooperation-risk]] — 低空经济项目合作风险实务：四维关注仪表盘（政策合规/技术运营/商业模式/合作伙伴）+五大陷阱警示+三层面建议；磊律实务经验
 - [[low-altitude-economy-rural-five-models]] — 低空经济进乡村五大模式：智慧农业(濮阳无人农场降本80%)/乡村物流/低空文旅(芜湖村集体保底10万)/乡村治理/公共服务；国务院十五五首设量化目标35万架/35亿亩次；8省升级省级战略；三类机会
 - [[agricultural-mechanization-15th-fyp-low-altitude]] — 农业机械化"十五五"规划涉低空条款全景解读（磊律）：低空经济首以"独立专栏+专门条款"双重形式嵌入农机五年规划；10条涉低空条款梳理（专栏1-04装备攻关/第九条低空经济专章/第二十条安全合规/专栏5-05充换电/专栏4-04北斗）+四大模块深读+三类行动参考；2030年无人机农业作业超35亿亩次、丘陵山区吊装吊运规模化
